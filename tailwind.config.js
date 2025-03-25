@@ -1,5 +1,6 @@
 module.exports = {
   content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
@@ -9,7 +10,8 @@ module.exports = {
         },
         slate: {
           50: '#f8fafc',
-          800: '#1e293b'
+          800: '#1e293b',
+          900: '#0f172a'
         }
       }
     }
