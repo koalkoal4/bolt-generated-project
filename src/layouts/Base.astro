@@ -16,9 +16,9 @@ const { title } = Astro.props;
     }
   </script>
 </head>
-<body class="bg-gradient-to-b from-slate-50 to-blue-50 dark:from-slate-900 dark:to-slate-800 flex flex-col min-h-screen">
+<body class="bg-gradient-to-b from-slate-50 to-blue-50 dark:from-slate-900 dark:to-slate-800 flex flex-col min-h-screen text-slate-900 dark:text-slate-200"> {/* Added default text colors */}
   <!-- Navigation Bar -->
-  <nav class="bg-white dark:bg-slate-800 shadow-sm">
+  <nav class="bg-white dark:bg-slate-800 shadow-sm sticky top-0 z-50"> {/* Made nav sticky */}
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex justify-between h-16 items-center">
         <div class="flex items-center">
@@ -27,36 +27,23 @@ const { title } = Astro.props;
           </a>
           <div class="hidden md:flex items-center ml-8 space-x-4">
             <a href="/" class="px-3 py-2 rounded-md text-sm font-medium text-slate-700 hover:text-blue-600 dark:text-slate-200 dark:hover:text-blue-400 transition-colors">Home</a>
-            <div class="relative group">
-              <button class="px-3 py-2 rounded-md text-sm font-medium text-slate-700 hover:text-blue-600 dark:text-slate-200 dark:hover:text-blue-400 transition-colors flex items-center">
-                Blog
-                <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-                </svg>
-              </button>
-              <div class="absolute hidden group-hover:block pt-2 w-48">
-                <div class="bg-white dark:bg-slate-700 rounded-lg shadow-lg py-1">
-                  <a href="/posts/puppy-socialization" class="block px-4 py-2 text-sm text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-600">Puppy Socialization</a>
-                  <a href="/posts/leash-training" class="block px-4 py-2 text-sm text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-600">Leash Training</a>
-                  <a href="/posts/first-post" class="block px-4 py-2 text-sm text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-600">Basic Obedience</a>
-                </div>
-              </div>
-            </div>
+            {/* Changed Blog from dropdown to direct link */}
+            <a href="/blog" class="px-3 py-2 rounded-md text-sm font-medium text-slate-700 hover:text-blue-600 dark:text-slate-200 dark:hover:text-blue-400 transition-colors">Blog</a>
             <a href="/about" class="px-3 py-2 rounded-md text-sm font-medium text-slate-700 hover:text-blue-600 dark:text-slate-200 dark:hover:text-blue-400 transition-colors">About</a>
             <a href="/contact" class="px-3 py-2 rounded-md text-sm font-medium text-slate-700 hover:text-blue-600 dark:text-slate-200 dark:hover:text-blue-400 transition-colors">Contact</a>
           </div>
         </div>
 
         <div class="flex items-center space-x-4">
-          <button id="mobile-menu-button" class="md:hidden p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
+          <button id="mobile-menu-button" class="md:hidden p-2 rounded-lg text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
             </svg>
           </button>
           
-          <!-- Complete Theme Toggle Button -->
-          <button id="theme-toggle" class="p-2 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 hidden dark:block text-white">
+          {/* Complete Theme Toggle Button */}
+          <button id="theme-toggle" class="p-2 rounded-lg text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 hidden dark:block">
               <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"/>
             </svg>
             <svg class="w-6 h-6 block dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -67,25 +54,14 @@ const { title } = Astro.props;
       </div>
     </div>
 
-    <!-- Mobile Menu -->
-    <div id="mobile-menu" class="hidden md:hidden absolute w-full bg-white dark:bg-slate-800 shadow-lg">
+    {/* Mobile Menu */}
+    <div id="mobile-menu" class="hidden md:hidden absolute w-full bg-white dark:bg-slate-800 shadow-lg border-t border-slate-200 dark:border-slate-700"> {/* Added border */}
       <div class="px-2 pt-2 pb-3 space-y-1">
-        <a href="/" class="block px-3 py-2 text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700">Home</a>
-        <div class="relative">
-          <button id="mobile-blog-toggle" class="w-full px-3 py-2 text-left text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 flex justify-between items-center">
-            Blog
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-            </svg>
-          </button>
-          <div id="mobile-blog-menu" class="hidden pl-4">
-            <a href="/posts/puppy-socialization" class="block px-3 py-2 text-sm text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-600">Puppy Socialization</a>
-            <a href="/posts/leash-training" class="block px-3 py-2 text-sm text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-600">Leash Training</a>
-            <a href="/posts/first-post" class="block px-3 py-2 text-sm text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-600">Basic Obedience</a>
-          </div>
-        </div>
-        <a href="/about" class="block px-3 py-2 text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700">About</a>
-        <a href="/contact" class="block px-3 py-2 text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700">Contact</a>
+        <a href="/" class="block px-3 py-2 rounded-md text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700">Home</a>
+        {/* Changed Blog from dropdown to direct link */}
+        <a href="/blog" class="block px-3 py-2 rounded-md text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700">Blog</a>
+        <a href="/about" class="block px-3 py-2 rounded-md text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700">About</a>
+        <a href="/contact" class="block px-3 py-2 rounded-md text-base font-medium text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700">Contact</a>
       </div>
     </div>
   </nav>
@@ -94,19 +70,21 @@ const { title } = Astro.props;
     <slot />
   </main>
 
-  <!-- Restored Footer -->
-  <footer class="bg-slate-800 dark:bg-slate-900 text-white">
+  {/* Footer */}
+  <footer class="bg-slate-800 dark:bg-slate-900 text-slate-300 dark:text-slate-400"> {/* Adjusted footer text colors */}
     <div class="max-w-6xl mx-auto px-4 py-12 sm:px-6 lg:px-8">
       <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
-          <h3 class="text-lg font-semibold mb-4 dark:text-slate-200">Training Guides</h3>
+          <h3 class="text-lg font-semibold mb-4 text-white dark:text-slate-200">Training Guides</h3>
           <ul class="space-y-2">
-            <li><a href="/posts/puppy-socialization" class="hover:text-blue-300 dark:hover:text-blue-400 transition-colors">Puppy Socialization</a></li>
-            <li><a href="/posts/leash-training" class="hover:text-blue-300 dark:hover:text-blue-400 transition-colors">Leash Training</a></li>
+					  <li><a href="/blog" class="hover:text-blue-300 dark:hover:text-blue-400 transition-colors">All Posts</a></li>
+            <li><a href="/posts/post1" class="hover:text-blue-300 dark:hover:text-blue-400 transition-colors">Basic Training Guide</a></li>
+            {/* Add other specific post links if desired, or link to /blog */}
+             
           </ul>
         </div>
         <div>
-          <h3 class="text-lg font-semibold mb-4 dark:text-slate-200">Resources</h3>
+          <h3 class="text-lg font-semibold mb-4 text-white dark:text-slate-200">Resources</h3>
           <ul class="space-y-2">
             <li><a href="/about" class="hover:text-blue-300 dark:hover:text-blue-400 transition-colors">About Us</a></li>
             <li><a href="/contact" class="hover:text-blue-300 dark:hover:text-blue-400 transition-colors">Contact</a></li>
@@ -115,17 +93,17 @@ const { title } = Astro.props;
           </ul>
         </div>
         <div class="md:col-span-2">
-          <h3 class="text-lg font-semibold mb-4 dark:text-slate-200">Newsletter</h3>
-          <form class="flex gap-2">
+          <h3 class="text-lg font-semibold mb-4 text-white dark:text-slate-200">Newsletter</h3>
+          <form class="flex flex-col sm:flex-row gap-2"> {/* Adjusted layout for smaller screens */}
             <input type="email" placeholder="Enter your email" 
-                   class="flex-1 px-4 py-2 rounded-lg text-gray-900 dark:bg-slate-700 dark:text-white dark:placeholder-slate-400 dark:border-slate-600">
-            <button class="bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 dark:hover:bg-blue-800 px-6 py-2 rounded-lg transition-colors">
+                   class="flex-1 px-4 py-2 rounded-lg text-gray-900 dark:bg-slate-700 dark:text-white dark:placeholder-slate-400 border border-slate-300 dark:border-slate-600 focus:ring-blue-500 focus:border-blue-500">
+            <button class="bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 dark:hover:bg-blue-800 text-white px-6 py-2 rounded-lg transition-colors">
               Subscribe
             </button>
           </form>
         </div>
       </div>
-      <div class="border-t border-slate-700 dark:border-slate-600 mt-8 pt-8 text-center text-slate-400 dark:text-slate-500">
+      <div class="border-t border-slate-700 dark:border-slate-600 mt-8 pt-8 text-center text-sm text-slate-400 dark:text-slate-500"> {/* Adjusted font size */}
         <p>© 2025 TrainedTails.com - All rights reserved</p>
       </div>
     </div>
@@ -133,33 +111,38 @@ const { title } = Astro.props;
 
   <script>
     // Theme toggle
-    document.getElementById('theme-toggle').addEventListener('click', () => {
-      const html = document.documentElement;
-      html.classList.toggle('dark');
-      localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
+    const themeToggle = document.getElementById('theme-toggle');
+    const htmlEl = document.documentElement;
+
+    themeToggle.addEventListener('click', () => {
+      const isDark = htmlEl.classList.toggle('dark');
+      localStorage.setItem('theme', isDark ? 'dark' : 'light');
     });
 
     // Mobile menu toggle
     const mobileMenuButton = document.getElementById('mobile-menu-button');
     const mobileMenu = document.getElementById('mobile-menu');
-    const mobileBlogToggle = document.getElementById('mobile-blog-toggle');
-    const mobileBlogMenu = document.getElementById('mobile-blog-menu');
+    // Removed mobile blog toggle/menu variables as they are no longer needed
 
-    mobileMenuButton.addEventListener('click', () => {
+    mobileMenuButton.addEventListener('click', (e) => {
+      e.stopPropagation(); // Prevent click from closing menu immediately
       mobileMenu.classList.toggle('hidden');
-    });
-
-    mobileBlogToggle.addEventListener('click', () => {
-      mobileBlogMenu.classList.toggle('hidden');
     });
 
     // Close menu when clicking outside
     document.addEventListener('click', (e) => {
       if (!mobileMenu.contains(e.target) && !mobileMenuButton.contains(e.target)) {
         mobileMenu.classList.add('hidden');
-        mobileBlogMenu.classList.add('hidden');
       }
     });
+
+    // Close menu on link click (optional, good UX)
+    mobileMenu.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+         mobileMenu.classList.add('hidden');
+      });
+    });
+
   </script>
 </body>
 </html>

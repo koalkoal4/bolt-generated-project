@@ -12,18 +12,21 @@ const posts = await Astro.glob('./posts/*.md');
 
     <div class="grid gap-6 sm:gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
       {posts.map(post => (
-        <article class="bg-white dark:bg-slate-800 rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow">
-          <img src={post.frontmatter.image} alt="" class="w-full h-48 object-cover" />
-          <div class="p-4 sm:p-6">
+        <article class="bg-white dark:bg-slate-800 rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow flex flex-col"> {/* Added flex flex-col */}
+          {post.frontmatter.image && ( /* Check if image exists */
+            <a href={post.url} class="block"> {/* Make image clickable */}
+              <img src={post.frontmatter.image} alt={post.frontmatter.title + " preview"} class="w-full h-48 object-cover" loading="lazy" />
+            </a>
+          )}
+          <div class="p-4 sm:p-6 flex flex-col flex-grow"> {/* Added flex flex-col flex-grow */}
             <time class="text-sm text-slate-500 dark:text-slate-400">{new Date(post.frontmatter.date).toLocaleDateString()}</time>
-            <h2 class="text-xl sm:text-2xl font-semibold mt-2 mb-3 dark:text-white">
+            <h2 class="text-xl sm:text-2xl font-semibold mt-2 mb-3 flex-grow dark:text-white"> {/* Added flex-grow */}
               <a href={post.url} class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">{post.frontmatter.title}</a>
             </h2>
             <p class="text-slate-600 dark:text-slate-300 mb-4 text-sm sm:text-base">{post.frontmatter.description}</p>
-            <div class="flex flex-wrap gap-2">
-              {post.frontmatter.tags?.map(tag => (
-                <span class="px-3 py-1 bg-slate-100 dark:bg-slate-700 rounded-full text-xs sm:text-sm dark:text-slate-200">{tag}</span>
-              ))}
+            {/* Removed the tags section */}
+            <div class="mt-auto"> {/* Push link to bottom */}
+               <a href={post.url} class="text-blue-600 dark:text-blue-400 hover:underline text-sm font-medium">Read more →</a>
             </div>
           </div>
         </article>
