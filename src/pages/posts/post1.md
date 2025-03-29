@@ -3,7 +3,7 @@ layout: ../../layouts/Post.astro  # <-- Add this line
 title: "What Is Basic Dog Training? My Guide to Building a Great Bond" 
 description: "Let's explore basic dog training together! I'll share essential commands, practical tips, and why positive methods are key to building a strong, trusting relationship with your dog."
 date: 2025-03-29 
-image: "/images/1.jpg"  
+image: <img src="/Public/Images/1.jpg" /> 
 tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "dog training tips"]
 ---
 
