@@ -3,7 +3,7 @@ layout: ../../layouts/Post.astro
 title: "Location, Location, Location: Choosing the Best Dog Training Environment"
 description: "Set your dog up for training success! Learn why the environment matters so much, how to start low-distraction, gradually proof behaviors, and choose the perfect spot for any goal."
 date: 2025-03-31
-image: "/assets/images/environment-main.jpg" # Primary image for layout
+image: "/assets/images/1.jpg" # Primary image for layout
 tags: ["dog training environment", "where to train my dog", "dog training distractions", "puppy training locations", "dog training focus", "proofing dog training", "dog training setup"]
 ---
 
@@ -12,8 +12,6 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
   Hey training enthusiasts! We spend so much time thinking about *what* to teach our dogs and *how* to teach it – the methods, the rewards, the cues. But have you ever stopped to think deeply about *where* you're training? I know when I first started, I made the classic mistake of trying to teach complex new skills in the middle of a busy park. Spoiler alert: it didn't go well! The training environment isn't just a backdrop; it's an active participant in the learning process. Choosing the right 'classroom' for your dog at each stage of their learning journey is absolutely critical for building focus, ensuring safety, managing stress, and ultimately, achieving reliable results. Let’s explore how to pick the perfect spot for success.
 </p>
-
-<img src="/assets/images/environment1.jpg" alt="Dog focusing intently on owner in a quiet indoor training environment." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">The Power of Place: Why Environment Shapes Learning</h3>
 
@@ -66,7 +64,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
   The goal here is success! Build that foundation of understanding before you add challenges.
 </p>
 
-<img src="/assets/images/environment2.jpg" alt="Dog practicing stay command in a quiet, fenced backyard." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/2.jpg" alt="Dog practicing stay command in a quiet, fenced backyard." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <section class="space-y-8 my-12">
   <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Level Up! Gradually Increasing Distractions (Proofing)</h1>
@@ -137,7 +135,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
   </ul>
 </p>
 
-<img src="/assets/images/environment3.jpg" alt="Dog practicing loose-leash walking on a quiet neighborhood sidewalk." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/3.jpg" alt="Dog practicing loose-leash walking on a quiet neighborhood sidewalk." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">My Checklist: Evaluating a Potential Training Spot</h3>
