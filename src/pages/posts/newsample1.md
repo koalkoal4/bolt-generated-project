@@ -3,7 +3,7 @@ layout: ../../layouts/Post.astro
 title: "Smart Rewards: Using Treats Effectively in Dog Training (It's Not Bribery!)" # From user's text
 description: "Learn the art and science of using treats and rewards effectively in dog training. Master timing, value, and different reward types to build motivation and a strong bond." # Updated Description
 date: 2025-04-01 # Updated Date
-image: "/assets/images/1.jpg" # Retained from previous structure
+image: "/assets/images/12.jpg" # Retained from previous structure
 tags: ["dog training treats", "dog rewards", "positive reinforcement", "high value treats", "fading treats", "dog training tips", "reward based training", "dog motivation"] # Retained tags
 ---
 
