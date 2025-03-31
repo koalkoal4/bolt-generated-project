@@ -64,7 +64,6 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
         Stand in front of your pooch and show them you have a treat in your hand.
       </p>
     </div>
-
     <!-- Step 2 -->
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
@@ -75,7 +74,6 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
         Move the treat from the end of your pup’s nose and over their head.
       </p>
     </div>
-
     <!-- Step 3 -->
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
@@ -86,7 +84,6 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
         As their head follows the treat, their bottom should touch the floor. Mark and reward them when this happens.
       </p>
     </div>
-
     <!-- Step 4 -->
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
@@ -97,7 +94,6 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
         Once your pooch has the hang of this, repeat the above steps but without the treat in your hand. Remember to still mark and reward when they sit.
       </p>
     </div>
-
     <!-- Step 5 -->
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
@@ -108,7 +104,6 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
         When your pup is reliably sitting, introduce your verbal cue. Say “sit”, then use your hand gesture. Mark and reward when they succeed.
       </p>
     </div>
-
     <!-- Step 6 -->
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
