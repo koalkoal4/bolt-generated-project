@@ -3,7 +3,7 @@ layout: ../../layouts/Post.astro
 title: "Smart Rewards: Using Treats Effectively in Dog Training (It's Not Bribery!)"
 description: "Go beyond just handing out snacks! Learn how to use treats and other rewards effectively in dog training with tips on timing, value, types of rewards, common mistakes, and fading lures."
 date: 2025-03-31
-image: "/assets/images/treats-main.jpg" # Primary image for layout
+image: "/assets/images/1.jpg" # Primary image for layout
 tags: ["dog training treats", "dog rewards", "positive reinforcement", "high value treats", "fading treats", "dog training tips", "reward based training", "dog motivation", "internal linking"] # Added tag
 ---
 
@@ -13,7 +13,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
   Let's be honest, who doesn't love seeing their dog's eyes light up at the sight (or sound!) of a treat bag? Food rewards are incredibly motivating for most dogs, making them a fantastic tool in our training toolkit. But here's something I learned early on: just tossing treats at your dog isn't effective training. I definitely went through a phase where I felt like a walking treat dispenser, bribing my dog for every little thing! True reward-based training is much more nuanced. It's about understanding *why* rewards work, knowing *what* motivates your individual dog (it's not always food!), mastering your *timing*, and strategically using rewards to clearly communicate what you want. It’s about building motivation and a positive association with learning, often starting with <a href="https://trainedtails.com/posts/basic-dog-training" class="text-emerald-600 dark:text-emerald-400 hover:underline">basic dog training</a> principles, not just creating a snack-dependent pup.
 </p>
 
-<img src="/assets/images/treats1.jpg" alt="Close-up of a hand giving a small training treat to an attentive dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/1.jpg" alt="Close-up of a hand giving a small training treat to an attentive dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">The Science Bit: Why Positive Reinforcement Works Wonders</h3>
 
@@ -78,7 +78,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
   Not all rewards are created equal in your dog's eyes, and not all situations warrant the "good stuff." Think about it like a paycheck: you expect more for a difficult job than an easy one. Similarly, use lower-value rewards (like kibble or a simple "Good dog") for easy tasks in quiet environments or for behaviors your dog knows well. Reserve those high-value rewards (the ones your dog would walk over hot coals for!) for <a href="https://trainedtails.com/posts/right-training-enviroment" class="text-emerald-600 dark:text-emerald-400 hover:underline">challenging situations</a>: learning a brand new skill, working around significant distractions (like practicing recall in the park), or rewarding a truly stellar performance. Trying to get your dog to come away from chasing a squirrel for a piece of dry kibble probably won't work; offering a piece of cooked chicken might! Adjust the reward value based on the difficulty and environment to keep your dog motivated.
 </p>
 
-<img src="/assets/images/treats2.jpg" alt="Dog happily playing tug with owner as a training reward." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/1.jpg" alt="Dog happily playing tug with owner as a training reward." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Common Reward Mistakes I See (And Have Made!)</h3>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
