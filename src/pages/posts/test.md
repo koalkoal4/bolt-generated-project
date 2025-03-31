@@ -60,7 +60,6 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
   Whenever you’re teaching a completely new skill, or have a new puppy or dog, always, always begin in a low-distraction environment. You want your dog to understand as easily and as clearly as possible what is being asked of him. Like putting everything on Easy Mode! 
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
-  {/* Removed "Good starting points include:" as requested by removing the paragraph tag here in user code */}
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8 not-prose">
@@ -97,7 +96,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
 <img src="/assets/images/5.jpg" alt="Dog practicing stay command in a quiet, fenced backyard." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Level Up! Step 2: Gradually Adding Distractions (Proofing)</h1> 
+  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Level Up!  Gradually Increasing Distractions (Proofing)</h1> 
    <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     The next critical phase, once your dog knows a behaviour reliably in a quiet zone is to start ‘proofing’ it – getting them to do it with distractions. It has to be done step by step! Plopping them in the deep end (like that crowded park I talked about!) will almost certainly guarantee failure and frustration. To approach it, think of yourself as climbing a ladder, a rung at a time. Here’s an example of a process I might go through: 
   </p>
@@ -150,7 +149,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
     </div>
   </div>
 </section>
-<h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Environment matches your training goal</h3> 
+<h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Matching the Environment to Your Training Goal</h3> 
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
   Different types of training can use different contexts. Once your dog has understanding of the behavior, you’ll want to practice in spaces that are relevant to where you want the behavior to happen: 
@@ -163,7 +162,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.627 48.627 0 0 1 12 20.904a48.627 48.627 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.57 50.57 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5" /></svg>
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">New Skills</h4> 
-     <p class="text-sm text-slate-600 dark:text-slate-300">Applies only to low-distraction (indoors/quiet yard)</p> 
+     <p class="text-sm text-slate-600 dark:text-slate-300">Always start low-distraction (indoors/quiet yard)</p> 
   </div>
 
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
@@ -171,7 +170,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.31h5.518a.563.563 0 0 1 .32.959l-4.475 3.201a.563.563 0 0 0-.186.519l1.7 5.309a.562.562 0 0 1-.812.622l-4.475-3.201a.563.563 0 0 0-.574 0l-4.475 3.201a.562.562 0 0 1-.812-.622l1.7-5.309a.563.563 0 0 0-.186-.519l-4.475-3.201a.563.563 0 0 1 .32-.959h5.518a.563.563 0 0 0 .475-.31l2.125-5.11Z" /></svg>
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Leash Manners</h4> 
-     <p class="text-sm text-slate-600 dark:text-slate-300">Needs work on real streets. Start quiet, then get busier.</p> 
+     <p class="text-sm text-slate-600 dark:text-slate-300">Needs practice on actual sidewalks. Start on your quiet street, then progress to slightly busier ones</p> 
   </div>
 
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
@@ -179,8 +178,8 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" /></svg>
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Solid Recall</h4> 
-     <p class="text-sm text-slate-600 dark:text-slate-300">Must be proofed! Use fenced/long-line and pick out distractions little by little</p> 
-      <p class="text-xs text-slate-500 dark:text-slate-400 mt-1">Involved check-ins were rewarded for weeks first.</p> 
+     <p class="text-sm text-slate-600 dark:text-slate-300">Must be proofed around distractions! Start in fenced areas, use a long line in open (but safe) spaces, and gradually introduce things like other dogs (at a distance!), people, or toys</p> 
+      <p class="text-xs text-slate-500 dark:text-slate-400 mt-1"> I spent weeks just rewarding check-ins on a long line in different park corners before expecting a recall past major distractions</p> 
   </div>
 
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
@@ -202,7 +201,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
 </div>
 <img src="/assets/images/2.jpg" alt="Dog practicing loose-leash walking on a quiet neighborhood sidewalk." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
-<h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">My Personal Being-a-Trainee Evaluation Check-list</h3>  (Removed misplaced sentence after this)
+<h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">My Checklist: Evaluating a Potential Training Spot</h3> 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
   Before I set up a session in a new place, I run rapidly through a mental checklist: 
 </p>
