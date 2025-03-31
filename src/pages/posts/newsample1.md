@@ -22,7 +22,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
   Consider it straight talk; having the treat/reward basically says to your dog, “Yes! That thing you just did? That is just what I wanted!” Used properly, it’s not bribery; it’s payment for work done well, awarded once the hard work is done. This works much better at changing behaviour and building a trusting, co-operative relationship, rather than one based purely on avoiding pain. 
 </p>
 
-<img src="/assets/images/1.jpg" alt="Close-up of a hand giving a small training treat to an attentive dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/13.jpg" alt="Close-up of a hand giving a small training treat to an attentive dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">What Your Dog’s Salary: Different Kinds of Rewards</h3> 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
@@ -78,7 +78,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
   You wouldn’t give a dog “the good stuff” in every situation. Consider it like a paycheck: You get more for a hard job than an easy one. Conversely, mark easy behaviors in low-distraction environments or behaviors your dog has mastered with lower-value rewards (kibble or a simple “Good dog”). Save this high-value rewards (the kind your dog would walk on hot coals for!) for tough circumstances: learning an entirely new skill, dealing with major distractions (e.g., <a href="https://trainedtails.com/posts/right-training-enviroment" class="text-emerald-600 dark:text-emerald-400 hover:underline">doing recall in the park</a>), or reinforcing a particularly excellent effort. Good luck getting your dog to leave a squirrel chase for a piece of dry kibble, but you might get his attention with a piece of leftover cooked chicken! Calibrate the reward value to fickleness depending on the difficulty and the environment to keep your dog motivated  
 </p>
 
-<img src="/assets/images/1.jpg" alt="Dog happily playing tug with owner as a training reward." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/14.jpg" alt="Dog happily playing tug with owner as a training reward." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Mistakes Made Commonly with Rewards (And I Have Made All of These!)</h3> 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
