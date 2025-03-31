@@ -55,18 +55,49 @@ tags: ["dog training consistency", "consistent dog training", "dog behavior", "p
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">The Slippery Slope: When Inconsistency Creeps In</h3>
 
-<p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-6"> {/* Adjusted margin */}
   We've all been there. You're tired after a long day, and you let the leash-pulling slide just this once. Or visitors come over, and the "no dogs on the furniture" rule gets forgotten. It happens! But consistent inconsistency (if that makes sense!) is where problems arise. I remember trying to teach a reliable 'Stay' but sometimes letting my dog break early if I was distracted. The result? A 'Stay' that was more of a suggestion than a reliable command.
 </p>
-<p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-  Inconsistency leads to:
-  <ul class="list-disc list-inside ml-4 text-lg text-slate-600 dark:text-slate-300 space-y-2 mb-4">
-      <li><strong>Confusion & Anxiety:</strong> The dog doesn't know what's expected.</li>
-      <li><strong>Slowed Learning:</strong> It takes much longer to train a behavior.</li>
-      <li><strong>Unreliable Behaviors:</strong> Commands only work "sometimes."</li>
-      <li><strong>Frustration (Yours & Theirs!):</strong> Training feels like a constant battle.</li>
-      <li><strong>Erosion of Trust:</strong> Predictability builds trust; inconsistency can weaken it.</li>
-  </ul>
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-4"> {/* Added paragraph before the boxes */}
+  Inconsistency often leads to:
+</p>
+
+<div class="space-y-4 mb-8 not-prose"> {/* Wrapper with spacing and not-prose */}
+  
+  <div class="p-4 rounded-lg border-l-4 border-orange-500 bg-orange-50 dark:bg-slate-800 dark:border-orange-600">
+    <p class="text-slate-700 dark:text-slate-200"> {/* Adjusted text color slightly for bg */}
+      <strong>Confusion & Anxiety:</strong> The dog doesn't know what's expected.
+    </p>
+  </div>
+  
+  <div class="p-4 rounded-lg border-l-4 border-orange-500 bg-orange-50 dark:bg-slate-800 dark:border-orange-600">
+    <p class="text-slate-700 dark:text-slate-200">
+      <strong>Slowed Learning:</strong> It takes much longer to train a behavior.
+    </p>
+  </div>
+  
+  <div class="p-4 rounded-lg border-l-4 border-orange-500 bg-orange-50 dark:bg-slate-800 dark:border-orange-600">
+    <p class="text-slate-700 dark:text-slate-200">
+      <strong>Unreliable Behaviors:</strong> Commands only work "sometimes."
+    </p>
+  </div>
+  
+  <div class="p-4 rounded-lg border-l-4 border-orange-500 bg-orange-50 dark:bg-slate-800 dark:border-orange-600">
+    <p class="text-slate-700 dark:text-slate-200">
+      <strong>Frustration (Yours & Theirs!):</strong> Training feels like a constant battle.
+    </p>
+  </div>
+  
+  <div class="p-4 rounded-lg border-l-4 border-orange-500 bg-orange-50 dark:bg-slate-800 dark:border-orange-600">
+    <p class="text-slate-700 dark:text-slate-200">
+      <strong>Erosion of Trust:</strong> Predictability builds trust; inconsistency can weaken it.
+    </p>
+  </div>
+
+</div> 
+{/* End of visually enhanced list */}
+
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-8"> 
   It's not about being a rigid robot, but about providing clarity your dog can rely on.
 </p>
 
