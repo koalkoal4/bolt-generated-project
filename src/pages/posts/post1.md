@@ -51,7 +51,7 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
 <img src="/assets/images/2.jpg" alt="Happy dog and owner bonding during a training exercise" class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" /> 
 
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">My Dog Training Methodology</h1>
+  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">My Favorite Getting Started Tips</h1>
 
   <div class="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-10">
     <!-- Step 1 -->
@@ -61,7 +61,7 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
       </div>
       <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Positive Reinforcement</h2>
       <p class="text-lg text-slate-600 dark:text-slate-300">
-        This is <strong>MY</strong> mantra. We use treats, praise, toys—whatever motivates the dog! It creates engagement and excitement around learning. I don't use extreme punishment because that breeds anxiety.
+        This is <strong>MY</strong> mantra. I use treats, praise, toys—whatever motivates the dog! It creates engagement and excitement around learning. I don't use extreme punishment because that breeds anxiety.
       </p>
     </div>
     <!-- Step 2 -->
@@ -101,7 +101,7 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
       </div>
       <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Seek Professional Help</h2>
       <p class="text-lg text-slate-600 dark:text-slate-300">
-        If you hit a wall, contact a certified trainer. They offer personalized guidance—I've learned so much from them myself!
+        If you hit a wall or are struggling with a particular problem, I always recommend contacting a certified professional trainer. They give you personal guidance — I’ve learned a ton from them myself!
       </p>
     </div>
   </div>
