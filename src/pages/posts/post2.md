@@ -58,15 +58,54 @@ tags: ["dog training consistency", "consistent dog training", "dog behavior", "p
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
   We've all been there. You're tired after a long day, and you let the leash-pulling slide just this once. Or visitors come over, and the "no dogs on the furniture" rule gets forgotten. It happens! But consistent inconsistency (if that makes sense!) is where problems arise. I remember trying to teach a reliable 'Stay' but sometimes letting my dog break early if I was distracted. The result? A 'Stay' that was more of a suggestion than a reliable command.
 </p>
-<p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-  Inconsistency leads to:
-  <ul class="list-disc list-inside ml-4 text-lg text-slate-600 dark:text-slate-300 space-y-2 mb-4">
-      <li><strong>Confusion & Anxiety:</strong> The dog doesn't know what's expected.</li>
-      <li><strong>Slowed Learning:</strong> It takes much longer to train a behavior.</li>
-      <li><strong>Unreliable Behaviors:</strong> Commands only work "sometimes."</li>
-      <li><strong>Frustration (Yours & Theirs!):</strong> Training feels like a constant battle.</li>
-      <li><strong>Erosion of Trust:</strong> Predictability builds trust; inconsistency can weaken it.</li>
-  </ul>
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
+  This inconsistency is a recipe for problems, often leading to:
+</p>
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12 not-prose"> 
+  
+  <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
+     <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 5.25h.008v.008H12v-.008Z" /></svg> 
+        </div>
+     <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Confusion & Anxiety</h4>
+     <p class="text-sm text-slate-600 dark:text-slate-300">The dog doesn't know what's expected, leading to stress.</p>
+  </div>
+
+  <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
+     <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
+        </div>
+     <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Slowed Learning</h4>
+     <p class="text-sm text-slate-600 dark:text-slate-300">It takes much longer to train a behavior effectively.</p>
+  </div>
+
+  <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
+     <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622 1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244" /></svg>
+        </div>
+     <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Unreliable Behaviors</h4>
+     <p class="text-sm text-slate-600 dark:text-slate-300">Commands and rules only work "sometimes."</p>
+  </div>
+
+  <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
+     <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 3.75h.008v.008H12v-.008Z" /></svg>
+        </div>
+     <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Frustration (Yours & Theirs!)</h4>
+     <p class="text-sm text-slate-600 dark:text-slate-300">Training feels like a constant, draining battle.</p>
+  </div>
+
+  <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
+     <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z" /></svg>
+        </div>
+     <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Erosion of Trust</h4>
+     <p class="text-sm text-slate-600 dark:text-slate-300">Predictability builds trust; inconsistency weakens it.</p>
+  </div>
+
+</div> 
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-8"> 
   It's not about being a rigid robot, but about providing clarity your dog can rely on.
 </p>
 
