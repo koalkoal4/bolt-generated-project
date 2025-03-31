@@ -107,7 +107,7 @@ tags: ["dog training consistency", "consistent dog training", "dog behavior", "p
   It's not about being a rigid robot, but about providing clarity your dog can rely on.
 </p>
 
-<img src="/assets/images/consistency2.jpg" alt="Owner patiently reinforcing a command with a happy dog in a park setting." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/9.jpg" alt="Owner patiently reinforcing a command with a happy dog in a park setting." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <section class="space-y-8 my-12">
   <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">My Playbook for Staying Consistent (It's Possible!)</h1>
@@ -170,7 +170,7 @@ tags: ["dog training consistency", "consistent dog training", "dog behavior", "p
   </div>
 </section>
 
-<img src="/assets/images/consistency3.jpg" alt="Person and dog relaxing together, showing a strong, calm bond built through trust." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/4.jpg" alt="Person and dog relaxing together, showing a strong, calm bond built through trust." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">But Life Happens! Overcoming Consistency Hurdles</h3>
 
