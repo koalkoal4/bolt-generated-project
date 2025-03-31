@@ -57,8 +57,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
   When you're teaching a brand new skill, or working with a new puppy or dog, always, *always* start in an environment with minimal distractions. You want to make it as easy as possible for your dog to focus on you and understand the task. Think of it as setting the difficulty level to 'Easy Mode'!
 </p>
-<p class="text-lg text-slate-600 dark:text-slate-300 mb-4"> {/* Separated intro text */}
-  Good starting points include:
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8 not-prose">
@@ -102,7 +101,6 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
   </p>
 
   <div class="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-10">
-    {/* ... Step list content remains the same as previous version ... */}
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">1</span>
@@ -154,7 +152,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Matching the Environment to Your Training Goal</h3>
 
-<p class="text-lg text-slate-600 dark:text-slate-300 mb-4"> {/* Separated intro text */}
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
   Not all training requires the same environment. Once your dog has foundational skills, you'll want to practice in locations relevant to where you want the behavior to occur:
 </p>
 
@@ -179,7 +177,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" /></svg> </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Solid Recall</h4>
      <p class="text-sm text-slate-600 dark:text-slate-300">Must be proofed! Start fenced/long-line, add distractions gradually.</p>
-      <p class="text-xs text-slate-500 dark:text-slate-400 mt-1">My Anecdote: Rewarded check-ins for weeks first!</p> {/* Included anecdote concisely */}
+      <p class="text-xs text-slate-500 dark:text-slate-400 mt-1">My Anecdote: Rewarded check-ins for weeks first!</p>
   </div>
 
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
@@ -205,7 +203,6 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
   Before I start a session in a new place, I quickly run through a mental checklist:
 </p>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 not-prose">
-    {/* ... Card grid content remains the same as previous version ... */}
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow">
     <h4 class="text-xl font-semibold text-blue-600 dark:text-blue-400 mb-4">Safety First!</h4>
     <p class="text-slate-600 dark:text-slate-300">
@@ -246,7 +243,6 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">
-    {/* ... Tip box content remains the same as previous version ... */}
   <div class="p-6 rounded-lg border-l-4 border-blue-500 bg-blue-50 dark:bg-slate-800 dark:border-blue-700">
     <h4 class="text-xl font-bold text-blue-700 dark:text-blue-300 mb-2">Golden Rule:</h4>
     <p class="text-slate-600 dark:text-slate-300">Always start new behaviors in the lowest distraction environment possible. Make it easy for your dog to succeed first!</p>
