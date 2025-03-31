@@ -245,8 +245,8 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">
   <div class="p-6 rounded-lg border-l-4 border-blue-500 bg-blue-50 dark:bg-slate-800 dark:border-blue-700">
-    <h4 class="text-xl font-bold text-blue-700 dark:text-blue-300 mb-2">Golden Rule:</h4> # 
-    <p class="text-slate-600 dark:text-slate-300">Initiate new behaviors in the least distracting environment possible. First, make it easy for your dog to succeed!</p> # 
+    <h4 class="text-xl font-bold text-blue-700 dark:text-blue-300 mb-2">Golden Rule:</h4>  
+    <p class="text-slate-600 dark:text-slate-300">Initiate new behaviors in the least distracting environment possible. First, make it easy for your dog to succeed!</p>  
   </div>
   <div class="p-6 rounded-lg border-l-4 border-green-500 bg-green-50 dark:bg-slate-800 dark:border-green-700">
     <h4 class="text-xl font-bold text-green-700 dark:text-green-300 mb-2">Proofing Pro Tip:</h4> 
