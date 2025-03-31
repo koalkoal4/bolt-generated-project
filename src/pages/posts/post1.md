@@ -48,10 +48,7 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
     To me, the real joy in basic training is not just having a dog who responds to cues. It’s about the amazing relationship you build. When your canine understands what you want from them, and you understand their needs, trust grows. It keeps them safe – a reliable ‘Stay’ near a busy road is worth its weight in gold. Also, if you have a well-mannered dog, it can join family outings, which I love. Through my experience it results in a happier, less stressful life for everyone with an interest.
   </p>
 
-<div class="w-full lg:w-[600px] xl:w-[700px] mx-auto overflow-hidden rounded-xl my-8">
-<img src="/assets/images/2.jpg" alt="Happy dog and owner bonding during a training exercise" class="w-full h-auto lg:h-[450px] xl:h-[600px] object-cover object-center rounded-xl my-8 shadow-lg mx-auto" loading="lazy" /> 
-</div>
-
+<img src="/assets/images/2.jpg" alt="Happy dog and owner bonding during a training exercise" class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" /> 
  <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-4">My Favorite Getting Started Tips:</h3>
   
   <ul class="list-decimal list-inside text-lg text-slate-600 dark:text-slate-300 mb-12 space-y-4 marker:font-bold marker:text-slate-600 dark:marker:text-slate-300">
