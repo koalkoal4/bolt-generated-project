@@ -3,7 +3,7 @@ layout: ../../layouts/Post.astro
 title: "Consistency is King: My Dog Training Secret Weapon"
 description: "Unlock the power of consistency in dog training! Discover why it's crucial for commands, rules, and schedules, and get my practical, real-life tips for staying consistent."
 date: 2025-03-31
-image: "/assets/images/consistency-main.jpg" # Primary image for layout
+image: "/assets/images/11.jpg" # Primary image for layout
 tags: ["dog training consistency", "consistent dog training", "dog behavior", "puppy training schedule", "positive reinforcement", "dog training tips", "dog routines"]
 ---
 
@@ -12,8 +12,6 @@ tags: ["dog training consistency", "consistent dog training", "dog behavior", "p
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
   Hey everyone! Today, I want to talk about something that sounds simple, maybe even a bit boring, but is honestly the absolute bedrock of successful, positive dog training: <strong>consistency</strong>. When I first started training dogs, I was all about finding the 'magic technique' or the 'perfect reward.' It took me a while (and some frustrating moments, believe me!) to realize that the real game-changer wasn't *what* I was doing as much as how *reliably* I was doing it. Being consistent is like providing a clear map for your dog in our sometimes confusing human world. It builds trust, speeds up learning, and frankly, makes life easier and happier for both of you. Let's dive into why it's so vital and how we can actually stick with it.
 </p>
-
-<img src="/assets/images/consistency1.jpg" alt="Dog looking attentively at owner during a training session, showing clear communication." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Consistency Works: A Peek Inside Your Dog's Brain</h3>
 
