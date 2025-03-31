@@ -59,7 +59,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
     </p>
   </div>
 
-   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow md:col-span-2"> {/* Spanning 2 cols */}
+   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-md hover:shadow-lg transition-shadow md:col-span-2"> 
     <h4 class="text-xl font-semibold text-teal-600 dark:text-teal-400 mb-4">Reinforcers in Life (Premack Principle)</h4> 
     <p class="text-slate-600 dark:text-slate-300">
       This is making access to something the dog wants to do anyway contingent upon doing something you want first. For example: asking for a ‘Sit’ prior to opening the door to go outside, asking for eye contact before being allowed to sniff a fascinating lamppost, or waiting nicely before receiving permission to greet a person. It is effective and weaves training into the daily routine! 
@@ -116,12 +116,12 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 mx-auto"><path stroke-linecap="round" stroke-linejoin="round" d="m14.74 9-.346 9m-4.788 0L9.26 9m9.968-3.21c.342.052.682.107 1.022.166m-1.022-.165L18.16 19.673a2.25 2.25 0 0 1-2.244 2.077H8.084a2.25 2.25 0 0 1-2.244-2.077L4.772 5.79m14.456 0a48.108 48.108 0 0 0-3.478-.397m-12 .562c.34-.059.68-.114 1.022-.165m0 0a48.11 48.11 0 0 1 3.478-.397m7.5 0v-.916c0-1.18-.91-2.164-2.09-2.201a51.964 51.964 0 0 0-3.32 0c-1.18.037-2.09 1.022-2.09 2.201v.916m7.5 0a48.667 48.667 0 0 0-7.5 0" /></svg>
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Forgetting to Fade</h4> 
-     <p class="text-sm text-slate-600 dark:text-slate-300">The food has become an unconditional and permanent dependence. The aim is a dog who works consistently even in the absence of a visible treat.</p>  (Typo corrected)
+     <p class="text-sm text-slate-600 dark:text-slate-300">The food has become an unconditional and permanent dependence. The aim is a dog who works consistently even in the absence of a visible treat.</p>  
   </div>
 
 </div>
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">The Next Step: How to Fade Food Rewards and Get the Treat Pouch Out of The Picture</h1> 
+  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8"> How to Fade Food Rewards and Get the Treat Pouch Out of The Picture</h1> 
    <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     Not gonna work for a dog who operates solely on food. Once your dog knows a cue well, and does it consistently in easy contexts, we need to gradually fade the need for constant food reinforcement. That does not mean we quit rewarding! That means reducing their predictability, and adding other kinds of reinforcement. Here's how I approach it: 
   </p>
@@ -174,7 +174,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
     </div>
   </div>
 </section>
-<h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Conclusion: Reward the Smarter Not Harder</h3> 
+<h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Conclusion: Rewarding Smarter, Not Harder</h3> 
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
   The effective use of treats and rewards is probably one of the most useful things we have available to us to ensure that we build up a good, positive relationship with our dogs and that they learn the skills they need. There is no endless endless snacking or bribery — instead, it’s about clear communication, motivation, timing, and reinforcement. With the exploration of modifiers, the practice of a high rate of reinforcement, and the fading of food, you grow from treat dispensed to connected dog trainer. Discover what gets your dog motivated, and use it wisely! 
