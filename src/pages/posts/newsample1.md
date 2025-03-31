@@ -3,7 +3,7 @@ layout: ../../layouts/Post.astro
 title: "Not Just for Snacks: The Treatment for Rewarding Your Dog" # From user's text
 description: "Learn the art and science of using treats and rewards effectively in dog training. Master timing, value, and different reward types to build motivation and a strong bond." # Updated Description
 date: 2025-04-01 # Updated Date
-image: "/assets/images/treats-main.jpg" # Retained from previous structure
+image: "/assets/images/1.jpg" # Retained from previous structure
 tags: ["dog training treats", "dog rewards", "positive reinforcement", "high value treats", "fading treats", "dog training tips", "reward based training", "dog motivation", "internal linking"] # Retained tags
 ---
 
@@ -13,7 +13,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
   As we all know, nothing warms the heart like watching your dog light up at the sight (or sound!) of a treat bag? Since most dogs have a strong desire for food, food rewards are one of the best motivators available to us, although training with food also comes with its own sets of challenges. But here’s one thing I learned pretty quickly: throwing treats at your dog does not equal training. I definitely had a phase there where I felt like a walking treat machine, bribing my dog for everything! Real reward-based training is way more subtle than that. It is about knowing why rewards are effective, what motivates your specific dog (it may not be food!), timing your rewards so as to convey precisely what you want. It’s about getting motivation and a positive association with learning, often starting with <a href="https://trainedtails.com/posts/basic-dog-training" class="text-emerald-600 dark:text-emerald-400 hover:underline">basic dog training</a> principles, not just making a snack-dependent pooch. # Text from user's final text doc (Internal link re-added)
 </p>
 
-<img src="/assets/images/treats1.jpg" alt="Close-up of a hand giving a small training treat to an attentive dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/1.jpg" alt="Close-up of a hand giving a small training treat to an attentive dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">The Science Bit: Why Positive Reinforcement Really Helps</h3> # Text from user's final text doc
 
@@ -78,7 +78,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
   You wouldn’t give a dog “the good stuff” in every situation. Consider it like a paycheck: You get more for a hard job than an easy one. Conversely, mark easy behaviors in low-distraction environments or behaviors your dog has mastered with lower-value rewards (kibble or a simple “Good dog”). Save this high-value rewards (the kind your dog would walk on hot coals for!) for tough circumstances: learning an entirely new skill, dealing with major distractions (e.g., <a href="https://trainedtails.com/posts/right-training-enviroment" class="text-emerald-600 dark:text-emerald-400 hover:underline">doing recall in the park</a>), or reinforcing a particularly excellent effort. Good luck getting your dog to leave a squirrel chase for a piece of dry kibble, but you might get his attention with a piece of leftover cooked chicken! Calibrate the reward value to fickleness depending on the difficulty and the environment to keep your dog motivated # Text from user's final text doc (Internal link re-added)
 </p>
 
-<img src="/assets/images/treats2.jpg" alt="Dog happily playing tug with owner as a training reward." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/1.jpg" alt="Dog happily playing tug with owner as a training reward." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Mistakes Made Commonly with Rewards (And I Have Made All of These!)</h3> # Text from user's final text doc
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
