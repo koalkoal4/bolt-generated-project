@@ -13,20 +13,20 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
   As we all know, nothing warms the heart like watching your dog light up at the sight (or sound!) of a treat bag? Since most dogs have a strong desire for food, food rewards are one of the best motivators available to us, although training with food also comes with its own sets of challenges. But here’s one thing I learned pretty quickly: throwing treats at your dog does not equal training. I definitely had a phase there where I felt like a walking treat machine, bribing my dog for everything! Real reward-based training is way more subtle than that. It is about knowing why rewards are effective, what motivates your specific dog (it may not be food!), timing your rewards so as to convey precisely what you want. It’s about getting motivation and a positive association with learning, often starting with <a href="https://trainedtails.com/posts/basic-dog-training" class="text-emerald-600 dark:text-emerald-400 hover:underline">basic dog training</a> principles, not just making a snack-dependent pooch.  
 </p>
 
-<img src="/assets/images/1.jpg" alt="Close-up of a hand giving a small training treat to an attentive dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
-
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">The Science Bit: Why Positive Reinforcement Really Helps</h3> 
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
   Fundamentally, effective reward-based training takes advantage of positive reinforcement (frequently known as R+). In other words, if a dog does something and something good follows immediately after, the dog is more likely to repeat that behavior the next time around. When your dog does something they want (like they get a treat, a toy, or praise) immediately after they do something (like sit when you ask) their brain produces dopamine – you know, that feel-good neurotransmitter. This creates a positive emotional connection to the action and they are more willing to give it again. 
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-  Consider it clear communication; having the treat/reward basically says to your dog, “Yes! That thing you just did? That is just what I wanted!” Used properly, it’s not bribery; it’s payment for work done well, awarded once the hard work is done. This works much better at shaping behaviour and building a trusting, co-operative relationship, rather than one based purely on avoiding pain. 
+  Consider it straight talk; having the treat/reward basically says to your dog, “Yes! That thing you just did? That is just what I wanted!” Used properly, it’s not bribery; it’s payment for work done well, awarded once the hard work is done. This works much better at changing behaviour and building a trusting, co-operative relationship, rather than one based purely on avoiding pain. 
 </p>
+
+<img src="/assets/images/1.jpg" alt="Close-up of a hand giving a small training treat to an attentive dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">What Your Dog’s Salary: Different Kinds of Rewards</h3> 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
-  Food is typically the reward of choice, but do keep in mind that anything your dog finds rewarding can be the reward. Finding what specifically motivates your dog is crucial! Here are some common types: 
+  Food is typically the reward of choice, but do keep in mind that anything your dog finds rewarding can be the reward. Finding what specifically motivates your dog is super important! Here are some common types: 
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 not-prose">
