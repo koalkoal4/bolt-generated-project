@@ -51,7 +51,7 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
 <img src="/assets/images/2.jpg" alt="Happy dog and owner bonding during a training exercise" class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" /> 
 
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Teach Your Dog to Sit: A Step-by-Step Guide</h1>
+  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">My Dog Training Methodology</h1>
 
   <div class="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-10">
     <!-- Step 1 -->
@@ -59,9 +59,9 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">1</span>
       </div>
-      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Step One</h2>
+      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Positive Reinforcement</h2>
       <p class="text-lg text-slate-600 dark:text-slate-300">
-        Stand in front of your pooch and show them you have a treat in your hand.
+        This is <strong>MY</strong> mantra. We use treats, praise, toys—whatever motivates the dog! It creates engagement and excitement around learning. I don't use extreme punishment because that breeds anxiety.
       </p>
     </div>
     <!-- Step 2 -->
@@ -69,9 +69,9 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">2</span>
       </div>
-      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Step Two</h2>
+      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Consistency is Key</h2>
       <p class="text-lg text-slate-600 dark:text-slate-300">
-        Move the treat from the end of your pup’s nose and over their head.
+        This was a huge change for me. We all use the same cues and adherence to rules in our house. It causes no confusion for the dog.
       </p>
     </div>
     <!-- Step 3 -->
@@ -79,9 +79,9 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">3</span>
       </div>
-      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Step Three</h2>
+      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Short & Fun Sessions</h2>
       <p class="text-lg text-slate-600 dark:text-slate-300">
-        As their head follows the treat, their bottom should touch the floor. Mark and reward them when this happens.
+        5 minutes is my target, even a couple of times a day. Longer sessions with puppies can result in frustration. Always end on a positive note!
       </p>
     </div>
     <!-- Step 4 -->
@@ -89,9 +89,9 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">4</span>
       </div>
-      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Step Four</h2>
+      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Practice Patience</h2>
       <p class="text-lg text-slate-600 dark:text-slate-300">
-        Once your pooch has the hang of this, repeat the above steps but without the treat in your hand. Remember to still mark and reward when they sit.
+        I remember teaching 'Down' to one of my foster dogs—it took weeks! We celebrated every small improvement. Each dog learns differently, so adjust your expectations.
       </p>
     </div>
     <!-- Step 5 -->
@@ -99,32 +99,12 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">5</span>
       </div>
-      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Step Five</h2>
+      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Seek Professional Help</h2>
       <p class="text-lg text-slate-600 dark:text-slate-300">
-        When your pup is reliably sitting, introduce your verbal cue. Say “sit”, then use your hand gesture. Mark and reward when they succeed.
-      </p>
-    </div>
-    <!-- Step 6 -->
-    <div class="relative pl-8">
-      <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
-        <span class="font-bold text-white">6</span>
-      </div>
-      <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Step Six</h2>
-      <p class="text-lg text-slate-600 dark:text-slate-300">
-        Over time your pup will begin to sit as soon as they hear the word.
+        If you hit a wall, contact a certified trainer. They offer personalized guidance—I've learned so much from them myself!
       </p>
     </div>
   </div>
-
-  <!-- Tips Section -->
-  <h2 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-4 mt-16">My Favorite Getting Started Tips:</h2>
-  <ul class="list-decimal list-inside text-lg text-slate-600 dark:text-slate-300 mb-12 space-y-4 marker:font-bold marker:text-slate-600 dark:marker:text-slate-300">
-    <li><strong>Use Positive Reinforcement:</strong> This is <strong>MY</strong> mantra, though. We use treats, praise, toys, whatever motivates the dog! It creates engagement and excitement around learning. I don’t use extreme punishment because that breeds anxiety.</li>
-    <li><strong>On the theme of consistency, be super:</strong> This was a huge change for me. We all use the same cues and adherence to rules in our house. It causes no confusion for the dog.</li>
-    <li><strong>Keep Training Sessions Short & Fun:</strong> 5 minutes is my target, even a couple of times a day. Longer sessions with puppies, in particular, can result in frustration. End on a positive note!</li>
-    <li><strong>Pack Your Patience:</strong> I remember teaching 'Down' to one of my foster dogs. It took weeks! But we celebrated every small improvement. Each pupil is different, so adjust your expectations.</li>
-    <li><strong>Don’t Be Afraid to Seek Help:</strong> If you hit a wall, contact a certified professional trainer. They offer personalized guidance - I've learned so much from them myself!</li>
-  </ul>
 </section>
 	
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 not-prose"> 
