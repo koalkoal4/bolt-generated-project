@@ -1,16 +1,19 @@
 ---
 // src/pages/dogtraining/index.astro
-const AFFILIATE_LINK = "https://c780fgjilg5qdm2z64kl0av6yu.hop.clickbank.net";
+import { Head } from 'astro:head';
 
-// Track the click (using your analytics)
-if (import.meta.env.PROD) {
-  // Example: Google Analytics
-  window.gtag('event', 'affiliate_click', {
-    'event_category': 'outbound',
-    'event_label': 'dog_training'
-  });
-}
+// Your affiliate link
+const AFFILIATE_LINK = "https://c780fgjilg5qdm2z64kl0av6yu.hop.clickbank.net/";
 ---
-<script is:inline>
-  window.location.href = `${https://c780fgjilg5qdm2z64kl0av6yu.hop.clickbank.net}`;
-</script>
+<html>
+  <Head>
+    <meta http-equiv="refresh" content={`0; url=${AFFILIATE_LINK}`} />
+    <script>
+      window.location.href = `${AFFILIATE_LINK}`;
+    </script>
+    <title>Redirecting...</title>
+  </Head>
+  <body>
+    <p>If you are not redirected automatically, <a href={AFFILIATE_LINK}>click here</a>.</p>
+  </body>
+</html>
