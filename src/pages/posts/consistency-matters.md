@@ -2,7 +2,7 @@
 layout: ../../layouts/Post.astro
 title: "The Superpower In Dog Training: Why Consistency is Key" # Updated Title
 description: "Consistency is the bedrock of dog training. Discover why it's vital for clear communication, building trust, and achieving reliable results, plus my tips for sticking with it." # Updated Description
-date: 2025-03-31
+date: 2025-03-30
 image: "/assets/images/11.jpg" 
 tags: ["dog training consistency", "consistent dog training", "dog behavior", "puppy training schedule", "positive reinforcement", "dog training tips", "dog routines", "dog trust"] # Reviewed Tags
 ---
