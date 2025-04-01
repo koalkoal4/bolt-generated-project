@@ -1,0 +1,16 @@
+---
+// src/pages/dogtraining/index.astro
+const AFFILIATE_LINK = "https://c780fgjilg5qdm2z64kl0av6yu.hop.clickbank.net";
+
+// Track the click (using your analytics)
+if (import.meta.env.PROD) {
+  // Example: Google Analytics
+  window.gtag('event', 'affiliate_click', {
+    'event_category': 'outbound',
+    'event_label': 'dog_training'
+  });
+}
+---
+<script is:inline>
+  window.location.href = `${https://c780fgjilg5qdm2z64kl0av6yu.hop.clickbank.net}`;
+</script>
