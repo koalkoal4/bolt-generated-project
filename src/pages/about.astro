@@ -1,52 +1,42 @@
 ---
-// Import necessary components and utilities
-import Base from '../layouts/Base.astro'; // Assuming Base handles layout
-import { getCollection } from 'astro:content'; // Using getCollection as an example
+import Base from '../layouts/Base.astro'; // Changed from BaseLayout to Base
+import { getCollection } from 'astro:content'; // Import getCollection if using content collections
+// Or use Astro.glob if using markdown files directly in pages/posts
+const allPosts = (await Astro.glob('./posts/*.md')).sort(
+  (a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf()
+);
 
-// Fetching and sorting posts (Keep this logic as provided)
-const allPosts = (await getCollection('posts')) // Example using 'posts' collection
-  .sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
-
-// Function to get N recent posts (Keep this function)
+// Function to get N recent posts
 function getRecentPosts(arr, n) {
   return arr.slice(0, n);
 }
 
-// Get 3 recent posts (Keep this logic)
+// Get 3 recent posts
 const suggestedPosts = getRecentPosts(allPosts, 3);
 
-// Define page title (Keep this definition)
-const pageTitle = "About Trained Tails | Dog Training Expertise";
-
-// Update the date in the frontmatter data if needed elsewhere,
-// otherwise, this date reflects the component's content date logic.
-// For static display, you'd set it here or pass it to Base.
-const currentDate = "2025-04-02"; // Set current date
+const pageTitle = "About Trained Tails | Dog Training Expertise"; // Define a title
 ---
-
-<Base title={pageTitle} frontmatter={{ date: currentDate, /* other frontmatter needed by Base */ }}> {/* Use Base layout, pass title & potentially date */}
-  <div class="max-w-4xl mx-auto px-4 py-12"> {/* Keep container from user code */}
-    <h1 class="text-3xl md:text-4xl font-bold text-slate-800 dark:text-slate-100 mb-6 text-center">
+<Base title={pageTitle}> {/* Use Base layout and pass the title */}
+  <div class="max-w-4xl mx-auto px-4 py-12"> {/* Increased max-width slightly */}
+    <h1 class="text-3xl md:text-4xl font-bold text-slate-800 dark:text-slate-100 mb-6 text-center"> {/* Adjusted heading size */}
       My Story & The Heart Behind Trained Tails
     </h1>
-
-    {/* --- Start Shortened Text --- */}
     <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-      Hello and welcome to Trained Tails! I'm Kerem, thrilled you're here. Based in beautiful Istanbul, my passion is helping owners like you build amazing bonds with their dogs through effective, kind, science-backed training methods. Trained Tails shares this journey.
+      Hello and welcome to Trained Tails! I'm so thrilled you've stopped by. My name is Kerem, and I'm the passionate dog lover and training enthusiast behind this blog. My journey into the fascinating world of dog behavior and positive training started right here in beautiful Istanbul, and it's been an incredible adventure ever since. Trained Tails was born from a simple desire: to share effective, kind, and science-backed training methods to help dog owners build truly amazing, trusting relationships with their canine companions.
     </p>
 
-    <img src="/assets/images/17.jpg" alt="Kerem, founder of Trained Tails" class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" /> {/* Updated alt text */}
+    <img src="/assets/images/17.jpg" alt="[Your Name], founder of Trained Tails, smiling warmly." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+    <h2 class="text-2xl md:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4 mt-12">My Journey to Positive Training</h2> {/* Adjusted heading size */}
 
-    <h2 class="text-2xl md:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4 mt-12">My Journey to Positive Training</h2>
-
-    <p class="text-lg text-slate-600 dark:text-slate-300 mb-8"> {/* Combined paragraphs */}
-      My deep dive began with my own dogs' challenges right here in Istanbul – from park recall woes to leash pulling! Traditional methods didn't foster the partnership I wanted, leading me to discover the power of positive reinforcement. Understanding how dogs *really* learn and rewarding good choices was revolutionary. Since then, I've immersed myself in learning – reading research, attending workshops, and gaining hands-on experience, including volunteering with local Istanbul rescues. Kindness and science truly unlock potential.
+    <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
+      Like many people, my deep dive into dog training began with my own dogs. I faced challenges – recall struggles in bustling Istanbul parks, leash pulling on historical streets, the usual puppy antics! Initially, I explored various methods, but something didn't feel quite right with the more traditional, correction-based approaches. It wasn't fostering the partnership I craved.
     </p>
-    {/* --- End Shortened Journey Section --- */}
+    <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
+      That led me down the path of positive reinforcement and science-based training. Discovering how dogs *really* learn, understanding their body language, and focusing on rewarding desired behaviors instead of punishing unwanted ones was revolutionary for me. It wasn't just more effective; it felt better, building communication and joy rather than conflict. Since then, I've dedicated myself to learning everything I can – constantly reading research, attending workshops [mention certifications if applicable, e.g., "earning my certification"], and working hands-on with dogs of all breeds and temperaments, including volunteering with some wonderful local Istanbul rescues. This experience solidified my belief that kindness and science are the keys to unlocking a dog's potential.
+    </p>
 
-
-    <div class="space-y-4 mb-12 bg-slate-100 dark:bg-slate-800 p-6 rounded-lg ring-1 ring-slate-200 dark:ring-slate-700"> {/* Keep Values section as is */}
-      <h3 class="text-xl font-semibold text-emerald-600 dark:text-emerald-400 mb-3">What Trained Tails Believes In:</h3>
+    <div class="space-y-4 mb-12 bg-slate-100 dark:bg-slate-800 p-6 rounded-lg ring-1 ring-slate-200 dark:ring-slate-700"> {/* Adjusted background */}
+      <h3 class="text-xl font-semibold text-emerald-600 dark:text-emerald-400 mb-3">What Trained Tails Believes In:</h3> {/* Adjusted heading level */}
       <ul class="list-none space-y-3">
         <li class="flex items-start">
           <svg class="w-5 h-5 mr-2 mt-1 text-emerald-500 flex-shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75 11.25 15 15 9.75M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" /></svg>
@@ -67,53 +57,46 @@ const currentDate = "2025-04-02"; // Set current date
       </ul>
     </div>
 
-    <h2 class="text-2xl md:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4">What You'll Find on the Blog</h2>
+    <h2 class="text-2xl md:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4">What You'll Find on the Blog</h2> {/* Adjusted heading size */}
 
-    {/* --- Start Shortened Text --- */}
     <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-       Here, I share practical training guides, dog behavior insights, troubleshooting tips, and personal experiences – all designed to provide clear, actionable, and positive advice for navigating life with your dog.
+      Here at Trained Tails, I share everything I've learned (and am still learning!). Expect to find practical training guides, deep dives into dog behavior topics, tips for troubleshooting common problems, personal insights from my experiences, and hopefully, a dose of inspiration. Whether you're navigating puppyhood, working on basic manners, or just want to understand your dog better, my goal is to provide clear, actionable, and positive advice.
     </p>
-    {/* --- End Shortened Section --- */}
 
-
-    <h2 class="text-2xl md:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4">Meet My Co-Pilot</h2> {/* Simplified heading */}
-     <img src="/assets/images/16.jpg" alt="Pera, the inspiration behind Trained Tails." class="w-full h-auto rounded-xl my-8 shadow-lg max-w-lg mx-auto" loading="lazy" /> {/* Updated alt text */}
-
-    {/* --- Start Shortened Text --- */}
+    <h2 class="text-2xl md:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4">Meet My Co-Pilot(s)</h2> {/* Adjusted heading size */}
+     <img src="/assets/images/16.jpg" alt="[Dog's Name(s)], the inspiration behind Trained Tails." class="w-full h-auto rounded-xl my-8 shadow-lg max-w-lg mx-auto" loading="lazy" />
     <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-      Of course, my co-pilot is Pera! He's my furry inspiration, constantly teaching me about patience and joy. You'll see him in blog examples!
+      Of course, I couldn't do this without my own furry inspiration, Pera. He constantly teach me new things about patience, communication, and the sheer joy dogs bring to our lives. You'll probably see him pop up in examples and stories throughout the blog!
     </p>
-    {/* --- End Shortened Section --- */}
 
 
-    <h2 class="text-2xl md:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4">Let's Connect!</h2>
+    <h2 class="text-2xl md:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4">Let's Connect!</h2> {/* Adjusted heading size */}
 
-    {/* --- Start Shortened Text --- */}
     <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-       Thanks for visiting! Training is a journey best traveled with kindness. I hope you find the resources here helpful. Explore the posts, and let's make the world better for our dogs, together.
+      Thank you so much for visiting Trained Tails. I truly believe that training is a journey, not just a destination, and it's one best traveled with understanding and kindness. I hope you find the resources here helpful! Feel free to explore the posts, and let's make the world a better place for our dogs, one positive interaction at a time.
     </p>
-    {/* --- End Shortened Section --- */}
 
   </div>
 
+  <!-- Suggested Posts Section -->
   {suggestedPosts.length > 0 && (
     <section class="max-w-4xl mx-auto px-4 py-12 mt-12 border-t border-slate-200 dark:border-slate-700">
       <h2 class="text-2xl md:text-3xl font-bold text-slate-800 dark:text-slate-100 mb-8 text-center">Recent Blog Posts</h2>
       <div class="grid gap-6 sm:gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
         {suggestedPosts.map(post => (
           <article class="bg-white dark:bg-slate-800 rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow flex flex-col">
-            {post.data.image && ( // Adjusted to access post data correctly in collections
-              <a href={`/posts/${post.slug}/`} class="block"> {/* Example URL structure */}
-                <img src={post.data.image} alt={post.data.title + " preview"} class="w-full h-40 object-cover" loading="lazy" />
+            {post.frontmatter.image && (
+              <a href={post.url} class="block">
+                <img src={post.frontmatter.image} alt={post.frontmatter.title + " preview"} class="w-full h-40 object-cover" loading="lazy" />
               </a>
             )}
             <div class="p-4 sm:p-5 flex flex-col flex-grow">
               <h3 class="text-lg sm:text-xl font-semibold mt-1 mb-2 flex-grow dark:text-white">
-                <a href={`/posts/${post.slug}/`} class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">{post.data.title}</a> {/* Example URL structure */}
+                <a href={post.url} class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">{post.frontmatter.title}</a>
               </h3>
-              <p class="text-slate-600 dark:text-slate-300 mb-3 text-sm line-clamp-3">{post.data.description}</p>
+              <p class="text-slate-600 dark:text-slate-300 mb-3 text-sm line-clamp-3">{post.frontmatter.description}</p>
               <div class="mt-auto">
-                  <a href={`/posts/${post.slug}/`} class="text-blue-600 dark:text-blue-400 hover:underline text-sm font-medium">Read more →</a> {/* Example URL structure */}
+                 <a href={post.url} class="text-blue-600 dark:text-blue-400 hover:underline text-sm font-medium">Read more →</a>
               </div>
             </div>
           </article>
