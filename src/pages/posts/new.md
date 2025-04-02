@@ -17,11 +17,11 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Bother Teaching Commands Early On?</h3>
 
-<p class="text-lg text-slate-600 dark:text-slate-300 mb-6"> {/* Intro sentence separated */}
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-6"> 
   Starting training early, especially with these foundational cues, offers huge benefits:
 </p>
 
-<div class="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-10 mb-12"> {/* Added mb-12 */}
+<div class="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-10 mb-12"> 
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">1</span>
@@ -69,7 +69,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
     </div>
 
 </div>
-<p class="text-lg text-slate-600 dark:text-slate-300 mb-8"> {/* Paragraph after the list */}
+<p class="text-lg text-slate-600 dark:text-slate-300 mb-8"> 
   Remember, the key is *how* we teach. Focusing on <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">using rewards effectively</a> makes learning enjoyable and builds enthusiasm, rather than anxiety.
 </p>
 
