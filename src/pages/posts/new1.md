@@ -82,12 +82,12 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10">
     <img src="/assets/images/command-sit.jpg" alt="Illustration of a dog sitting politely" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
-      <h4 class="text-xl font-semibold text-blue-600 dark:text-blue-400 mb-2">Sit</h4> {# Text from user (Removed number) #}
+      <h4 class="text-xl font-semibold text-blue-600 dark:text-blue-400 mb-2">Sit</h4> 
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
           <strong>Why:</strong> Allows for pleasant greetings, settles them before eating/matching light cycle while waiting for s/o, prevents jumping. 
       </p>
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
-          <strong>Step 1:</strong> Lure nose up & back with a treat; mark & reward bum down. {# Text from user (Changed label) #}
+          <strong>Step 1:</strong> Lure nose up & back with a treat; mark & reward bum down. 
       </p>
       <p class="text-xs text-slate-500 dark:text-slate-400 mt-1 italic">My Tip: Simplest first command for an early win!</p> 
     </div>
@@ -163,10 +163,10 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
     </div>
   </div>
 
-   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10 md:col-span-2"> {/* Kept md:col-span-2 from user code */}
+   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10 md:col-span-2">
      <img src="/assets/images/command-wait.jpg" alt="Illustration of a dog waiting patiently at a doorway" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
-      <h4 class="text-xl font-semibold text-lime-600 dark:text-lime-400 mb-2">Wait</h4> {# Text from user (Removed number) #}
+      <h4 class="text-xl font-semibold text-lime-600 dark:text-lime-400 mb-2">Wait</h4> 
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
         <strong>Why:</strong> Short-duration hold. Great for doorways, before meals, getting in and out of cars. Teaches impulse control. 
       </p>
@@ -190,7 +190,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   Also remember, just like any command, it comes down to a few fundamental principles we’ve covered before. You have to set your dog up to succeed by taking him to the <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">right training environment</a> — start quiet, then gradually add distractions.” 
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-  Top it off, <a href="https://trainedtails.com/posts/consistency-matters" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency is another big word</a>! Same cues, same expectations, practice, practice (short, fun sessions!) And lastly, learn how to <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">use treats and rewards correctly</a> — when the timing is right and the treat’s appropriate value, it keeps your dog motivated and tells them what you expect. {# Text from user (links kept from user code, phrasing adjusted slightly for grammar) #}
+  Top it off, <a href="https://trainedtails.com/posts/consistency-matters" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency is another big word</a>! Same cues, same expectations, practice, practice (short, fun sessions!) And lastly, learn how to <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">use treats and rewards correctly</a> — when the timing is right and the treat’s appropriate value, it keeps your dog motivated and tells them what you expect. 
 </p>
 
 <img src="/assets/images/first-commands2.jpg" alt="Dog successfully performing a 'Leave It' command with a treat on the floor." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
