@@ -1,8 +1,9 @@
 ---
-layout: ../../layouts/Post.astro  # <-- Add this line
+layout: ../../layouts/Post.astro
 title: "What Is Basic Dog Training? My Guide to Building a Great Bond" 
 description: "Let's explore basic dog training together! I'll share essential commands, practical tips, and why positive methods are key to building a strong, trusting relationship with your dog."
 date: 2025-03-29 
+updated: 2025-04-02
 image: "/assets/images/1.jpg"
 tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "dog training tips"]
 ---
@@ -117,4 +118,3 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
       <p class="text-slate-600 dark:text-slate-300">Stay just as sharp in management as you are in your training! Preventing mistakes before they happen — baby gates, keeping tempting shoes out of reach — helps prevent mistakes before they occur.</p>
     </div>
 </div>
-
