@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Post.astro
-title: "Start Here! The First 7 Commands Your Dog Needs to Know" # From user code
+title: "The First 7 Commands Your Dog Needs to Know" # From user code
 description: "Build a strong foundation! Discover the essential first commands like Sit, Stay, Come, Leave It, and Down, why they matter for safety and communication, and tips for teaching them positively." # From user code
 date: 2025-04-02 # Updated Date
 image: "/assets/images/18.jpg" # From user code
