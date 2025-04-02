@@ -180,7 +180,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   </div>
 
 </div>
-<img src="/assets/images/first-commands2.jpg" alt="Dog successfully performing a 'Leave It' command with a treat on the floor." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Beyond the Basics (Honorable Mentions)</h3>
 
@@ -197,6 +197,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   Crucially, <a href="https://trainedtails.com/posts/consistency-matters" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency matters</a> immensely! Use the same cues, have the same expectations, and practice regularly (short, fun sessions!). And finally, understand how to <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">use treats and rewards effectively</a> – good timing and appropriate value are essential for keeping your dog motivated and clearly communicating what you want.
 </p>
 
+<img src="/assets/images/first-commands2.jpg" alt="Dog successfully performing a 'Leave It' command with a treat on the floor." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Troubleshooting Tips</h3>
 
