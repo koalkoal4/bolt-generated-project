@@ -22,7 +22,6 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
 </p>
 
 <div class="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-10 mb-12"> {/* Added mb-12 */}
-
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">1</span>
@@ -32,7 +31,6 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
         It establishes a shared language, reducing confusion and frustration for both of you.
       </p>
     </div>
-
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">2</span>
@@ -42,7 +40,6 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
         Commands like 'Come,' 'Stay,' and 'Leave It' are literal lifesavers in potentially dangerous situations.
       </p>
     </div>
-
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">3</span>
@@ -52,7 +49,6 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
         Successfully learning and performing cues boosts your dog's confidence (and yours!).
       </p>
     </div>
-
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">4</span>
@@ -62,7 +58,6 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
         Training sessions provide valuable mental exercise, preventing boredom.
       </p>
     </div>
-
     <div class="relative pl-8">
       <div class="absolute w-8 h-8 bg-emerald-500 rounded-full flex items-center justify-center -left-4 top-1">
         <span class="font-bold text-white">5</span>
