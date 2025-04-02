@@ -164,7 +164,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
     </div>
   </div>
 
-   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10 md:col-span-2 lg:col-span-1">
+   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10 md:col-span-2"> 
      <img src="/assets/images/command-wait.jpg" alt="Illustration of a dog waiting patiently at a doorway" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
       <h4 class="text-xl font-semibold text-lime-600 dark:text-lime-400 mb-2">7. Wait</h4>
