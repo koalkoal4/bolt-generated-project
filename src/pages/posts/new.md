@@ -13,7 +13,6 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   Bringing a new dog or puppy home is incredibly exciting, isn't it? But amidst the flurry of fluff and fun, the question soon arises: where do we even begin with training? While dreaming of advanced tricks is fun, establishing a solid foundation of basic commands is absolutely essential. I remember feeling overwhelmed initially, wondering what <strong class="font-semibold">my own dog</strong> *really* needed to know first. It's not about teaching obedience for the sake of it, or about being the "alpha." For me, teaching these first commands is all about building a clear communication bridge, ensuring safety, making daily life smoother, and strengthening that incredible human-canine bond. It’s the starting point for a wonderful partnership, grounded in <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">positive basic training</a> principles.
 </p>
 
-<img src="/assets/images/first-commands1.jpg" alt="Owner and attentive puppy looking at each other, ready for a training session." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Bother Teaching Commands Early On?</h3>
 
@@ -72,6 +71,8 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8"> 
   Remember, the key is *how* we teach. Focusing on <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">using rewards effectively</a> makes learning enjoyable and builds enthusiasm, rather than anxiety.
 </p>
+
+<img src="/assets/images/first-commands1.jpg" alt="Owner and attentive puppy looking at each other, ready for a training session." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">The Foundational Few: My Top Essential Commands</h3>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
