@@ -2,8 +2,8 @@
 layout: ../../layouts/Post.astro
 title: "Start Here! The First 7 Commands Your Dog Needs to Know" # From user code
 description: "Build a strong foundation! Discover the essential first commands like Sit, Stay, Come, Leave It, and Down, why they matter for safety and communication, and tips for teaching them positively." # From user code
-date: 2025-04-03 # Updated Date
-image: "/assets/images/first-commands-main.jpg" # From user code
+date: 2025-04-02 # Updated Date
+image: "/assets/images/18.jpg" # From user code
 tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy first commands", "sit stay come", "positive reinforcement training", "dog training basics", "leave it command", "dog recall", "internal linking"] # From user code
 ---
 
@@ -70,7 +70,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   The point is what we teach, and how. <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">Rewards used effectively</a> build excitement, not anxiety, about learning. 
 </p>
 
-<img src="/assets/images/first-commands1.jpg" alt="Owner and attentive puppy looking at each other, ready for a training session." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
+<img src="/assets/images/19.jpg" alt="Owner and attentive puppy looking at each other, ready for a training session." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">To Start With: A Selection of My Favorite Essential Commands</h3> 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
@@ -80,7 +80,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 not-prose">
 
   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10">
-    <img src="/assets/images/command-sit.jpg" alt="Illustration of a dog sitting politely" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
+    <img src="/assets/images/20.jpg" alt="Illustration of a dog sitting politely" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
       <h4 class="text-xl font-semibold text-blue-600 dark:text-blue-400 mb-2">Sit</h4> 
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
@@ -94,7 +94,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   </div>
 
   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10">
-    <img src="/assets/images/command-down.jpg" alt="Illustration of a dog lying down calmly" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
+    <img src="/assets/images/21.jpg" alt="Illustration of a dog lying down calmly" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
       <h4 class="text-xl font-semibold text-purple-600 dark:text-purple-400 mb-2">Down (Lie Down)</h4> 
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
@@ -108,7 +108,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   </div>
 
   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10">
-    <img src="/assets/images/command-stay.jpg" alt="Illustration of a dog holding a stay position" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
+    <img src="/assets/images/22.jpg" alt="Illustration of a dog holding a stay position" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
       <h4 class="text-xl font-semibold text-green-600 dark:text-green-400 mb-2">Stay</h4> 
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
@@ -122,7 +122,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   </div>
 
   <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10">
-    <img src="/assets/images/command-come.jpg" alt="Illustration of a dog happily running towards its owner" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
+    <img src="/assets/images/23.jpg" alt="Illustration of a dog happily running towards its owner" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
       <h4 class="text-xl font-semibold text-orange-600 dark:text-orange-400 mb-2">Come (Recall)</h4> 
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
@@ -136,7 +136,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   </div>
 
    <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10">
-    <img src="/assets/images/command-leaveit.jpg" alt="Illustration of a dog ignoring a dropped item" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
+    <img src="/assets/images/24.jpg" alt="Illustration of a dog ignoring a dropped item" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
       <h4 class="text-xl font-semibold text-red-600 dark:text-red-400 mb-2">Leave It</h4> 
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
@@ -150,7 +150,7 @@ tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy 
   </div>
 
    <div class="bg-white dark:bg-slate-800 p-4 sm:p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow flex flex-col ring-1 ring-slate-900/5 dark:ring-slate-200/10">
-     <img src="/assets/images/command-dropit.jpg" alt="Illustration of a dog releasing a toy" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
+     <img src="/assets/images/25.jpg" alt="Illustration of a dog releasing a toy" class="w-full h-32 sm:h-40 object-cover rounded-lg mb-4" loading="lazy" />
     <div>
       <h4 class="text-xl font-semibold text-cyan-600 dark:text-cyan-400 mb-2">Drop It / Give</h4> 
       <p class="text-slate-600 dark:text-slate-300 text-sm mb-2">
