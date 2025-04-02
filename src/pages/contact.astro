@@ -24,6 +24,7 @@ import BaseLayout from '../layouts/Base.astro';
         </button>
       </form>
     </div>
+    <div id="status-message" class="mt-4 text-center text-sm font-medium"></div>
   </main>
 </BaseLayout>
 
@@ -57,30 +58,39 @@ import BaseLayout from '../layouts/Base.astro';
         .from('contacts') // Use the table name you provided
         .insert([{ name, email, message }]);
 
+      const statusMessageDiv = document.getElementById('status-message');
+      statusMessageDiv.textContent = ''; // Clear previous messages
+      statusMessageDiv.className = 'mt-4 text-center text-sm font-medium'; // Reset classes
+
       if (error) {
         console.error('Error inserting data:', error);
-        alert(`Error sending message: ${error.message}`);
-        submitButton.textContent = 'Send Message'; // Reset button text on error
+        statusMessageDiv.textContent = `Error sending message: ${error.message}`;
+        statusMessageDiv.classList.add('text-red-600', 'dark:text-red-400');
+        submitButton.textContent = 'Send Message';
       } else {
         console.log('Data inserted:', data);
-        alert('Message sent successfully!');
-        form.reset(); // Clear the form
-        submitButton.textContent = 'Message Sent!'; // Indicate success
-        setTimeout(() => { // Reset button after a delay
+        statusMessageDiv.textContent = 'Message sent successfully!';
+        statusMessageDiv.classList.add('text-green-600', 'dark:text-green-400');
+        form.reset();
+        submitButton.textContent = 'Message Sent!';
+        setTimeout(() => {
             submitButton.textContent = 'Send Message';
         }, 3000);
       }
     } catch (error) {
       console.error('Unexpected error:', error);
-      alert('An unexpected error occurred. Please try again.');
+      statusMessageDiv.textContent = 'An unexpected error occurred. Please try again.';
+      statusMessageDiv.classList.add('text-red-600', 'dark:text-red-400');
       submitButton.textContent = 'Send Message'; // Reset button text on error
     } finally {
       // Re-enable button only if it wasn't successful or after timeout
       if (submitButton.textContent !== 'Message Sent!') {
           submitButton.disabled = false;
       } else {
-          // Keep disabled briefly after success message
+          // Keep disabled briefly after success message, then clear status
           setTimeout(() => {
+              statusMessageDiv.textContent = ''; // Clear success message
+              statusMessageDiv.className = 'mt-4 text-center text-sm font-medium'; // Reset classes
               submitButton.disabled = false;
           }, 3000);
       }
