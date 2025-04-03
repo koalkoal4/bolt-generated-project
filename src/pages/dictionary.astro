@@ -1,0 +1,274 @@
+---
+import BaseLayout from '../layouts/Base.astro';
+const pageTitle = "Dog Training Dictionary";
+
+// Fetch data for specific related posts
+const relatedPostSlugs = [
+  'basic-dog-training',
+  '7-Commands-Your-Dog-Needs-to-Know',
+  'consistency-matters',
+  'right-training-enviroment',
+  'treats-and-rewards'
+];
+const allPosts = await Astro.glob('./posts/*.md'); // Path relative to dictionary.astro
+const relatedPosts = allPosts.filter(post =>
+  relatedPostSlugs.some(slug => post.url?.includes(slug))
+);
+// Optional: Sort if needed, though the order is likely determined by relatedPostSlugs
+// relatedPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
+
+const dictionary = [
+  // Existing Terms
+  { term: "Sit", definition: "A command where the dog lowers its hindquarters to the ground.", example: "Use \"sit\" to keep your dog calm before meals." },
+  { term: "Heel", definition: "Walking calmly beside the handler on a leash.", example: "Teach \"heel\" to prevent pulling during walks." },
+  { term: "Positive Reinforcement", definition: "Rewarding desired behaviors to encourage repetition.", example: "Treats and praise are common positive reinforcement tools." },
+  { term: "Clicker Training", definition: "Using a clicker to mark correct behaviors.", example: "Click the device the moment your dog sits." },
+  { term: "Recall", definition: "Training a dog to return when called.", example: "A strong recall ensures safety in off-leash areas." },
+  { term: "Down", definition: "Command for the dog to lie flat.", example: "Use \"down\" to settle your dog in public spaces." },
+  { term: "Crate Training", definition: "Acclimating a dog to a crate as a safe space.", example: "Crate training reduces separation anxiety." },
+  { term: "Bite Inhibition", definition: "Teaching a dog to control bite force.", example: "Puppies learn bite inhibition through play." },
+  { term: "Desensitization", definition: "Gradual exposure to reduce fear of triggers.", example: "Desensitize dogs to fireworks using recorded sounds." },
+  // New Terms
+  { term: "Marker Word", definition: "A verbal cue (e.g. \"Yes!\") to mark correct behavior.", example: "Say \"Good!\" when your dog follows a command." },
+  { term: "Canine", definition: "Term for dogs or dog-like animals.", example: "Wolves and foxes are part of the canine family." },
+  { term: "Zoomies", definition: "Sudden bursts of frantic running.", example: "Puppies get zoomies when excited." },
+  { term: "Whale Eye", definition: "Showing eye whites due to stress.", example: "A whale eye indicates discomfort." },
+  { term: "Resource Guarding", definition: "Aggression over food, toys or objects.", example: "Resource guarding requires behavior modification." },
+  { term: "Submissive Grin", definition: "Baring teeth slightly to show deference.", example: "A submissive grin is often misunderstood." },
+  { term: "Alarm Barking", definition: "Barking at perceived threats.", example: "Dogs alarm bark at doorbells or strangers." },
+  { term: "Deshedding", definition: "Removing loose fur from double-coated breeds.", example: "Use a deshedding tool during seasonal changes." },
+  { term: "Leash Pressure", definition: "Guiding movement via leash tension.", example: "Train dogs to respond to leash pressure." },
+  { term: "Martingale Collar", definition: "Limited-slip collar for escape-prone dogs.", example: "Martingale collars suit Greyhounds." },
+  { term: "Harness", definition: "Body-worn strap system for control.", example: "Front-clip harnesses reduce pulling." },
+  { term: "Snuffle Mat", definition: "Mat with hidden treats for scent work.", example: "Snuffle mats stimulate mental engagement." },
+  { term: "Long Line", definition: "Long leash (10–30 ft) for recall training.", example: "Use a long line in open parks." },
+  { term: "Gentle Leader", definition: "Head collar to reduce pulling.", example: "A Gentle Leader redirects the dog’s head." },
+  { term: "Service Dog", definition: "Dog trained to assist disabilities.", example: "Service dogs guide the visually impaired." },
+  { term: "Therapy Dog", definition: "Dog providing comfort in hospitals.", example: "Therapy dogs visit nursing homes." },
+  { term: "Detection Dog", definition: "Dog trained to sniff out substances.", example: "Detection dogs finds drugs at airports." },
+  { term: "Herding Instinct", definition: "Natural urge to control livestock.", example: "Border Collies have strong herding instincts." },
+  { term: "Search and Rescue", definition: "Dogs trained to find missing persons.", example: "Search and rescue dogs work in disasters." },
+  { term: "Breed Standard", definition: "Official breed appearance/temperament guidelines.", example: "The Golden Retriever breed standard emphasizes friendliness." },
+  { term: "Foster Fail", definition: "Adopting a foster dog permanently.", example: "We planned to foster, but it was a foster fail!" },
+  { term: "Doodle", definition: "Poodle crossbreed (e.g. Labradoodle).", example: "Doodles are popular for hypoallergenic coats." },
+  { term: "Canine Cognition", definition: "Study of dog intelligence.", example: "Canine cognition research explores problem-solving." },
+  { term: "Agility", definition: "Obstacle course racing.", example: "Agility trials test speed and obedience." },
+  { term: "Flyball", definition: "Relay race with ball retrieval.", example: "Flyball teams compete in timed events." },
+  { term: "Dock Diving", definition: "Jumping into water for distance.", example: "Dock diving champions leap over 30 feet." },
+  { term: "Obedience Trial", definition: "Competition for command execution.", example: "Obedience trials judge precision in sits and stays." },
+  { term: "Lure Coursing", definition: "Chasing a mechanically operated lure.", example: "Sighthounds excel in lure coursing." },
+  { term: "Scent Work", definition: "Identifying hidden scents.", example: "Scent work mimics detection dog tasks." },
+  { term: "Rally-O", definition: "Combination of obedience and agility.", example: "Rally-O involves following sign instructions." },
+  { term: "Schutzhund", definition: "Protection, tracking and obedience sport.", example: "German Shepherds dominate Schutzhund trials." },
+  { term: "Barn Hunt", definition: "Searching for rats in straw.", example: "Barn Hunt tests terriers’ hunting instincts." },
+  { term: "Tug Toy", definition: "Rope or fabric toy for interactive play.", example: "Tug toys satisfy a dog’s natural pulling urge." },
+  { term: "Kong", definition: "Durable rubber toy for stuffing treats.", example: "Freeze peanut butter in a Kong for enrichment." },
+  { term: "Frisbee", definition: "Flying disc for fetch.", example: "Play Frisbee in open fields for exercise." },
+  { term: "Chew Bone", definition: "Edible or synthetic bone for chewing.", example: "Give chew bones to reduce teething pain." },
+  { term: "Puzzle Feeder", definition: "Device requiring problem-solving for food.", example: "Puzzle feeders slow fast eaters." },
+  { term: "Flirt Pole", definition: "Wand with lure for chasing.", example: "Flirt poles simulate prey for high-energy dogs." },
+  { term: "Squeaky Toy", definition: "Toy that mimics prey sounds.", example: "Squeaky toys trigger hunting instincts." },
+  { term: "Treadmill", definition: "Equipment for indoor running.", example: "Use a treadmill for rainy-day exercise." },
+  { term: "Fetch", definition: "Retrieving thrown objects.", example: "Fetch builds endurance and obedience." },
+  { term: "Joring", definition: "Being pulled by a dog (e.g. bikejoring).", example: "Skijoring combines skiing and dog pulling." },
+  { term: "Weight Pulling", definition: "Competitive pulling of weighted sleds.", example: "Sled dogs excel in weight pulling." },
+  { term: "Pack Walk", definition: "Group walk to socialize dogs.", example: "Pack walks reduce reactivity in public." },
+  { term: "Merle", definition: "Pattern gene causing mottled fur.", example: "Merle coats are common in Australian Shepherds." },
+  { term: "Brindle", definition: "Tiger-stripe fur pattern.", example: "Boxers often have brindle coats." },
+  { term: "Piebald", definition: "White spotting pattern.", example: "Piebald Dachshunds have patchy coloration." },
+  { term: "Sable", definition: "Black-tipped fur on a lighter base.", example: "Sable German Shepherds have wolf-like coats." },
+  { term: "Double Coat", definition: "Two-layered fur (undercoat and topcoat).", example: "Huskies have thick double coats for cold." },
+  { term: "Separation Anxiety", definition: "Stress when left alone.", example: "Separation anxiety leads to destructive chewing." },
+  { term: "Counter Surfing", definition: "Stealing food from counters.", example: "Use baby gates to prevent counter surfing." },
+  { term: "Predatory Drift", definition: "Sudden prey-driven aggression.", example: "Predatory drift can occur in multi-dog homes." },
+  { term: "Calming Signals", definition: "Body language showing stress (e.g. yawning).", example: "Lip licking is a calming signal." },
+  { term: "Barrier Frustration", definition: "Reactivity when confined or leashed.", example: "Dogs with barrier frustration bark at fences." },
+  { term: "Hand Targeting", definition: "Touching a hand with the nose on command.", example: "Hand targeting redirects focus during walks." },
+  { term: "Place Command", definition: "Going to a designated spot (e.g. a mat).", example: "Use \"place\" to keep dogs out of the kitchen." },
+  { term: "Negative Punishment", definition: "Removing rewards to reduce unwanted behavior.", example: "Ignoring jumping is negative punishment." },
+  { term: "Socialization", definition: "Exposing dogs to new experiences.", example: "Socialization prevents fear-based aggression." },
+  { term: "Capture", definition: "Rewarding spontaneous desired behaviors.", example: "Capture calmness by treating quiet moments." },
+  { term: "Jackpot Reward", definition: "Extra-large reward for exceptional behavior.", example: "Give a jackpot for perfect recall." },
+  { term: "Proofing", definition: "Practicing commands in distracting environments.", example: "Proof \"stay\" at parks or busy streets." },
+  { term: "Interrupter", definition: "Sound/word to stop unwanted behavior.", example: "Use a clap or \"uh-uh\" as an interrupter." },
+  { term: "Emergency Stop", definition: "Command to halt movement instantly.", example: "Train an emergency stop for off-leash safety." },
+  { term: "Loose Leash Walking", definition: "Walking without pulling.", example: "Reward slack leash moments consistently." },
+  { term: "Free Shaping", definition: "Letting the dog experiment to earn rewards.", example: "Free shaping encourages problem-solving." },
+  { term: "Premack Principle", definition: "Using a desired action as a reward.", example: "Letting your dog play after obeying uses Premack." },
+  { term: "Crate", definition: "Enclosed space for rest/safety.", example: "Use a crate for travel or house training." },
+  { term: "Muzzle", definition: "Device to prevent biting.", example: "Muzzle-train dogs for vet visits if needed." },
+  { term: "Grooming Table", definition: "Table for brushing nail trimming etc.", example: "Grooming tables simplify coat maintenance." },
+  { term: "Nail Grinder", definition: "Tool to file dog nails.", example: "Nail grinders reduce splitting compared to clippers." },
+  { term: "Shedding Blade", definition: "Metal tool to remove loose fur.", example: "Shedding blades work best on short coats." },
+  { term: "Flea Comb", definition: "Fine-toothed comb to remove parasites.", example: "Flea combs detect infestations early." },
+  { term: "Dog Whistle", definition: "High-pitched whistle for commands.", example: "Dog whistles can signal recalls over distance." },
+  { term: "Whelping Box", definition: "Enclosed area for birthing puppies.", example: "Whelping boxes keep newborns safe and warm." },
+  { term: "ID Tag", definition: "Personalized tag with owner contact info.", example: "ID tags help reunite lost dogs with owners." },
+  { term: "Reflective Vest", definition: "Enhances visibility during night walks.", example: "Reflective vests keep dogs safe in traffic." },
+  { term: "Dog Boots", definition: "Protective footwear for paws.", example: "Use boots in extreme heat or icy conditions." },
+  { term: "Life Jacket", definition: "Floating aid for swimming dogs.", example: "Life jackets are essential for boating trips." },
+  { term: "Car Harness", definition: "Restraint for vehicle safety.", example: "Car harnesses prevent injury during crashes." },
+  { term: "Slow Feeder", definition: "Bowl with obstacles to slow eating.", example: "Slow feeders reduce bloat risk in fast eaters." },
+  { term: "Water Fountain", definition: "Flowing water dispenser.", example: "Cats and dogs prefer drinking from fountains." },
+  { term: "Training Dummy", definition: "Object for retrieving practice.", example: "Dummies are used in hunting dog training." },
+  { term: "Dog Ramp", definition: "Slope for accessing vehicles/furniture.", example: "Ramps protect small dogs’ joints." },
+  { term: "Agility Tunnel", definition: "Flexible tube for agility courses.", example: "Agility tunnels build confidence and speed." },
+  { term: "Weave Poles", definition: "Obstacle for zigzagging in agility.", example: "Weave poles test coordination and focus." },
+  { term: "Dog Teeter", definition: "See-saw obstacle in agility.", example: "The teeter teaches balance and control." },
+  { term: "A-Frame", definition: "Steep climbing obstacle in agility.", example: "A-frames are common in agility competitions." },
+  { term: "Dog Walk", definition: "Narrow elevated plank for agility.", example: "The dog walk tests balance and focus." },
+  { term: "Pause Table", definition: "Platform for stops during agility.", example: "Dogs must stay on the pause table for 5 seconds." },
+  { term: "Flyball Box", definition: "Mechanism that launches balls for retrieval.", example: "Flyball boxes trigger when dogs step on them." },
+  { term: "Lure Machine", definition: "Motorized device for coursing.", example: "Lure machines simulate prey movement." },
+  { term: "Scent Kit", definition: "Containers with target odors for training.", example: "Scent kits train detection dogs." },
+  { term: "Bait Pouch", definition: "Waist pouch for training treats.", example: "Bait pouches keep rewards accessible during sessions." },
+  { term: "Tug Line", definition: "Heavy-duty rope for bite work.", example: "Tug lines are used in police K9 training." },
+  { term: "Bite Sleeve", definition: "Padded sleeve for protection training.", example: "Bite sleeves train dogs in controlled scenarios." },
+  { term: "Decoy", definition: "Person acting as a suspect in protection training.", example: "Decoys wear bite suits for safety." },
+  { term: "Cherry Eye", definition: "Prolapsed eyelid gland.", example: "Cherry eye is treated with surgery or massage." },
+  { term: "Neuter", definition: "Surgical removal of testicles.", example: "Neutering reduces roaming in male dogs." },
+  { term: "Rehabilitation", definition: "Therapy post-injury/surgery.", example: "Hydrotherapy aids in canine rehabilitation." },
+  { term: "Kibble", definition: "Commercial dry dog food.", example: "Kibble is convenient and shelf-stable." },
+  { term: "Grain-Free", definition: "Food without wheat, corn or rice", example: "Grain-free diets are popular but controversial." },
+  { term: "Omega-3", definition: "Fatty acids for skin/coat health.", example: "Fish oil supplements provide omega-3." },
+  { term: "Probiotics", definition: "Supplements for gut health.", example: "Probiotics treat diarrhea from antibiotics." },
+  { term: "Hydration", definition: "Maintaining fluid balance.", example: "Always provide fresh water for hydration." },
+  { term: "Caloric Needs", definition: "Daily energy requirements.", example: "Active breeds have higher caloric needs." },
+  { term: "Food Puzzle", definition: "Toy dispensing food for mental stimulation.", example: "Food puzzles slow eating and reduce boredom." },
+  { term: "Treats", definition: "Reward snacks for training.", example: "Use low-calorie treats to avoid weight gain." }
+];
+---
+<BaseLayout title={pageTitle}>
+  <div class="max-w-4xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
+    <h1 class="text-3xl md:text-4xl font-bold mb-6 text-center text-slate-900 dark:text-slate-100">{pageTitle}</h1>
+    <p class="mb-8 text-lg text-center text-slate-600 dark:text-slate-400">Common terms used in dog training explained. Click on a term to see its definition.</p>
+
+    <div class="space-y-4">
+      {dictionary.map((item, index) => (
+        <button
+          class="w-full text-left px-6 py-4 text-xl font-semibold text-blue-600 dark:text-blue-400 bg-white dark:bg-slate-800 shadow-md rounded-lg hover:bg-slate-50 dark:hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 transition-colors flex items-center"
+          data-modal-trigger
+          data-term={item.term}
+          data-definition={item.definition}
+          data-example={item.example || ''}
+        >
+          <span>{item.term}</span>
+        </button>
+      ))}
+    </div>
+  </div>
+
+  {/* Modal Structure */}
+  <div id="dictionary-modal" class="fixed inset-0 bg-black bg-opacity-60 backdrop-blur-sm flex items-center justify-center p-4 z-50 hidden transition-opacity duration-300 ease-in-out opacity-0" aria-labelledby="modal-title" role="dialog" aria-modal="true">
+    <div class="bg-white dark:bg-slate-800 rounded-lg shadow-xl max-w-lg w-full p-6 transform transition-all duration-300 ease-in-out scale-95 opacity-0" id="modal-content">
+      <div class="flex justify-between items-start mb-4">
+        <h2 id="modal-title" class="text-2xl font-bold text-blue-600 dark:text-blue-400">Term Title</h2>
+        <button id="modal-close" class="text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200 transition-colors" aria-label="Close modal">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+        </button>
+      </div>
+      <div class="text-slate-700 dark:text-slate-300 space-y-3">
+        <p id="modal-definition">Definition goes here.</p>
+        <p id="modal-example" class="text-sm italic text-slate-500 dark:text-slate-400"></p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const modal = document.getElementById('dictionary-modal');
+    const modalContent = document.getElementById('modal-content');
+    const modalTitle = document.getElementById('modal-title');
+    const modalDefinition = document.getElementById('modal-definition');
+    const modalExample = document.getElementById('modal-example');
+    const closeModalButton = document.getElementById('modal-close');
+    // Re-query trigger buttons after potential dynamic updates if needed,
+    // but since Astro renders this on build/request, querying once is fine.
+    const triggerButtons = document.querySelectorAll('[data-modal-trigger]');
+
+    function openModal(term, definition, example) {
+      modalTitle.textContent = term;
+      modalDefinition.textContent = definition;
+      if (example) {
+        modalExample.textContent = `Example: ${example}`;
+        modalExample.classList.remove('hidden');
+      } else {
+        modalExample.textContent = '';
+        modalExample.classList.add('hidden');
+      }
+      modal.classList.remove('hidden');
+      // Trigger fade-in and scale-up animations
+      requestAnimationFrame(() => {
+        modal.classList.remove('opacity-0');
+        modalContent.classList.remove('scale-95', 'opacity-0');
+      });
+    }
+
+    function closeModal() {
+      modal.classList.add('opacity-0');
+      modalContent.classList.add('scale-95', 'opacity-0');
+      // Wait for animation to finish before hiding
+      setTimeout(() => {
+        modal.classList.add('hidden');
+      }, 300); // Match transition duration
+    }
+
+    triggerButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        const term = button.dataset.term;
+        const definition = button.dataset.definition;
+        const example = button.dataset.example;
+        openModal(term, definition, example);
+      });
+    });
+
+    closeModalButton.addEventListener('click', closeModal);
+
+    // Close modal if clicking outside the content area
+    modal.addEventListener('click', (event) => {
+      if (event.target === modal) {
+        closeModal();
+      }
+    });
+
+    // Close modal on Escape key press
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && !modal.classList.contains('hidden')) {
+        closeModal();
+      }
+    });
+  </script>
+  {/* Further Reading Section */}
+  <div class="max-w-4xl mx-auto px-4 py-12 sm:px-6 lg:px-8 border-t border-slate-200 dark:border-slate-700 mt-12">
+    <h2 class="text-2xl md:text-3xl font-bold mb-6 text-center text-slate-900 dark:text-slate-100">Further Reading</h2>
+    <p class="mb-8 text-lg text-center text-slate-600 dark:text-slate-400">Explore our blog for more in-depth training guides:</p>
+    <div class="space-y-8">
+      {relatedPosts.length > 0 ? (
+        relatedPosts.map(post => (
+          <article class="bg-white dark:bg-slate-800 rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow flex flex-col sm:flex-row">
+            {post.frontmatter.image && (
+              <a href={post.url} class="block sm:w-1/3">
+                <img src={post.frontmatter.image} alt={post.frontmatter.title + " preview"} class="w-full h-48 sm:h-full object-cover" loading="lazy" />
+              </a>
+            )}
+            <div class:list={["p-4 sm:p-6 flex flex-col flex-grow", post.frontmatter.image ? 'sm:w-2/3' : 'w-full']}>
+              {post.frontmatter.date && (
+                 <time class="text-sm text-slate-500 dark:text-slate-400">{new Date(post.frontmatter.date).toLocaleDateString()}</time>
+              )}
+              <h3 class="text-xl sm:text-2xl font-semibold mt-2 mb-3 flex-grow dark:text-white">
+                <a href={post.url} class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">{post.frontmatter.title}</a>
+              </h3>
+              {post.frontmatter.description && (
+                 <p class="text-slate-600 dark:text-slate-300 mb-4 text-sm sm:text-base flex-grow">{post.frontmatter.description}</p>
+              )}
+              <div class="mt-auto">
+                 <a href={post.url} class="text-blue-600 dark:text-blue-400 hover:underline text-sm font-medium">Read more →</a>
+              </div>
+            </div>
+          </article>
+        ))
+      ) : (
+        <p class="text-center text-slate-500 dark:text-slate-400">No related posts found.</p>
+      )}
+    </div>
+  </div>
+</BaseLayout>
