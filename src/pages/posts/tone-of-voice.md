@@ -2,7 +2,7 @@
 layout: ../../layouts/Post.astro
 title: "Speak Their Language: The Power of Tone of Voice in Dog Training" # From user code
 description: "It's not just *what* you say, but *how* you say it! Discover the crucial role your tone of voice plays in dog training, communication, and building a strong bond." # From user code
-date: 2025-04-03 # Updated Date
+date: 2025-03-30 # Updated Date
 image: "/assets/images/7.jpg" # From user code
 tags: ["dog training tone of voice", "tone of voice commands", "dog communication", "positive reinforcement voice", "how dogs hear us", "dog training tips", "vocal cues", "internal linking"] # From user code
 ---

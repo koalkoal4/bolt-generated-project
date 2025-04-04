@@ -2,7 +2,7 @@
 layout: ../../layouts/Post.astro
 title: "The First 7 Commands Your Dog Needs to Know" # From user code
 description: "Build a strong foundation! Discover the essential first commands like Sit, Stay, Come, Leave It, and Down, why they matter for safety and communication, and tips for teaching them positively." # From user code
-date: 2025-04-02 # Updated Date
+date: 2025-03-29 # Updated Date
 image: "/assets/images/18.jpg" # From user code
 tags: ["first dog commands", "basic dog commands", "essential dog cues", "puppy first commands", "sit stay come", "positive reinforcement training", "dog training basics", "leave it command", "dog recall", "internal linking"] # From user code
 ---

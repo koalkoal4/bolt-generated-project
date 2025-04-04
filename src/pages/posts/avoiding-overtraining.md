@@ -2,7 +2,7 @@
 layout: ../../layouts/Post.astro
 title: "More Isn't Always Better: How to Avoid Overtraining Your Dog" # From user code
 description: "Enthusiasm is great, but burnout is real! Learn to recognize the signs of overtraining in dogs (physical & mental) and discover practical strategies to keep training fun and effective." # From user code
-date: 2025-04-04 # Updated Date
+date: 2025-03-31 # Updated Date
 image: "/assets/images/31.jpg" # From user code
 tags: ["overtraining dog", "dog training burnout", "dog training session length", "signs of stress in dogs", "dog mental fatigue", "positive dog training limits", "dog well-being", "internal linking"] # From user code
 ---

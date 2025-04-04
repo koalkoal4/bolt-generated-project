@@ -2,7 +2,7 @@
 layout: ../../layouts/Post.astro
 title: "The Best Place to Train Your Dog: Choosing a Location for Training" # From user's code
 description: "Set your dog up for training success! Learn why the environment matters so much, how to start low-distraction, gradually proof behaviors, and choose the perfect spot for any goal." # From user's code
-date: 2025-03-31 # From user's code (or use current if preferred)
+date: 2025-03-27 # From user's code (or use current if preferred)
 image: "/assets/images/8.jpg" # User's specified image path
 tags: ["dog training environment", "where to train my dog", "dog training distractions", "puppy training locations", "dog training focus", "proofing dog training", "dog training setup"] # From user's code
 ---
