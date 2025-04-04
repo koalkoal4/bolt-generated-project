@@ -53,28 +53,42 @@ tags: ["overtraining dog", "dog training burnout", "dog training session length"
 
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
      <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
-        <svg class="w-10 h-10 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75Z"></path></svg>
+        <svg class="w-10 h-10 mx-auto" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <!-- Battery Body -->
+            <path d="m 3,5 c -1.6447,0 -3,1.3553 -3,3 v 19 c 0,1.6447 1.3553,3 3,3 h 10 c 1.6447,0 3,-1.3553 3,-3 v -19 c 0,-1.6447 -1.3553,-3 -3,-3 z m 0,2 h 10 c 0.5713,0 1,0.4287 1,1 v 19 c 0,0.5713 -0.4287,1 -1,1 h -10 c -0.5713,0 -1,-0.4287 -1,-1 v -19 c 0,-0.5713 0.4287,-1 1,-1 z"/>
+            <!-- Battery Top -->
+            <path d="m 5,2 c -1.0907,0 -2,0.9093 -2,2 v 1 c 0,1.0907 0.9093,2 2,2 h 6 c 1.0907,0 2,-0.9093 2,-2 v -1 c 0,-1.0907 -0.9093,-2 -2,-2 z m 0,2 h 6 v 1 h -6 z"/>
+            <!-- Charge Level 1 -->
+            <path d="m 5,24 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 6 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"/>
+            <!-- Charge Level 2 -->
+            <path d="m 5,21 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 6 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z"/>
+        </svg>
      </div>
-     <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Physical Fatigue</h4> 
-     <p class="text-sm text-slate-600 dark:text-slate-300">Heavy panting (more than normal exertion), lagging behind, muscle soreness, general lethargy.</p> 
+     <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Physical Fatigue</h4>
+     <p class="text-sm text-slate-600 dark:text-slate-300">Heavy panting (more than normal exertion), lagging behind, muscle soreness, general lethargy.</p>
   </div>
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
      <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
-        <svg class="w-10 h-10 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.182 16.318A4.5 4.5 0 0 1 12 16.5a4.5 4.5 0 0 1-3.182-.182M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM9.75 9.75c0 .414-.168.75-.375.75S9 10.164 9 9.75 9.168 9 9.375 9s.375.336.375.75Zm-.375 0h.008v.015h-.008V9.75Zm5.625 0c0 .414-.168.75-.375.75s-.375-.336-.375-.75.168-.75.375-.75.375.336.375.75Zm-.375 0h.008v.015h-.008V9.75Z"></path></svg>
+        <svg class="w-10 h-10 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126ZM12 15.75h.007v.008H12v-.008Z"></path></svg>
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Increased Stress Signals</h4> 
      <p class="text-sm text-slate-600 dark:text-slate-300">Yawning, lip licking, “whale eye” (showing whites of the eyes), leaning tense body forward, shaking off (not when wet), avoidance.</p> 
   </div>
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
      <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
-        <svg class="w-10 h-10 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 13.125C3 12.504 3.504 12 4.125 12h3.75c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-3.75A1.125 1.125 0 0 1 3 16.875v-3.75ZM3 8.625c0-.621.504-1.125 1.125-1.125h3.75c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-3.75A1.125 1.125 0 0 1 3 12.375v-3.75Zm12 4.5c0-.621.504-1.125 1.125-1.125h3.75c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-3.75a1.125 1.125 0 0 1-1.125-1.125v-3.75Zm-6 4.5c0-.621.504-1.125 1.125-1.125h3.75c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-3.75a1.125 1.125 0 0 1-1.125-1.125v-3.75Z"></path></svg>
+        <svg class="w-10 h-10 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M2.25 6 9 12.75l4.286-4.286a11.948 11.948 0 0 1 4.306 6.43l.776 2.898m0 0 3.182-5.511m-3.182 5.51-5.511-3.181"></path></svg>
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Lack of Enthusiasm</h4> 
      <p class="text-sm text-slate-600 dark:text-slate-300">Wander off, sniffing too much, checked out, or mentally or emotionally disengaged.</p> 
   </div>
   <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
      <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
-        <svg class="w-10 h-10 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 4.5h14.25M3 9h9.75M3 13.5h9.75m4.5-4.5v12m0 0l-3.75-3.75M17.25 21L21 17.25"></path></svg>
+        <svg class="w-10 h-10 mx-auto" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+          <path d="M61.539 26.797C58.974 12.239 46.316 2 32.031 2c-1.73 0-3.482.15-5.246.461C10.471 5.338-.425 20.895 2.452 37.215C5.018 51.772 17.677 62.01 31.961 62.01c1.729 0 3.482-.15 5.244-.461c16.316-2.877 27.213-18.432 24.334-34.752M54.523 47.78c-4.213 6.016-10.518 10.031-17.752 11.307c-1.592.28-3.21.423-4.811.423c-13.351 0-24.726-9.559-27.047-22.729C2.281 21.848 12.288 7.556 27.22 4.923c1.591-.28 3.21-.423 4.812-.423c13.35 0 24.725 9.56 27.047 22.731c1.275 7.235-.343 14.533-4.556 20.549"></path>
+          <circle cx="42.383" cy="24.683" r="5"></circle>
+          <circle cx="19.732" cy="28.676" r="4.999"></circle>
+          <path d="M43.27 41.832c-5.766-1.549-12.049-.428-16.93 3.013c-1.205.87 1.053 4.028 2.252 3.153c3.223-2.268 8.352-3.835 13.66-2.432c1.422.376 2.535-3.309 1.018-3.734"></path>
+        </svg>
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Sluggish Response / More Mistakes</h4> 
      <p class="text-sm text-slate-600 dark:text-slate-300">Slower to respond to familiar cues, making silly mistakes, seeming confused.</p> 
@@ -88,7 +102,7 @@ tags: ["overtraining dog", "dog training burnout", "dog training session length"
   </div>
    <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
      <div class="text-4xl mb-3 text-red-500 dark:text-red-400">
-        <svg class="w-10 h-10 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18.364 18.364A9 9 0 0 0 5.636 5.636m12.728 12.728A9 9 0 0 1 5.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
+        <svg class="w-10 h-10 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5.636 5.636a9 9 0 1 0 12.728 0M12 3v9"></path></svg>
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Shutdown / Disengagement</h4> 
      <p class="text-sm text-slate-600 dark:text-slate-300">The dog either quits giving behaviors altogether, freezes, or attempts to leave the training spot.</p> 
