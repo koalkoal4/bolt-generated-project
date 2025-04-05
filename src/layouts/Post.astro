@@ -7,14 +7,27 @@ const allPosts = await Astro.glob('../pages/posts/*.md');
 // Filter out the current post
 const otherPosts = allPosts.filter(post => post.url !== Astro.url.pathname);
 
-// Function to shuffle array and get N elements
-function getRandomPosts(arr, n) {
-  const shuffled = arr.sort(() => 0.5 - Math.random());
-  return shuffled.slice(0, n);
-}
+const currentTags = frontmatter.tags || []; // Get current post's tags, default to empty array
 
-// Get 3 random posts (or fewer if not enough posts exist)
-const suggestedPosts = getRandomPosts(otherPosts, 3);
+// Find posts with at least one common tag
+const relatedPosts = otherPosts.filter(post => {
+  const postTags = post.frontmatter.tags || [];
+  // Check if any tag in postTags exists in currentTags
+  return postTags.some(tag => currentTags.includes(tag));
+});
+
+// Determine suggested posts: prioritize related, fallback to recent
+let suggestedPosts = [];
+if (relatedPosts.length > 0) {
+  // If related posts found, use up to 3 of them
+  suggestedPosts = relatedPosts.slice(0, 3);
+} else {
+  // If no related posts, fallback to the 3 most recent posts (excluding current)
+  const recentPosts = otherPosts.sort((a, b) =>
+    new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf()
+  );
+  suggestedPosts = recentPosts.slice(0, 3);
+}
 ---
 <BaseLayout title={frontmatter.title + " | Trained Tails Blog"}>
   <article class="max-w-4xl mx-auto px-4 py-8 prose prose-slate dark:prose-invert lg:prose-lg">
@@ -32,7 +45,7 @@ const suggestedPosts = getRandomPosts(otherPosts, 3);
   </article>
 
   {/* Suggested Posts Section */}
-  {suggestedPosts.length > 0 && (
+  {/* Always render the section wrapper */}
     <section class="max-w-4xl mx-auto px-4 py-12 mt-12 border-t border-slate-200 dark:border-slate-700">
       <h2 class="text-2xl md:text-3xl font-bold text-slate-800 dark:text-slate-100 mb-8 text-center">You Might Also Like</h2>
       <div class="grid gap-6 sm:gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 not-prose"> {/* Added not-prose */}
@@ -56,5 +69,5 @@ const suggestedPosts = getRandomPosts(otherPosts, 3);
         ))}
       </div>
     </section>
-  )}
+  {/* End of section wrapper */}
 </BaseLayout>
