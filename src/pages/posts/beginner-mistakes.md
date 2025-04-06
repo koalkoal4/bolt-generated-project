@@ -72,12 +72,12 @@ tags: ["beginner dog training mistakes", "common dog training errors", "positive
         <div class="pt-6 first:pt-0">
             <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-200 mb-3">5. Using the Wrong (or Only) Rewards</h4> <div class="flex items-start mb-2">
                 <span class="text-red-500 mr-2 mt-1 text-lg">❌</span>
-                <p class="text-slate-600 dark:text-slate-300 text-sm sm:text-base"> Low-value treats for tough tasks, only using food ("nourishment"), or depending too long on lures reduces motivation.
+                <p class="text-slate-600 dark:text-slate-300 text-sm sm:text-base"> Low-value treats for tough tasks, only using food, or depending too long on lures reduces motivation.
                 </p>
             </div>
            <div class="flex items-start">
                 <span class="text-emerald-500 mr-2 mt-1 text-lg">✅</span>
-                <p class="text-slate-600 dark:text-slate-300 text-sm sm:text-base"> Find your dog's high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">rewards</a> (treats, toys, praise, life activities/"awards"). Match reward value to the task ("errand"); fade lures swiftly.
+                <p class="text-slate-600 dark:text-slate-300 text-sm sm:text-base"> Find your dog's high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">rewards</a> . Match reward value to the task; fade lures swiftly.
                 </p>
             </div>
         </div>
