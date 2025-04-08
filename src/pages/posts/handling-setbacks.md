@@ -2,7 +2,7 @@
 layout: ../../layouts/Post.astro
 title: "Two Steps Forward, One Step Back: Navigating Dog Training Setbacks"
 description: "Feeling stuck or seeing regression in your dog's training? It's normal! Learn why setbacks happen and positive, effective strategies to troubleshoot and get back on track."
-date: 2025-04-08 # Current Date
+date: 2025-04-07 # Current Date
 image: "/assets/images/37.jpg" # Placeholder: Image showing a slightly puzzled dog and owner during training
 tags: ["dog training setbacks", "dog training regression", "dog training plateau", "dog training troubleshooting", "dog training not working", "positive reinforcement setbacks", "dog training frustration", "puppy training problems", "internal linking"]
 ---
