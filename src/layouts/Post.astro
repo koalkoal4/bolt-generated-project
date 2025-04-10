@@ -4,8 +4,13 @@ import BaseLayout from './Base.astro';
 const { frontmatter } = Astro.props;
 const allPosts = await Astro.glob('../pages/posts/*.md');
 
-// Filter out the current post
-const otherPosts = allPosts.filter(post => post.url !== Astro.url.pathname);
+// Helper function to normalize URL paths
+const normalizePath = (path) => {
+  return path.replace(/\/$/, ''); // Remove trailing slash
+};
+
+// Filter out the current post using normalized paths
+const otherPosts = allPosts.filter(post => normalizePath(post.url) !== normalizePath(Astro.url.pathname));
 
 const currentTags = frontmatter.tags || []; // Get current post's tags, default to empty array
 
@@ -16,17 +21,19 @@ const relatedPosts = otherPosts.filter(post => {
   return postTags.some(tag => currentTags.includes(tag));
 });
 
-// Determine suggested posts: prioritize related, fallback to recent
-let suggestedPosts = [];
-if (relatedPosts.length > 0) {
-  // If related posts found, use up to 3 of them
-  suggestedPosts = relatedPosts.slice(0, 3);
-} else {
-  // If no related posts, fallback to the 3 most recent posts (excluding current)
-  const recentPosts = otherPosts.sort((a, b) =>
-    new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf()
-  );
-  suggestedPosts = recentPosts.slice(0, 3);
+// Determine suggested posts: prioritize related, fill with recent if needed
+const MAX_SUGGESTIONS = 3;
+let suggestedPosts = relatedPosts.slice(0, MAX_SUGGESTIONS);
+
+// If we don't have enough related posts, fill with recent ones
+if (suggestedPosts.length < MAX_SUGGESTIONS) {
+  const relatedUrls = suggestedPosts.map(post => normalizePath(post.url));
+  const recentPosts = otherPosts
+    .filter(post => !relatedUrls.includes(normalizePath(post.url))) // Exclude already selected related posts
+    .sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
+
+  const needed = MAX_SUGGESTIONS - suggestedPosts.length;
+  suggestedPosts = suggestedPosts.concat(recentPosts.slice(0, needed));
 }
 ---
 <BaseLayout title={frontmatter.title + " | Trained Tails Blog"}>
