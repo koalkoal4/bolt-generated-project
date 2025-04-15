@@ -16,6 +16,15 @@ const { title } = Astro.props;
       document.documentElement.classList.toggle('dark', savedTheme === 'dark');
     }
   </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-19H91CPZ89"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-19H91CPZ89');
+  </script>
 </head>
 <body class="bg-gradient-to-b from-slate-50 to-blue-50 dark:from-slate-900 dark:to-slate-800 flex flex-col min-h-screen text-slate-900 dark:text-slate-200"> {/* Added default text colors */}
   <!-- Navigation Bar -->
