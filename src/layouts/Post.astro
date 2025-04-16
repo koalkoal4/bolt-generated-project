@@ -42,7 +42,7 @@ if (suggestedPosts.length < MAX_SUGGESTIONS) {
     <p class="text-sm text-slate-500 dark:text-slate-400 mb-8">
       Published on: {new Date(frontmatter.date).toLocaleDateString()}
       {frontmatter.tags && frontmatter.tags.length > 0 && (
-        <span class="ml-4">Tags: {frontmatter.tags.join(', ')}</span>
+        <span class="ml-4 hidden">Tags: {frontmatter.tags.join(', ')}</span>
       )}
     </p>
     {frontmatter.image && <img src={frontmatter.image} alt={frontmatter.title + " hero image"} class="w-full h-auto rounded-xl mb-8 shadow-lg" loading="lazy" />}
