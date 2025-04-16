@@ -1,4 +1,5 @@
 {
+  "trailingSlash": false,
   "headers": [
     {
       "source": "/(.*)",
@@ -24,13 +25,6 @@
           "value": "geolocation=(), microphone=(), camera=(), payment=()"
         }
       ]
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/(.+)/$",
-      "destination": "/$1",
-      "permanent": true
     }
   ]
 }
