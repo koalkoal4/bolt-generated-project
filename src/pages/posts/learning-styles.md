@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
 title: "Tune In To Your Dog: Understanding Their Unique Learning Style"
-description: "Does your dog learn best by watching, listening, or doing? i explore common dog learning styles and how understanding yours can make training faster, easier, and more fun!"
+description: "Does your dog learn best by watching, listening, or doing? I explore common dog learning styles and how understanding yours can make training faster, easier, and more fun!"
 date: 2025-04-14 # Current Date
 image: "/assets/images/44.jpg" # Placeholder - Will be replaced with actual image path
 tags: ["dog learning styles", "how dogs learn", "dog training methods", "visual learning dogs", "auditory learning dogs", "kinesthetic learning dogs", "positive dog training", "dog cognition", "dog brain training"]

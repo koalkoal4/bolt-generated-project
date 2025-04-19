@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
 title: "Tailoring Your Training: Connecting with Different Dog Temperaments"
-description: "Shy dog? Bold pup? Learn to 'read the room' and adapt your positive training methods to match your dog's unique temperament for a stronger bond and better results. i share my tips!"
+description: "Shy dog? Bold pup? Learn to 'read the room' and adapt your positive training methods to match your dog's unique temperament for a stronger bond and better results. I share my tips!"
 date: 2025-04-13 # Current Date - You might want to update this if needed
 image: "/assets/images/42.jpg" # Placeholder - Will be replaced with actual image path
 tags: ["dog temperament training", "dog personality training", "positive reinforcement temperaments", "training shy dogs", "training confident dogs", "dog training adaptation", "understanding dog behavior", "individualized dog training"]

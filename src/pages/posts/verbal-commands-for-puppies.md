@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
 title: "Puppy Talk: Introducing Verbal Commands the Fun Way"
-description: "Got a new puppy? Congrats! i share simple, positive steps for introducing basic verbal commands like 'Sit' and 'Come' to your puppy, keeping it fun and frustration-free."
+description: "Got a new puppy? Congrats! I share simple, positive steps for introducing basic verbal commands like 'Sit' and 'Come' to your puppy, keeping it fun and frustration-free."
 date: 2025-04-15 # Current Date
 image: "/assets/images/53.jpg" # Placeholder - Will be replaced with actual image path
 tags: ["puppy verbal commands", "teaching puppy commands", "positive puppy training", "puppy first commands", "puppy training tips", "dog training basics", "puppy communication", "easy puppy training"]

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
 title: "Squirrel! Training Your Easily Distracted Dog"
-description: "Is your dog more interested in butterflies than training? i get it! Learn why dogs get distracted and grab my practical, positive strategies to improve focus and make training stick."
+description: "Is your dog more interested in butterflies than training? I get it! Learn why dogs get distracted and grab my practical, positive strategies to improve focus and make training stick."
 date: 2025-04-12 # Current Date
 image: "/assets/images/40.jpg" # Placeholder - Will be replaced with actual image path
 tags: ["distracted dog training", "dog focus training", "positive reinforcement focus", "dog attention training", "training with distractions", "puppy focus", "dog impulse control", "engaging dog training"]

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
 title: "Constant Woofing? Understanding and Managing Excessive Dog Barking"
-description: "Is your dog's barking driving you crazy? i get it! Let's explore common reasons dogs bark excessively and positive, practical strategies to manage the noise and restore peace."
+description: "Is your dog's barking driving you crazy? I get it! Let's explore common reasons dogs bark excessively and positive, practical strategies to manage the noise and restore peace."
 date: 2025-04-18 # Current Date
 image: "/assets/images/58.jpg" # Placeholder - Will be replaced with actual image path
 tags: ["stop dog barking", "excessive barking", "dog barking solutions", "why dogs bark", "positive reinforcement barking", "dog behavior barking", "quiet command dog", "dog barking triggers"]

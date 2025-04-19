@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Post.astro
 title: "Beyond 'Good Enough': Why Precision Matters in Advanced Dog Training"
-description: "Is a slow 'Sit' okay? Sometimes! But in advanced training, precision counts. i explore why accuracy, speed, and focus are key for reliability and how to build them positively."
+description: "Is a slow 'Sit' okay? Sometimes! But in advanced training, precision counts. I explore why accuracy, speed, and focus are key for reliability and how to build them positively."
 date: 2025-04-17 # Current Date
 image: "/assets/images/57.jpg" # Placeholder - Will be replaced with actual image path
 tags: ["dog training precision", "advanced dog obedience", "dog training accuracy", "shaping dog behavior", "dog training reliability", "cue discrimination dogs", "positive reinforcement precision", "advanced dog skills"]
