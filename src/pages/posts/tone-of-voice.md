@@ -10,7 +10,7 @@ tags: ["dog training tone of voice", "tone of voice commands", "dog communicatio
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">It's Not Just Words: Tuning Into Your Tone of Voice</h2> 
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-  I talk to my dogs all the time, don’t I? We give them cues, shower them with praise, might have little conversations (I know I do!). Or have you ever taken the time to realize all that they are comprehending beyond the words themselves? When I first started training, I concentrated on the precise words of the commands because I thought it was all about the words. At the time, I didn’t realize the immense influence of the way I was saying those words — my tone, pitch and volume. I quickly discovered that my tone of voice was a great communication channel, able to motivate, calm, clarify, or regretfully, confuse or stress my dog. In fact, being aware of and deliberately placing this tone of voice is a key part of concise, successful, upbeat <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">dog coaching</a>. 
+  I talk to my dogs all the time, don’t I? We give them cues, shower them with praise, might have little conversations (I know I do!). Or have you ever taken the time to realize all that they are comprehending beyond the words themselves? When I first started training, I concentrated on the precise words of the commands because I thought it was all about the words. At the time, I didn’t realize the immense influence of the way I was saying those words — my tone, pitch and volume. I quickly discovered that my tone of voice was a great communication channel, able to motivate, calm, clarify, or regretfully, confuse or stress my dog. In fact, being aware of and deliberately placing this tone of voice is a key part of concise, successful, upbeat <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">dog coaching</a>. 
 </p>
 
 <img src="/assets/images/23.jpg" alt="Person speaking happily and clearly to an attentive, happy dog." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
@@ -18,7 +18,7 @@ tags: ["dog training tone of voice", "tone of voice commands", "dog communicatio
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Are They Really Listening? How Dogs Perceive Our Tone</h3> 
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
-  Absolutely! Dogs may not understand complex grammar, but exhaustive studies and everyday life demonstrate that they are keenly sensitive to human <a href="https://trainedtails.com/dictionary" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">vocal signals</a>. They react differently to changes in pitch, rhythm, volume and emotional <a href="https://trainedtails.com/dictionary" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">intonation</a>. Consider how dogs frequently respond favorably to a high, sing-song “baby talk” — it captures their attention, and often signifies play or affection. On the other hand, a low, sharp tone might be an alert or an indication of displeasure. 
+  Absolutely! Dogs may not understand complex grammar, but exhaustive studies and everyday life demonstrate that they are keenly sensitive to human <a href="https://trainedtails.com/dictionary" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">vocal signals</a>. They react differently to changes in pitch, rhythm, volume and emotional <a href="https://trainedtails.com/dictionary" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">intonation</a>. Consider how dogs frequently respond favorably to a high, sing-song “baby talk” — it captures their attention, and often signifies play or affection. On the other hand, a low, sharp tone might be an alert or an indication of displeasure. 
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
   They tune in to the emotional current of our voice. So when we sound happy and excited, they tend to reflect that excitement. If, while giving a cue like 'Stay,' we sound tense or worried, they may also become anxious, apprehensive of something bad happening or unsure. The tone we use when speaking adds an extra measure of meaning to our words and conveys our intent and emotional state to our dogs. 
@@ -64,13 +64,13 @@ tags: ["dog training tone of voice", "tone of voice commands", "dog communicatio
      </div>
      <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Harsh / Angry / Loud (AVOID!)</h4> 
      <p class="text-sm text-slate-600 dark:text-slate-300"><strong>Use for:</strong> Zip in positive training!
-     <br><strong>Consequence:</strong> Fear, anxiety, destroys trust, takes away learning, turns to violence. Instead, focus on <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">positive reinforcement</a>.</p>
+     <br><strong>Consequence:</strong> Fear, anxiety, destroys trust, takes away learning, turns to violence. Instead, focus on <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">positive reinforcement</a>.</p>
   </div>
 
 </div>
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Matching Your Tone to the Task: Command Examples</h3> 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-6">
-  Here’s how tone works with some of those all-important <a href="https://trainedtails.com/posts/7-Commands-Your-Dog-Needs-to-Know" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">initial commands</a>: 
+  Here’s how tone works with some of those all-important <a href="https://trainedtails.com/posts/7-Commands-Your-Dog-Needs-to-Know" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">initial commands</a>: 
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 not-prose">
@@ -121,7 +121,7 @@ tags: ["dog training tone of voice", "tone of voice commands", "dog communicatio
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Consistency in Tone: Clarity Over Time</h3> 
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-  Using a command word for the same action at all times, as well as a constant tone for given situations, is as effective with your dog (and children) to learn faster. If you always use a very happy, upbeat tone when praising them, they learn to correlate that sound with great stuff. But if your cues are consistently calm and neutral, they learn to listen for the instruction without being overly excited or anxious. As we mentioned earlier, <a href="https://trainedtails.com/posts/consistency-matters" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency is key</a> in all facets of training, and tone is no different! To prevent confusing your dog, all members of your house should use the same tones in cues and praise. 
+  Using a command word for the same action at all times, as well as a constant tone for given situations, is as effective with your dog (and children) to learn faster. If you always use a very happy, upbeat tone when praising them, they learn to correlate that sound with great stuff. But if your cues are consistently calm and neutral, they learn to listen for the instruction without being overly excited or anxious. As we mentioned earlier, <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency is key</a> in all facets of training, and tone is no different! To prevent confusing your dog, all members of your house should use the same tones in cues and praise. 
 </p>
 
 
@@ -138,7 +138,7 @@ tags: ["dog training tone of voice", "tone of voice commands", "dog communicatio
       </div>
       <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Check Motivation</h4> 
       <p class="text-lg text-slate-600 dark:text-slate-300">
-        Is the reward worth it for that situation? Try out a variety of <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">refreshments and incentives</a>. 
+        Is the reward worth it for that situation? Try out a variety of <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">refreshments and incentives</a>. 
       </p>
     </div>
     <div class="relative pl-8">
@@ -147,7 +147,7 @@ tags: ["dog training tone of voice", "tone of voice commands", "dog communicatio
       </div>
       <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-3">Assess the Environment</h4> 
       <p class="text-lg text-slate-600 dark:text-slate-300">
-         Is it too distracting? Return to a more peaceful <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">training atmosphere</a>. 
+         Is it too distracting? Return to a more peaceful <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training atmosphere</a>. 
       </p>
     </div>
     <div class="relative pl-8">

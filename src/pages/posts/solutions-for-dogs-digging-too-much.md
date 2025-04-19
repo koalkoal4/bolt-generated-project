@@ -27,7 +27,7 @@ tags: ["stop dog digging", "dog digging solutions", "why dogs dig", "dog boredom
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Breed Instincts:</strong> Terriers were bred to dig for rodents, hounds might dig after burrowing animals. For some, it's just deeply ingrained! Knowing your dog's background and general <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">temperament</a> helps.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Breed Instincts:</strong> Terriers were bred to dig for rodents, hounds might dig after burrowing animals. For some, it's just deeply ingrained! Knowing your dog's background and general <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">temperament</a> helps.
             </p>
         </div>
     </div>
@@ -107,7 +107,7 @@ tags: ["stop dog digging", "dog digging solutions", "why dogs dig", "dog boredom
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Block Access:</strong> Use temporary fencing, large rocks, or planters to block off favorite digging spots or vulnerable areas. Modifying the <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a> helps.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Block Access:</strong> Use temporary fencing, large rocks, or planters to block off favorite digging spots or vulnerable areas. Modifying the <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a> helps.
             </p>
         </div>
     </div>
@@ -141,19 +141,19 @@ tags: ["stop dog digging", "dog digging solutions", "why dogs dig", "dog boredom
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white"></span> </div>
          <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Increase Exercise & Mental Stimulation:</strong> This is often the #1 fix for boredom digging! Ensure enough walks, runs, <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">playtime</a>, puzzle toys, snuffle mats, and training sessions (<a href="https://trainedtails.com/posts/training-session-tips" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">keep sessions engaging!</a>) to tire them out physically and mentally.
+            <strong>Increase Exercise & Mental Stimulation:</strong> This is often the #1 fix for boredom digging! Ensure enough walks, runs, <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">playtime</a>, puzzle toys, snuffle mats, and training sessions (<a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">keep sessions engaging!</a>) to tire them out physically and mentally.
         </p>
     </div>
      <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white"></span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Create a Designated Digging Zone:</strong> YES! Give them a place where digging is okay! A children's sandbox filled with loose soil or sand, or a designated corner of the yard. Encourage them to use it by burying favourite toys or high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">treats</a> there (start shallow). Praise and reward digging in this spot.
+            <strong>Create a Designated Digging Zone:</strong> YES! Give them a place where digging is okay! A children's sandbox filled with loose soil or sand, or a designated corner of the yard. Encourage them to use it by burying favourite toys or high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">treats</a> there (start shallow). Praise and reward digging in this spot.
         </p>
     </div>
      <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white"></span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Interrupt & Redirect:</strong> If you catch them digging in the wrong spot, calmly interrupt (a clap, a cheerful "Oops!") and immediately redirect them to an acceptable activity – call them over for a basic cue (<a href="https://trainedtails.com/posts/basic-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">basics are useful!</a>), offer a chew toy, or lead them to their digging pit. Reward heavily for stopping the unwanted digging and engaging with the alternative. Use clear cues like <a href="https://trainedtails.com/posts/verbal-commands-for-puppies" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">verbal commands</a> or <a href="https://trainedtails.com/posts/hand-signals" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">hand signals</a> they know.
+            <strong>Interrupt & Redirect:</strong> If you catch them digging in the wrong spot, calmly interrupt (a clap, a cheerful "Oops!") and immediately redirect them to an acceptable activity – call them over for a basic cue (<a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basics are useful!</a>), offer a chew toy, or lead them to their digging pit. Reward heavily for stopping the unwanted digging and engaging with the alternative. Use clear cues like <a href="https://trainedtails.com/posts/verbal-commands-for-puppies" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">verbal commands</a> or <a href="https://trainedtails.com/posts/hand-signals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">hand signals</a> they know.
         </p>
     </div>
     <div class="relative pl-8">
@@ -165,7 +165,7 @@ tags: ["stop dog digging", "dog digging solutions", "why dogs dig", "dog boredom
      <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white"></span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Be Consistent:</strong> Everyone in the household needs to be on the same page with managing and redirecting. <a href="https://trainedtails.com/posts/consistency-matters" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">Consistency</a> is crucial! Keep interactions positive to avoid <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a> issues or frustration. Set achievable <a href="https://trainedtails.com/posts/training-goals" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">goals</a>.
+            <strong>Be Consistent:</strong> Everyone in the household needs to be on the same page with managing and redirecting. <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">Consistency</a> is crucial! Keep interactions positive to avoid <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a> issues or frustration. Set achievable <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">goals</a>.
         </p>
     </div>
 </div>
@@ -173,7 +173,7 @@ tags: ["stop dog digging", "dog digging solutions", "why dogs dig", "dog boredom
 <img src="/assets/images/62.jpg" alt="Dog joyfully digging in a designated sandpit filled with safe sand and toys." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8 bg-emerald-50 dark:bg-slate-800 border border-emerald-200 dark:border-emerald-900 rounded-lg p-4 shadow">
-    Providing enough mental stimulation is often key to curbing behaviors like digging caused by boredom. Brain games and engaging training activities can make a huge difference. If you're looking for a fantastic resource full of ideas for brain-engaging games and positive training solutions that can help redirect unwanted behaviors, I often recommend the Dog Brain Training Program. It's packed with creative ways to challenge your dog's mind. You can <a href="https://trainedtails.com/dogtraining" target="_blank" rel="noopener noreferrer" class="text-emerald-700 dark:text-emerald-300 font-bold hover:underline">explore the Dog Brain Training Program and its methods here</a>.
+    Providing enough mental stimulation is often key to curbing behaviors like digging caused by boredom. Brain games and engaging training activities can make a huge difference. If you're looking for a fantastic resource full of ideas for brain-engaging games and positive training solutions that can help redirect unwanted behaviors, I often recommend the Dog Brain Training Program. It's packed with creative ways to challenge your dog's mind. You can <a href="https://trainedtails.com/dogtraining" target="_blank"  class="text-emerald-700 dark:text-emerald-300 font-bold hover:underline">explore the Dog Brain Training Program and its methods here</a>.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">What NOT to Do About Digging</h3>
@@ -183,13 +183,13 @@ tags: ["stop dog digging", "dog digging solutions", "why dogs dig", "dog boredom
         <div class="flex items-start pt-4 first:pt-0">
             <div class="w-5 h-5 bg-yellow-500 dark:bg-yellow-600 rounded-full flex-shrink-0 mr-3 mt-1 flex items-center justify-center text-white font-bold"><span>!</span></div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong>Don't Punish After the Fact:</strong> Your dog won't connect your anger with the hole they dug hours ago. Punishment needs to occur within seconds of the behavior to be understood (and even then, positive interruption/redirection is better!). This is a common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank" rel="noopener noreferrer" class="text-yellow-700 dark:text-yellow-500 hover:underline">beginner mistake</a>.
+                <strong>Don't Punish After the Fact:</strong> Your dog won't connect your anger with the hole they dug hours ago. Punishment needs to occur within seconds of the behavior to be understood (and even then, positive interruption/redirection is better!). This is a common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank"  class="text-yellow-700 dark:text-yellow-500 hover:underline">beginner mistake</a>.
             </p>
         </div>
         <div class="flex items-start pt-4">
             <div class="w-5 h-5 bg-yellow-500 dark:bg-yellow-600 rounded-full flex-shrink-0 mr-3 mt-1 flex items-center justify-center text-white font-bold"><span>!</span></div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong>Don't Use Harsh Physical Corrections:</strong> Yelling, hitting, or using scary methods when you catch them digging can create fear and anxiety, potentially damaging your relationship and not solving the root cause. Learn positive ways of <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank" rel="noopener noreferrer" class="text-yellow-700 dark:text-yellow-500 hover:underline">handling setbacks</a>.
+                <strong>Don't Use Harsh Physical Corrections:</strong> Yelling, hitting, or using scary methods when you catch them digging can create fear and anxiety, potentially damaging your relationship and not solving the root cause. Learn positive ways of <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-yellow-700 dark:text-yellow-500 hover:underline">handling setbacks</a>.
             </p>
         </div>
          <div class="flex items-start pt-4">

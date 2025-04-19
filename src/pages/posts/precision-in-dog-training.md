@@ -10,7 +10,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">From Getting it Done to Getting it Right</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
-    You've taught the <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">basics</a>! Your dog sits, maybe stays, comes when called... most of the time. That's a huge accomplishment! But as you venture into <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced dog training</a> or just want rock-solid reliability, you start noticing the details. That 'Sit' is a bit slow and crooked. That 'Down' involves a scenic tour of the floor first. That recall is more of a leisurely trot than an enthusiastic sprint.
+    You've taught the <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basics</a>! Your dog sits, maybe stays, comes when called... most of the time. That's a huge accomplishment! But as you venture into <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced dog training</a> or just want rock-solid reliability, you start noticing the details. That 'Sit' is a bit slow and crooked. That 'Down' involves a scenic tour of the floor first. That recall is more of a leisurely trot than an enthusiastic sprint.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     This is where precision comes in. Years ago, I worked on obedience for competition. I thought that just performing the command was enough. But I learned that how my dog executed the command mattered hugely for the scores, but also for clarity and reliability under pressure. Precision does not mean being overly demanding or trying to make your dog a robot. It does mean refining communication and improving focus to build behaviors that are reliable enough to count on when it really matters. That's what precision training is all about—the next level of teamwork you can achieve with your dog.
@@ -49,7 +49,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
         <svg class="w-10 h-10 text-black mr-3 flex-shrink-0 mt-1" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5 5 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.01 9.01 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z" /></svg>
         <div>
             <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Cue Discrimination:</h4>
-            <p class="text-sm text-slate-600 dark:text-slate-300">Does your dog respond correctly to the specific cue given, even if it sounds or looks similar to another cue (e.g., distinguishing between a verbal 'Down' and a verbal 'Stand', or different <a href="https://trainedtails.com/posts/hand-signals" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">hand signals</a>)?</p>
+            <p class="text-sm text-slate-600 dark:text-slate-300">Does your dog respond correctly to the specific cue given, even if it sounds or looks similar to another cue (e.g., distinguishing between a verbal 'Down' and a verbal 'Stand', or different <a href="https://trainedtails.com/posts/hand-signals" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">hand signals</a>)?</p>
         </div>
     </div>
 </div>
@@ -65,7 +65,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                 <strong class="font-semibold text-slate-800 dark:text-slate-100">Rock-Solid Reliability:</strong> Behaviors trained with precision are generally much more reliable and less likely to fall apart under pressure or around distractions. A precise 'Stay' is more trustworthy than a shaky one when a real-life situation demands it. Helps hugely when <a href="https://trainedtails.com/posts/training-distracted-dogs" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">training distracted dogs</a>.
+                 <strong class="font-semibold text-slate-800 dark:text-slate-100">Rock-Solid Reliability:</strong> Behaviors trained with precision are generally much more reliable and less likely to fall apart under pressure or around distractions. A precise 'Stay' is more trustworthy than a shaky one when a real-life situation demands it. Helps hugely when <a href="https://trainedtails.com/posts/training-distracted-dogs" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training distracted dogs</a>.
              </p>
         </div>
     </div>
@@ -73,7 +73,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                 <strong class="font-semibold text-slate-800 dark:text-slate-100">Clearer Communication:</strong> When you reward specific, precise actions, your dog gets a much clearer picture of exactly what you want. This reduces ambiguity and speeds up learning for future behaviors. Your <a href="https://trainedtails.com/posts/tone-of-voice" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">tone of voice</a> and signals become more meaningful.
+                 <strong class="font-semibold text-slate-800 dark:text-slate-100">Clearer Communication:</strong> When you reward specific, precise actions, your dog gets a much clearer picture of exactly what you want. This reduces ambiguity and speeds up learning for future behaviors. Your <a href="https://trainedtails.com/posts/tone-of-voice" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">tone of voice</a> and signals become more meaningful.
              </p>
         </div>
     </div>
@@ -89,7 +89,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                 <strong class="font-semibold text-slate-800 dark:text-slate-100">Foundation for Complex Skills:</strong> If you're interested in dog sports or more complex tasks, precision in the foundational elements (<a href="https://trainedtails.com/posts/7-Commands-Your-Dog-Needs-to-Know" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">like the 7 essentials</a>) is non-negotiable.
+                 <strong class="font-semibold text-slate-800 dark:text-slate-100">Foundation for Complex Skills:</strong> If you're interested in dog sports or more complex tasks, precision in the foundational elements (<a href="https://trainedtails.com/posts/7-Commands-Your-Dog-Needs-to-Know" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">like the 7 essentials</a>) is non-negotiable.
              </p>
         </div>
     </div>
@@ -118,7 +118,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
               <span class="font-bold text-white"></span>
         </div>
          <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Shaping & Capturing:</strong> Reward tiny improvements! Instead of waiting for the perfect 'Sit', reward a slightly straighter one than before. Click or say "Yes!" for that brief moment of stillness in a 'Stay'. Break the desired behavior down into achievable steps based on your <a href="https://trainedtails.com/posts/training-goals" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">training goals</a>.
+            <strong>Shaping & Capturing:</strong> Reward tiny improvements! Instead of waiting for the perfect 'Sit', reward a slightly straighter one than before. Click or say "Yes!" for that brief moment of stillness in a 'Stay'. Break the desired behavior down into achievable steps based on your <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training goals</a>.
          </p>
     </div>
      <div class="relative pl-8">
@@ -126,7 +126,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
               <span class="font-bold text-white"></span>
         </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Clear Criteria:</strong> Know exactly what the 'perfect' version looks like in your mind before you start rewarding. Is it a tuck sit? A down with elbows on the floor? Be specific to avoid confusing your dog (and yourself!). Avoid common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">beginner mistakes</a> here.
+            <strong>Clear Criteria:</strong> Know exactly what the 'perfect' version looks like in your mind before you start rewarding. Is it a tuck sit? A down with elbows on the floor? Be specific to avoid confusing your dog (and yourself!). Avoid common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">beginner mistakes</a> here.
         </p>
     </div>
      <div class="relative pl-8">
@@ -134,7 +134,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
               <span class="font-bold text-white"></span>
         </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Precise Marking & Rewarding:</strong> Your marker (click or "Yes!") needs to happen the instant the dog achieves the precise criteria you're looking for. Follow immediately with a high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">reward</a>. Good <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">tools like clickers and treat pouches</a> are invaluable for this.
+            <strong>Precise Marking & Rewarding:</strong> Your marker (click or "Yes!") needs to happen the instant the dog achieves the precise criteria you're looking for. Follow immediately with a high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">reward</a>. Good <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">tools like clickers and treat pouches</a> are invaluable for this.
         </p>
     </div>
      <div class="relative pl-8">
@@ -142,7 +142,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
               <span class="font-bold text-white"></span>
         </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>High Rate of Reinforcement (Initially):</strong> When shaping precision, reward frequently for correct attempts or small improvements to keep the dog engaged and understanding what pays off. You might <a href="https://trainedtails.com/posts/treat-to-praise" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">fade to praise</a> or other rewards later, but start rich.
+            <strong>High Rate of Reinforcement (Initially):</strong> When shaping precision, reward frequently for correct attempts or small improvements to keep the dog engaged and understanding what pays off. You might <a href="https://trainedtails.com/posts/treat-to-praise" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">fade to praise</a> or other rewards later, but start rich.
         </p>
     </div>
     <div class="relative pl-8">
@@ -150,7 +150,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
               <span class="font-bold text-white"></span>
         </div>
          <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Keep Sessions Short & Focused:</strong> Precision work requires concentration from both of you. Follow good <a href="https://trainedtails.com/posts/training-session-tips" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">training session tips</a> and keep them brief (<a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">shorter is often better</a>) to maintain quality and avoid mental fatigue or <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>. End before focus wanes. Be ready for <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">setbacks</a> and adjust.
+            <strong>Keep Sessions Short & Focused:</strong> Precision work requires concentration from both of you. Follow good <a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training session tips</a> and keep them brief (<a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">shorter is often better</a>) to maintain quality and avoid mental fatigue or <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>. End before focus wanes. Be ready for <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">setbacks</a> and adjust.
          </p>
     </div>
     <div class="relative pl-8">
@@ -158,7 +158,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
               <span class="font-bold text-white"></span>
         </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Proof the Precision:</strong> Once the behavior is precise in a quiet <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a>, gradually add duration, distance, and distractions while maintaining your precision criteria.
+            <strong>Proof the Precision:</strong> Once the behavior is precise in a quiet <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a>, gradually add duration, distance, and distractions while maintaining your precision criteria.
         </p>
     </div>
      <div class="relative pl-8">
@@ -166,7 +166,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
               <span class="font-bold text-white"></span>
         </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Patience and <a href="https://trainedtails.com/posts/consistency-matters" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">Consistency</a>:</strong> Building truly precise behaviors takes time and lots of successful repetitions. Stay patient and consistent with your criteria and rewards.
+            <strong>Patience and <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">Consistency</a>:</strong> Building truly precise behaviors takes time and lots of successful repetitions. Stay patient and consistent with your criteria and rewards.
         </p>
     </div>
 </div>
@@ -176,7 +176,7 @@ tags: ["dog training precision", "advanced dog obedience", "dog training accurac
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Finding the Right Balance</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Do you need competition-level precision for every single behavior? Probably not! It's okay if your dog's 'spin' trick is more enthusiastic than technically perfect. Focus your precision efforts on the behaviors where reliability and clarity matter most – like stays, recalls, loose-leash walking, or safety cues. Consider your dog's <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">temperament</a> and <a href="https://trainedtails.com/posts/learning-styles" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">learning style</a> too. Some dogs thrive on the challenge of precision, while others might find it frustrating if pushed too hard. Find the balance that works for your partnership and your goals.
+    Do you need competition-level precision for every single behavior? Probably not! It's okay if your dog's 'spin' trick is more enthusiastic than technically perfect. Focus your precision efforts on the behaviors where reliability and clarity matter most – like stays, recalls, loose-leash walking, or safety cues. Consider your dog's <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">temperament</a> and <a href="https://trainedtails.com/posts/learning-styles" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">learning style</a> too. Some dogs thrive on the challenge of precision, while others might find it frustrating if pushed too hard. Find the balance that works for your partnership and your goals.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Final Thoughts: Precision as Partnership</h3>
