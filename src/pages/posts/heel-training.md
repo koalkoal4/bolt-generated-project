@@ -10,10 +10,10 @@ tags: ["teach dog heel", "dog heeling training", "positive reinforcement heel", 
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">Stepping Up: From Loose Leash to Precision Heeling</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
-    So, you've put in the work! Your dog reliably responds to their name, offers a nice 'Sit', maybe even a 'Down' and 'Stay'... you've nailed the <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">basic dog training</a> essentials and likely mastered many of the <a href="https://trainedtails.com/posts/7-Commands-Your-Dog-Needs-to-Know" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">7 crucial commands</a>. That's fantastic! But maybe you're dreaming of more? Perhaps reliable off-leash adventures in less crowded İstanbul parks, or just knowing your dog will walk calmly and focused right beside you through a busy street?
+    So, you've put in the work! Your dog reliably responds to their name, offers a nice 'Sit', maybe even a 'Down' and 'Stay'... you've nailed the <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basic dog training</a> essentials and likely mastered many of the <a href="https://trainedtails.com/posts/7-Commands-Your-Dog-Needs-to-Know" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">7 crucial commands</a>. That's fantastic! But maybe you're dreaming of more? Perhaps reliable off-leash adventures in less crowded İstanbul parks, or just knowing your dog will walk calmly and focused right beside you through a busy street?
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    That's where teaching the "Heel" command comes in. Heeling is more specific than just not pulling; it typically means the dog walks closely by the handler's left leg (though you can teach the right!), maintaining position and often attention, whether walking straight, turning, or stopping. It's a skill that requires a considerable amount of focus from your dog and clear communication from you – a real step into <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced obedience</a> and <a href="https://trainedtails.com/posts/precision-in-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">precision</a>. I remember seeing beautifully executed heelwork and thinking it looked impossible, but like any skill, it can be broken down into achievable steps using positive methods.
+    That's where teaching the "Heel" command comes in. Heeling is more specific than just not pulling; it typically means the dog walks closely by the handler's left leg (though you can teach the right!), maintaining position and often attention, whether walking straight, turning, or stopping. It's a skill that requires a considerable amount of focus from your dog and clear communication from you – a real step into <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced obedience</a> and <a href="https://trainedtails.com/posts/precision-in-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">precision</a>. I remember seeing beautifully executed heelwork and thinking it looked impossible, but like any skill, it can be broken down into achievable steps using positive methods.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Ready to Heel? Laying the Foundation</h3>
@@ -27,7 +27,7 @@ tags: ["teach dog heel", "dog heeling training", "positive reinforcement heel", 
 <div class="space-y-6 divide-y divide-slate-200 dark:divide-slate-700/50 mb-8">
     <div class="pt-6 first:pt-0 flex items-start"> <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Attention Skills:</strong> Your dog needs to be able to offer focus, even if just for short periods. Working on engagement exercises helps hugely. Can you manage a <a href="https://trainedtails.com/posts/training-distracted-dogs" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">distracted dog</a> at least sometimes?
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Attention Skills:</strong> Your dog needs to be able to offer focus, even if just for short periods. Working on engagement exercises helps hugely. Can you manage a <a href="https://trainedtails.com/posts/training-distracted-dogs" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">distracted dog</a> at least sometimes?
             </p>
         </div>
     </div>
@@ -43,7 +43,7 @@ tags: ["teach dog heel", "dog heeling training", "positive reinforcement heel", 
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Marker & Reward Understanding:</strong> Your dog should understand that "Yes!" or a click means they did something right and a <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">reward</a> is coming. Your timing needs to be sharp!
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Marker & Reward Understanding:</strong> Your dog should understand that "Yes!" or a click means they did something right and a <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">reward</a> is coming. Your timing needs to be sharp!
             </p>
         </div>
     </div>
@@ -51,7 +51,7 @@ tags: ["teach dog heel", "dog heeling training", "positive reinforcement heel", 
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Right Gear:</strong> A standard 4-6 foot leash is best. You'll also need high-value treats and ideally a <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">treat pouch</a> for easy access.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Right Gear:</strong> A standard 4-6 foot leash is best. You'll also need high-value treats and ideally a <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">treat pouch</a> for easy access.
             </p>
         </div>
     </div>
@@ -83,7 +83,7 @@ tags: ["teach dog heel", "dog heeling training", "positive reinforcement heel", 
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Adding the Cue:</strong> Once they seem to understand the position, start saying your cue ("Heel" or "Side") just as they are moving into position (or as you start the lure). Keep your <a href="https://trainedtails.com/posts/tone-of-voice" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">tone of voice</a> cheerful. You can also pair it with a <a href="https://trainedtails.com/posts/hand-signals" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">hand signal</a>, like patting your left thigh. This builds on their understanding of <a href="https://trainedtails.com/posts/verbal-commands-for-puppies" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">verbal commands</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Adding the Cue:</strong> Once they seem to understand the position, start saying your cue ("Heel" or "Side") just as they are moving into position (or as you start the lure). Keep your <a href="https://trainedtails.com/posts/tone-of-voice" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">tone of voice</a> cheerful. You can also pair it with a <a href="https://trainedtails.com/posts/hand-signals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">hand signal</a>, like patting your left thigh. This builds on their understanding of <a href="https://trainedtails.com/posts/verbal-commands-for-puppies" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">verbal commands</a>.
             </p>
         </div>
     </div>
@@ -117,19 +117,19 @@ tags: ["teach dog heel", "dog heeling training", "positive reinforcement heel", 
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">4</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Increase Duration/Distance:</strong> Slowly add more steps and longer stretches of heeling. Remember to keep actual <a href="https://trainedtails.com/posts/training-session-tips" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">training sessions short</a> overall (<a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">short bursts work best!</a>) to prevent <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>.
+            <strong>Increase Duration/Distance:</strong> Slowly add more steps and longer stretches of heeling. Remember to keep actual <a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training sessions short</a> overall (<a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">short bursts work best!</a>) to prevent <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>.
         </p>
     </div>
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">5</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Fade the Lure:</strong> As your dog understands, keep the treat hidden more often. Make your hand motion less obvious. Reward intermittently for maintaining position, sometimes with praise or <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">play</a>. Look into how to <a href="https://trainedtails.com/posts/treat-to-praise" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">transition from treats to praise</a> effectively.
+            <strong>Fade the Lure:</strong> As your dog understands, keep the treat hidden more often. Make your hand motion less obvious. Reward intermittently for maintaining position, sometimes with praise or <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">play</a>. Look into how to <a href="https://trainedtails.com/posts/treat-to-praise" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">transition from treats to praise</a> effectively.
         </p>
     </div>
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">6</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Add Distractions:</strong> Once heeling is reliable in a quiet <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a>, very gradually introduce distractions. Start far away from mild distractions and slowly decrease the distance only if your dog remains successful. Set realistic <a href="https://trainedtails.com/posts/training-goals" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">goals</a> and be prepared for <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">setbacks</a> – just make it easier next time.
+            <strong>Add Distractions:</strong> Once heeling is reliable in a quiet <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a>, very gradually introduce distractions. Start far away from mild distractions and slowly decrease the distance only if your dog remains successful. Set realistic <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">goals</a> and be prepared for <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">setbacks</a> – just make it easier next time.
         </p>
     </div>
 </div>
@@ -149,14 +149,14 @@ tags: ["teach dog heel", "dog heeling training", "positive reinforcement heel", 
     <div class="pt-6 flex items-start">
         <div class="w-4 h-4 bg-blue-500 dark:bg-blue-400 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep it Fun & Upbeat:</strong> Heeling requires focus; keep the energy positive! Use happy praise and maybe surprise rewards like a quick game of <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">play</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep it Fun & Upbeat:</strong> Heeling requires focus; keep the energy positive! Use happy praise and maybe surprise rewards like a quick game of <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">play</a>.
             </p>
         </div>
     </div>
     <div class="pt-6 flex items-start">
         <div class="w-4 h-4 bg-blue-500 dark:bg-blue-400 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Be Consistent:</strong> Practice makes perfect, but <a href="https://trainedtails.com/posts/consistency-matters" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency</a> in your cues and expectations during short, frequent sessions is vital.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Be Consistent:</strong> Practice makes perfect, but <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency</a> in your cues and expectations during short, frequent sessions is vital.
             </p>
         </div>
     </div>
@@ -170,14 +170,14 @@ tags: ["teach dog heel", "dog heeling training", "positive reinforcement heel", 
     <div class="pt-6 flex items-start">
         <div class="w-4 h-4 bg-blue-500 dark:bg-blue-400 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Reward Attention:</strong> Don't just reward the position; reward your dog for looking up at you or staying focused while heeling. This relates to <a href="https://trainedtails.com/posts/precision-in-dog-training" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">precision training</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Reward Attention:</strong> Don't just reward the position; reward your dog for looking up at you or staying focused while heeling. This relates to <a href="https://trainedtails.com/posts/precision-in-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">precision training</a>.
             </p>
         </div>
     </div>
     <div class="pt-6 flex items-start">
         <div class="w-4 h-4 bg-blue-500 dark:bg-blue-400 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
             <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep the Leash Loose:</strong> Heeling shouldn't involve pulling or dragging your dog into position. Aim for a loose "J" shape in the leash. Avoid common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank" rel="noopener noreferrer" class="text-emerald-600 dark:text-emerald-400 hover:underline">beginner mistakes</a> like leash tension.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep the Leash Loose:</strong> Heeling shouldn't involve pulling or dragging your dog into position. Aim for a loose "J" shape in the leash. Avoid common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">beginner mistakes</a> like leash tension.
             </p>
         </div>
     </div>
