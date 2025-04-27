@@ -14,7 +14,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort((a, b) =>
     </header>
 
     <div class="grid gap-6 sm:gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-      {posts.map(post => (
+      {posts.slice(0, 12).map(post => (
         <article class="bg-white dark:bg-slate-800 rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow flex flex-col"> {/* Added flex flex-col */}
           {post.frontmatter.image && ( /* Check if image exists */
             <a href={post.url} class="block"> {/* Make image clickable */}
@@ -34,6 +34,9 @@ const posts = (await Astro.glob('./posts/*.md')).sort((a, b) =>
           </div>
         </article>
       ))}
+    </div>
+    <div class="text-center mt-8">
+      <a href="/blog" class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 rounded">View All Posts</a>
     </div>
   </main>
 </BaseLayout>
