@@ -2,7 +2,7 @@
 layout: ../../layouts/Post.astro
 title: "Good Fences Make Good Dogs: A Guide to Boundary Training"
 description: "Want your dog to stay out of the kitchen or wait at the door? i explore positive methods for teaching dogs to respect physical or invisible boundaries."
-date: 2025-04-28 # Current Date
+date: 2025-04-26 # Current Date
 image: "/assets/images/81.jpg" # Placeholder - Will be replaced with actual image path
 tags: ["dog boundary training", "teach dog boundaries", "invisible fence alternative", "positive reinforcement boundaries", "dog stay out of room", "dog door manners", "dog impulse control"]
 ---
