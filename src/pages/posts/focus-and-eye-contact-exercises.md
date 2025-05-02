@@ -21,25 +21,25 @@ tags: ["dog focus training", "dog eye contact training", "advanced dog obedience
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-12 not-prose">
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
       <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
-        <svg class="w-10 h-10 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" /></svg> </div>
+        <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-running-svgrepo-com.svg" fill="currentColor" alt="Fast Behavior Interruption Icon" /> </div>
       <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Foundation for Advanced Skills</h4>
       <p class="text-sm text-slate-600 dark:text-slate-300">Reliable focus is essential for teaching complex behaviors, achieving <a href="https://trainedtails.com/posts/precision-in-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">precision</a>, and succeeding with <a href="https://trainedtails.com/posts/off-leash-obedience-tips" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">off-leash work</a>.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
         <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
-             <svg class="w-10 h-10 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m0-10.036A11.959 11.959 0 0 1 3.598 6 11.99 11.99 0 0 0 3 9.75c0 5.592 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.57-.598-3.75h-.152c-3.196 0-6.1-1.249-8.25-3.286Zm0 13.036h.008v.008H12v-.008Z" /></svg> </div>
+             <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-playing-svgrepo-com.svg" fill="currentColor" alt="Fast Behavior Interruption Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Safety in Distractions</h4>
         <p class="text-sm text-slate-600 dark:text-slate-300">A dog that can focus on you despite <a href="https://trainedtails.com/posts/handling-distractions" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">distractions</a> is safer – less likely to dash off or react inappropriately.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
-            <svg class="w-10 h-10 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-2.138a1.125 1.125 0 0 1 .865-.501 48.172 48.172 0 0 0 3.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0 0 12 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018Z" /></svg> </div>
+            <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-training-svgrepo-com.svg" fill="currentColor" alt="Fast Behavior Interruption Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Stronger Connection</h4>
         <p class="text-sm text-slate-600 dark:text-slate-300">Working on focus deepens communication and strengthens the bond you share with your dog.</p>
     </div>
      <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
-           <svg class="w-10 h-10 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M7.5 3.75H6A2.25 2.25 0 0 0 3.75 6v1.5M16.5 3.75H18A2.25 2.25 0 0 1 20.25 6v1.5m0 9V18A2.25 2.25 0 0 1 18 20.25h-1.5m-9 0H6A2.25 2.25 0 0 1 3.75 18v-1.5M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" /></svg> </div>
+           <img class="w-14 h-14 mx-auto" src="/assets/icons/man-and-dog-svgrepo-com.svg" fill="currentColor" alt="Fast Behavior Interruption Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Improved Responsiveness</h4>
         <p class="text-sm text-slate-600 dark:text-slate-300">A dog in tune with you responds better and faster to commands.</p>
     </div>
