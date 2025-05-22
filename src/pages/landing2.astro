@@ -1,0 +1,199 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Get Your Free E-Book">
+  <main>
+    <!-- Hero Section -->
+    <section class="relative h-[600px] bg-cover bg-center" style="background-image: url('https://images.pexels.com/photos/1458916/pexels-photo-1458916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');">
+      <div class="absolute inset-0 bg-black opacity-50"></div>
+      <div class="relative z-10 flex flex-col md:flex-row items-center justify-center h-full text-white px-4 py-8 max-w-7xl mx-auto">
+        <div class="text-center md:text-left md:w-1/2 lg:w-2/5 mb-8 md:mb-0 md:pr-8">
+          <h1 class="text-5xl md:text-5xl font-extrabold mb-8 leading-tight"><span class="whitespace-nowrap">Get Your FREE Guide:</span><br><span class="whitespace-nowrap">The Airplane Game for Dogs!</span></h1>
+          <p class="text-2xl md:text-3xl font-semibold mb-2 max-w-7xl">Download Adrienne Farricelli's exclusive e-book and learn 'The Airplane Game' – a fun way to boost your dog's focus and eye contact, a key to better obedience.</p>
+        </div>
+        <div class="md:w-1/2 lg:w-2/5 flex flex-col w-full md:ml-auto max-w-md">
+          <div class="rounded-lg shadow-xl overflow-hidden">
+            <div class="bg-trainedtails-orange p-6">
+              <h2 class="text-xl font-bold text-center text-white whitespace-nowrap">Get Your FREE 'Airplane Game' E-book!</h2>
+            </div>
+            <div class="bg-trainedtails-blue-form p-6 text-gray-800">
+            
+              <form id="ebook-form" class="space-y-4">
+                <div class="relative">
+                  <label for="email" class="block text-sm font-medium mb-1">Your Email Address</label>
+                  <input type="email" id="email" name="email" class="w-full p-2 pr-8 rounded text-gray-800 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="youremail@example.com" required>
+                  <span class="absolute right-2 top-1/2 transform -translate-y-1/2 mt-2 text-gray-500">
+                  </span>
+                </div>
+                <div>
+                  <label for="first-name" class="block text-sm font-medium mb-1">Your First Name</label>
+                  <input type="text" id="first-name" name="first_name" class="w-full p-2 rounded text-gray-800 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="John">
+                </div>
+                <button type="submit" class="w-full bg-trainedtails-orange hover:brightness-90 text-white font-bold py-3 rounded text-lg uppercase">SEND MY FREE GUIDE!</button>
+                <p id="form-message" class="text-center text-sm mt-2 hidden"></p>
+              </form>
+              <p class="text-center text-xs mt-4">100% Privacy Guaranteed</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Pet Care Section -->
+    <section class="bg-trainedtails-blue-light py-16 px-4">
+      <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-8">
+        <div class="md:w-1/2 text-gray-800 md:pr-8">
+          <h2 class="text-3xl md:text-4xl font-bold mb-8">Your Trusted Partner in Dog Training Success</h2>
+          <p class="mb-6 text-xl leading-relaxed">We understand that finding reliable dog training information can be overwhelming. That's why we focus on providing clear, actionable, and expert-backed advice that helps you understand your dog better and achieve real results.</p>
+          <p class="text-xl leading-relaxed">By focusing on positive reinforcement and understanding canine behavior, you'll not only solve common problems but also create a deeper connection with your dog. We're here to guide you with resources you can depend on.</p>
+        </div>
+        <div class="md:w-1/2 flex justify-center">
+          <img src="https://images.pexels.com/photos/1805164/pexels-photo-1805164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Group of dogs" class="rounded-lg shadow-lg max-w-full h-auto">
+        </div>
+      </div>
+    </section>
+
+    <!-- Guarantee Section -->
+    <section class="bg-white py-16 px-4">
+      <div class="max-w-6xl mx-auto text-center">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-12">Unlock Effective Dog Training: Here’s How</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div class="flex flex-col items-center p-4">
+            <div class="text-green-500 text-6xl mb-4">🧩</div> {/* Placeholder for icon */}
+            <p class="text-gray-600 text-sm text-center">Engaging methods that make learning fun for your dog, strengthening your bond.</p>
+          </div>
+          <div class="flex flex-col items-center p-4">
+            <div class="text-green-500 text-6xl mb-4">👀</div> {/* Placeholder for icon */}
+            <p class="text-gray-600 text-sm text-center">Proven techniques, like 'The Airplane Game,' to dramatically improve your dog's attention and focus.</p>
+          </div>
+          <div class="flex flex-col items-center p-4">
+            <div class="text-green-500 text-6xl mb-4">❤️</div> {/* Placeholder for icon */}
+            <p class="text-gray-600 text-sm text-center">Builds desirable behaviors using positive reinforcement – no force, no fear, just results.</p>
+          </div>
+          <div class="flex flex-col items-center p-4">
+            <div class="text-green-500 text-6xl mb-4">🧠</div> {/* Placeholder for icon */}
+            <p class="text-gray-600 text-sm text-center">Taps into your dog's hidden intelligence, making them more receptive and quicker to learn.</p>
+          </div>
+          <div class="flex flex-col items-center p-4">
+            <div class="text-green-500 text-6xl mb-4">🏆</div> {/* Placeholder for icon */}
+            <p class="text-gray-600 text-sm text-center">Strategies developed by certified dog training professionals like Adrienne Farricelli, CPDT-KA.</p>
+          </div>
+          <div class="flex flex-col items-center p-4">
+            <div class="text-green-500 text-6xl mb-4">🐶</div> {/* Placeholder for icon */}
+            <p class="text-gray-600 text-sm text-center">Simple, actionable steps you can apply in everyday situations for a more obedient companion.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Video Section -->
+   <section class="bg-trainedtails-blue-dark py-16 px-4">
+      <div class="max-w-4xl mx-auto text-center text-white">
+        <h2 class="text-3xl md:text-4xl font-bold mb-8">The Complete Dog Training Solution You've Been Waiting For</h2>
+
+        <div class="relative w-full border-4 border-white rounded-lg shadow-xl" style="padding-bottom: 56.25%;"> {/* 16:9 Aspect Ratio with white border */}
+          <video
+            class="absolute top-0 left-0 w-full h-full object-cover"
+            src="assets/videos/1.mp4" {/* IMPORTANT: Ensure this path is correct and the video exists */}
+            title="Discover the Full Training Program" {/* Updated title for better context */}
+            preload="auto" {/* Changed from metadata to auto for better autoplay chance */}
+            autoplay
+            loop
+            muted {/* IMPORTANT: Autoplay with sound is usually blocked. Muted is generally required for autoplay to work. */}
+            playsinline {/* Good for mobile compatibility */}
+          >
+            Your browser does not support the video tag.
+          </video>
+        </div>
+
+        {/* NEW: Small Descriptive Text Below Video */}
+        <p class="text-xl font-bold mt-6 mb-6 text-gray-200"> {/* Adjusted margin and text color for visibility */}
+          Imagine having a dog that listens every time, just like you saw. Brain Training for Dogs makes it possible. Don't wait another day to create the obedient, happy dog you've always wanted.
+        </p>
+
+        {/* NEW: Call-to-Action Button Below Descriptive Text */}
+        <div class="mt-4"> {/* Adjusted margin if needed */}
+          <a href="https://c780fgjilg5qdm2z64kl0av6yu.hop.clickbank.net/" target="_blank" rel="noopener" class="inline-block bg-trainedtails-orange hover:brightness-90 text-white font-bold py-3 px-8 rounded text-lg uppercase shadow-md hover:shadow-lg transition-shadow duration-300">
+            I Want an Obedient Dog – Show Me How!
+          </a>
+        </div>
+
+        {/* Removed the old "Video from YVR location" paragraph as it's replaced by the new text and CTA */}
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-trainedtails-dark-footer text-gray-800 py-8 px-4">
+      <div class="max-w-6xl mx-auto flex flex-col items-center md:flex-row md:justify-between text-sm">
+        <div class="flex items-center mb-2 md:mb-0">
+          <img src="/favicon.png" alt="Trained Tails Logo" class="h-8 w-8 mr-2">
+          <span class="text-trainedtails-blue-links font-bold">Trained Tails</span>
+        </div>
+        <div class="text-center flex flex-col items-center md:text-right md:flex-row md:items-center">
+          <p class="mb-2 md:mb-0 text-trainedtails-blue-links md:mr-4">2025 © Trained Tails</p>
+          <nav class="flex flex-wrap justify-center gap-x-2 gap-y-2 text-trainedtails-blue-links">
+            <a href="/" class="hover:underline">Home</a>
+            <span class="hidden md:inline">|</span>
+            <a href="/about" class="hover:underline">About Us</a>
+            <span class="hidden md:inline">|</span>
+            <a href="/contact" class="hover:underline">Contact Us</a>
+            <span class="hidden md:inline">|</span>
+            <a href="/terms" class="hover:underline">Terms of Service</a>
+            <span class="hidden md:inline">|</span>
+            <a href="/privacy" class="hover:underline">Privacy Policy</a>
+          </nav>
+        </div>
+      </div>
+    </footer>
+  </main>
+</BaseLayout>
+
+<script>
+  import { createClient } from '@supabase/supabase-js';
+
+  const supabaseUrl = 'https://ekhcxkusapmzggcjkdls.supabase.co';
+  const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVraGN4a3VzYXBtemdnY2prZGxzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM1MDkyMzEsImV4cCI6MjA1OTA4NTIzMX0.t7_JWiyOHBWd7nKbmwFwvLNaAJlZS1pwk5tv1gOu5Mw';
+  const supabase = createClient(supabaseUrl, supabaseAnonKey);
+
+  const form = document.getElementById('ebook-form');
+  const formMessage = document.getElementById('form-message');
+
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+
+    const emailInput = document.getElementById('email') as HTMLInputElement;
+    const firstNameInput = document.getElementById('first-name') as HTMLInputElement;
+
+    const email = emailInput.value;
+    const firstName = firstNameInput.value;
+
+    formMessage.textContent = 'Sending...';
+    formMessage.classList.remove('hidden', 'text-red-500', 'text-green-500');
+
+    try {
+      const { data, error } = await supabase
+        .from('ebook_downloads')
+        .insert([{ email, first_name: firstName }]);
+
+      if (error) {
+        console.error('Error inserting data:', error);
+        formMessage.textContent = `Error: ${error.message}`;
+        formMessage.classList.add('text-red-500');
+      } else {
+        console.log('Data inserted:', data);
+        formMessage.textContent = 'Thank you! Check your email for the ebook.';
+        formMessage.classList.add('text-green-500');
+        form.reset();
+      }
+    } catch (error) {
+      console.error('Unexpected error:', error);
+      formMessage.textContent = 'An unexpected error occurred. Please try again.';
+      formMessage.classList.add('text-red-500');
+    } finally {
+      setTimeout(() => {
+        formMessage.classList.add('hidden');
+      }, 5000);
+    }
+  });
+</script>
