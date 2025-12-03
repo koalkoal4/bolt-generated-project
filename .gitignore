@@ -1,19 +1,16 @@
 # Dependencies
 node_modules/
-.pnp
-.pnp.js
 
-# Production
+# Build output
 dist/
 
 # Astro
 .astro/
 
-# Environment Variables
+# Environment variables
 .env
-.env.production
-.env.development
 .env.local
+.env.*.local
 
 # Logs
 npm-debug.log*
