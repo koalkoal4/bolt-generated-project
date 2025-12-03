@@ -5,8 +5,10 @@ const posts = (await Astro.glob('./posts/*.md')).sort((a, b) =>
 );
 ---
 
-<BaseLayout title="Professional Dog Training Guides for Better Behavior | Trained Tails">
-  <meta name="description" content="Achieve better dog behavior with Trained Tails' professional guides. Learn practical positive reinforcement techniques, obedience tips & humane solutions for your canine.">
+<BaseLayout 
+  title="Professional Dog Training Guides for Better Behavior | Trained Tails"
+  description="Achieve better dog behavior with Trained Tails' professional guides. Learn practical positive reinforcement techniques, obedience tips & humane solutions for your canine."
+>
   <main class="max-w-6xl mx-auto px-4 py-8">
     <header class="text-center mb-12 px-2">
       <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-slate-800 dark:text-slate-100 mb-4">Professional Dog Training Guides</h1>

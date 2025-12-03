@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/Base.astro';
+---
+
+<BaseLayout title="Page Not Found | Trained Tails" description="Oops! The page you are looking for does not exist. Let's get you back on track.">
+  <main class="max-w-4xl mx-auto px-4 py-16 text-center">
+    <h1 class="text-6xl font-bold text-blue-600 dark:text-blue-400 mb-4">404</h1>
+    <h2 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Page Not Found</h2>
+    <p class="text-xl text-slate-600 dark:text-slate-300 mb-8">
+      Woof! It looks like you've sniffed out a page that doesn't exist.
+    </p>
+    <div class="flex justify-center gap-4">
+      <a href="/" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors">
+        Go Home
+      </a>
+      <a href="/blog" class="bg-slate-200 hover:bg-slate-300 dark:bg-slate-700 dark:hover:bg-slate-600 text-slate-800 dark:text-slate-100 font-bold py-3 px-6 rounded-lg transition-colors">
+        Read Blog
+      </a>
+    </div>
+  </main>
+</BaseLayout>

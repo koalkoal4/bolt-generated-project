@@ -110,7 +110,7 @@ tags: ["dog training consistency", "consistent dog training", "dog behavior", "p
 <img src="/assets/images/9.jpg" alt="Owner patiently reinforcing a command with a happy dog in a park setting." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">My Playbook for Staying Consistent (Yes, You Can!)</h1>
+  <h2 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">My Playbook for Staying Consistent (Yes, You Can!)</h2>
 
   <div class="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-10">
     <div class="relative pl-8">

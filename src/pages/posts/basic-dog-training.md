@@ -52,7 +52,7 @@ tags: ["basics", "obedience", "puppy", "commands", "positive reinforcement", "do
 <img src="/assets/images/2.jpg" alt="Happy dog and owner bonding during a training exercise" class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" /> 
 
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">My Favorite Getting Started Tips</h1>
+  <h2 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">My Favorite Getting Started Tips</h2>
 
   <div class="relative border-l-2 border-slate-200 dark:border-slate-700 ml-4 space-y-10">
     <!-- Step 1 -->

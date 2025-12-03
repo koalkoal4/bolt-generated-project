@@ -136,7 +136,7 @@ tags: ["realistic dog training goals", "dog training expectations", "setting dog
 
 </div>
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Why You Should Break Down Your Goals into Smaller Baby Steps</h1> 
+  <h2 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Why You Should Break Down Your Goals into Smaller Baby Steps</h2> 
    <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     The key to big goal achievement is often to break it down into small, actionable steps. Reinforcing behavior that you are trying to help your dog learn through what is called ‘shaping’ or ‘successive approximation’ means your dog will succeed more often than not and this will keep them motivated and build their confidence. b. Teaching a reliable ‘Stay’ 
   </p>

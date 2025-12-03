@@ -96,7 +96,7 @@ tags: ["dog training environment", "where to train my dog", "dog training distra
 <img src="/assets/images/5.jpg" alt="Dog practicing stay command in a quiet, fenced backyard." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Level Up!  Gradually Increasing Distractions (Proofing)</h1> 
+  <h2 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Level Up!  Gradually Increasing Distractions (Proofing)</h2> 
    <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     The next critical phase, once your dog knows a behaviour reliably in a quiet zone is to start ‘proofing’ it – getting them to do it with distractions. It has to be done step by step! Plopping them in the deep end (like that crowded park I talked about!) will almost certainly guarantee failure and frustration. To approach it, think of yourself as climbing a ladder, a rung at a time. Here’s an example of a process I might go through: 
   </p>

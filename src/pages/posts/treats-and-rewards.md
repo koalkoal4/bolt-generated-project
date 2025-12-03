@@ -121,7 +121,7 @@ tags: ["dog training treats", "dog rewards", "positive reinforcement", "high val
 
 </div>
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8"> How to Fade Food Rewards and Get the Treat Pouch Out of The Picture</h1> 
+  <h2 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8"> How to Fade Food Rewards and Get the Treat Pouch Out of The Picture</h2> 
    <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     Not gonna work for a dog who operates solely on food. Once your dog knows a cue well, and does it consistently in easy contexts, we need to gradually fade the need for constant food reinforcement. That does not mean we quit rewarding! That means reducing their predictability, and adding other kinds of reinforcement. Here's how I approach it: 
   </p>

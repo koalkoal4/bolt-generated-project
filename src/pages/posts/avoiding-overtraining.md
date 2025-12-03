@@ -144,7 +144,7 @@ tags: ["overtraining dog", "dog training burnout", "dog training session length"
   </div>
 </div>
 <section class="space-y-8 my-12">
-  <h1 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Quality Over Quantity: Preventing Training Burnout</h1> 
+  <h2 class="text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-8">Quality Over Quantity: Preventing Training Burnout</h2> 
    <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     The good news is that overtraining is avoidable! They say, Quality over quantity and that’s what we need: Mindful awareness, awareness through observation. Here are my go-to strategies: 
   </p>
