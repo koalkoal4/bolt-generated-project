@@ -1,5 +1,6 @@
 ---
 import SeoHead from '../components/SeoHead.astro';
+import '../styles/global.css';
 const { title, description, image, type, publishDate } = Astro.props;
 ---
 <!DOCTYPE html>
@@ -12,7 +13,6 @@ const { title, description, image, type, publishDate } = Astro.props;
     type={type} 
     publishDate={publishDate} 
   />
-  <link rel="stylesheet" href="/styles/global.css">
   <script>
     if (typeof localStorage !== 'undefined') {
       const savedTheme = localStorage.getItem('theme') || 

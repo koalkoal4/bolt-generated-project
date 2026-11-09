@@ -14,11 +14,21 @@ const {
   image = '/default-og.jpg', // Fallback image
   type = 'website',
   publishDate,
-  canonicalUrl = new URL(Astro.url.pathname, Astro.site).href,
+  canonicalUrl: propCanonicalUrl,
 } = Astro.props;
 
 const siteName = 'Trained Tails';
-const twitterHandle = '@trainedtails'; // Update if different
+const twitterHandle = '@trainedtails';
+
+// Ensure canonical URL has no trailing slash (except homepage) to match sitemap and avoid 308 redirects
+const cleanPath = Astro.url.pathname === '/' 
+  ? '/' 
+  : Astro.url.pathname.replace(/\/+$/, '');
+
+const resolvedCanonical = propCanonicalUrl || new URL(cleanPath, Astro.site).href;
+const canonicalUrl = resolvedCanonical.endsWith('/') && resolvedCanonical !== Astro.site?.href && resolvedCanonical !== `${Astro.site?.href}/`
+  ? resolvedCanonical.replace(/\/+$/, '')
+  : resolvedCanonical;
 
 // Ensure image is an absolute URL
 const absoluteImageUrl = new URL(image, Astro.site).href;
