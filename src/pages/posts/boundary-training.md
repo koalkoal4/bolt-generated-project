@@ -13,7 +13,7 @@ tags: ["dog boundary training", "teach dog boundaries", "invisible fence alterna
     Wouldn't it be nice if your dog magically knew not to bolt out the front door the second it opens? Or maybe you dream of keeping muddy paws out of the formal living room, or preventing counter-surfing raids in the kitchen? That's where boundary training comes in! It's about teaching our dogs to respect certain lines – whether it's a physical doorway, the edge of a garden bed, or even an invisible line in your yard.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    I remember training my first dog not to dash out our apartment door in Istanbul. It required patience, but the payoff was peace of mind. Boundary training isn't about restriction; it's about safety, management, and creating clear expectations that make life easier and safer for everyone. Through the use of positive reinforcement, we can teach dogs to understand and respect boundaries without the need for fear or intimidation which is most definitely built on a foundation of solid <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basic training</a> principles.
+    I remember training my first dog not to dash out our apartment door in Istanbul. It required patience, but the payoff was peace of mind. Boundary training isn't about restriction; it's about safety, management, and creating clear expectations that make life easier and safer for everyone. Through the use of positive reinforcement, we can teach dogs to understand and respect boundaries without the need for fear or intimidation which is most definitely built on a foundation of solid <a href="/posts/basic-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basic training</a> principles.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-4">What Type of Limitations Can We Instruct Them?</h3>
@@ -30,7 +30,7 @@ tags: ["dog boundary training", "teach dog boundaries", "invisible fence alterna
         <svg class="w8 h-8 text-blue-500 dark:text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
     </div>
     <p class="ml-3 text-lg text-slate-600 dark:text-slate-300">
-         While positive methods exist for invisible lines, traditional electric "invisible fences" rely on punishment (shock) and have significant welfare concerns; we'll focus on positive alternatives. Check out other <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">training tools</a> instead.
+         While positive methods exist for invisible lines, traditional electric "invisible fences" rely on punishment (shock) and have significant welfare concerns; we'll focus on positive alternatives. Check out other <a href="/posts/dog-training-tools-for-beginners"  class="text-blue-600 dark:text-blue-400 hover:underline">training tools</a> instead.
     </p>
 </div>
 
@@ -51,7 +51,7 @@ tags: ["dog boundary training", "teach dog boundaries", "invisible fence alterna
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-3"></div>
         <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Make Staying Back AMAZING:</strong> The key is rewarding your dog heavily for choosing not to cross the line. Use high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">treats</a> and praise. Staying behind the boundary must be more rewarding than crossing it.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Make Staying Back AMAZING:</strong> The key is rewarding your dog heavily for choosing not to cross the line. Use high-value <a href="/posts/treats-and-rewards"  class="text-emerald-600 dark:text-emerald-400 hover:underline">treats</a> and praise. Staying behind the boundary must be more rewarding than crossing it.
              </p>
         </div>
     </div>
@@ -59,7 +59,7 @@ tags: ["dog boundary training", "teach dog boundaries", "invisible fence alterna
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-3"></div>
         <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Go Slow & Incremental:</strong> Start with the boundary very easy to respect (you close by, no temptations). Gradually increase the challenge (duration, distance, distractions) in tiny steps, always aiming for success. Set achievable <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">goals</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Go Slow & Incremental:</strong> Start with the boundary very easy to respect (you close by, no temptations). Gradually increase the challenge (duration, distance, distractions) in tiny steps, always aiming for success. Set achievable <a href="/posts/training-goals"  class="text-emerald-600 dark:text-emerald-400 hover:underline">goals</a>.
              </p>
         </div>
     </div>
@@ -67,7 +67,7 @@ tags: ["dog boundary training", "teach dog boundaries", "invisible fence alterna
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-3"></div>
         <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Be Consistent:</strong> Everyone in the household must understand and enforce the boundary rules consistently for the dog to learn. <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">Consistency</a> is vital!
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Be Consistent:</strong> Everyone in the household must understand and enforce the boundary rules consistently for the dog to learn. <a href="/posts/consistency-matters"  class="text-emerald-600 dark:text-emerald-400 hover:underline">Consistency</a> is vital!
              </p>
         </div>
     </div>
@@ -104,13 +104,13 @@ tags: ["dog boundary training", "teach dog boundaries", "invisible fence alterna
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">5</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Add Temptation Gradually:</strong> Once they respect the line itself, place a low-value toy or piece of kibble just over the line. Walk them towards it. Mark and reward heavily for stopping at the line and not going for the item. This is similar to teaching 'Leave It', one of the <a href="https://trainedtails.com/posts/7-Commands-Your-Dog-Needs-to-Know" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">essential commands</a>. Only increase the temptation's value when they succeed easily.
+            <strong>Add Temptation Gradually:</strong> Once they respect the line itself, place a low-value toy or piece of kibble just over the line. Walk them towards it. Mark and reward heavily for stopping at the line and not going for the item. This is similar to teaching 'Leave It', one of the <a href="/posts/7-Commands-Your-Dog-Needs-to-Know"  class="text-emerald-600 dark:text-emerald-400 hover:underline">essential commands</a>. Only increase the temptation's value when they succeed easily.
         </p>
     </div>
      <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">6</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Increase Duration & Distance:</strong> Ask them to wait at the boundary while you take one step back, then return and reward. Gradually increase how long they wait (link to <a href="https://trainedtails.com/posts/extend-command-duration" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">extending duration</a>) and how far away you move.
+            <strong>Increase Duration & Distance:</strong> Ask them to wait at the boundary while you take one step back, then return and reward. Gradually increase how long they wait (link to <a href="/posts/extend-command-duration"  class="text-emerald-600 dark:text-emerald-400 hover:underline">extending duration</a>) and how far away you move.
         </p>
     </div>
      <div class="relative pl-8">
@@ -122,7 +122,7 @@ tags: ["dog boundary training", "teach dog boundaries", "invisible fence alterna
       <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">8</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Practice & Proof:</strong> Practice in short, positive sessions (<a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">tips here</a>, <a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">keep them short!</a>). Gradually add distractions while ensuring success. Handle <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">setbacks</a> by making it easier. Avoid <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>.
+            <strong>Practice & Proof:</strong> Practice in short, positive sessions (<a href="/posts/training-session-tips"  class="text-emerald-600 dark:text-emerald-400 hover:underline">tips here</a>, <a href="/posts/why-short-sessions-work-best"  class="text-emerald-600 dark:text-emerald-400 hover:underline">keep them short!</a>). Gradually add distractions while ensuring success. Handle <a href="/posts/handling-setbacks"  class="text-emerald-600 dark:text-emerald-400 hover:underline">setbacks</a> by making it easier. Avoid <a href="/posts/avoiding-overtraining"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>.
         </p>
     </div>
 </div>

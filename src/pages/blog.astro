@@ -4,8 +4,11 @@ import BaseLayout from '../layouts/Base.astro';
 const allPosts = await Astro.glob('./posts/*.md');
 // Optional: Sort posts by date, newest first
 allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new Date(a.frontmatter.date).valueOf());
+
+const pageTitle = "Blog | Dog Training Guides & Expert Tips | Trained Tails";
+const pageDescription = "Explore expert dog training guides, positive reinforcement tips, and step-by-step obedience tutorials to help your canine thrive at any life stage.";
 ---
-<BaseLayout title="Blog | Trained Tails">
+<BaseLayout title={pageTitle} description={pageDescription}>
   <main class="max-w-6xl mx-auto px-4 py-8">
     <h1 class="text-4xl font-bold text-slate-800 dark:text-slate-100 mb-8 text-center">All Blog Posts</h1>
     <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-6">

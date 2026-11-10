@@ -10,10 +10,10 @@ tags: ["dog command duration", "dog stay training", "building duration dogs", "p
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">Beyond the Instant: Building Staying Power in Commands</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
-    You did it! You taught your dog to 'Sit' or 'Lie Down' on cue (<a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">great basic training</a>!). But then comes the next challenge: getting them to stay there for more than a nanosecond, especially if you move or something interesting happens. I remember the classic scenario – asking for a 'Stay', turning my back for one second, and turning back to find an empty spot where my dog used to be!
+    You did it! You taught your dog to 'Sit' or 'Lie Down' on cue (<a href="/posts/basic-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">great basic training</a>!). But then comes the next challenge: getting them to stay there for more than a nanosecond, especially if you move or something interesting happens. I remember the classic scenario – asking for a 'Stay', turning my back for one second, and turning back to find an empty spot where my dog used to be!
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Building duration is a core part of proofing commands and moving towards <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced obedience</a>. It's one of the essential "3 D's" (Duration, Distance, Distraction) that make behaviors truly reliable in real-world situations. Teaching your dog to hold a position calmly for increasing periods takes patience and a systematic approach, but it's achievable with positive methods.
+    Building duration is a core part of proofing commands and moving towards <a href="/posts/advanced-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced obedience</a>. It's one of the essential "3 D's" (Duration, Distance, Distraction) that make behaviors truly reliable in real-world situations. Teaching your dog to hold a position calmly for increasing periods takes patience and a systematic approach, but it's achievable with positive methods.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Does Holding a Command Matter?</h3>
@@ -61,7 +61,7 @@ tags: ["dog command duration", "dog stay training", "building duration dogs", "p
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Prerequisites: Before You Add Time</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Don't try to build duration until your dog clearly understands the basic command itself (like the 'Sit' or 'Down' position). Start practicing duration in a calm, quiet <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a> where your dog is relaxed and likely to succeed.
+    Don't try to build duration until your dog clearly understands the basic command itself (like the 'Sit' or 'Down' position). Start practicing duration in a calm, quiet <a href="/posts/right-training-enviroment"  class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a> where your dog is relaxed and likely to succeed.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Building Duration: The Incremental Approach</h3>
@@ -74,13 +74,13 @@ tags: ["dog command duration", "dog stay training", "building duration dogs", "p
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">1</span> </div>
          <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Start SUPER Short (1 Second!):</strong> Cue the command. Count "one-one-thousand" silently. If they hold, immediately mark ("Yes!") and give a fantastic <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">reward</a>. Then use your release cue ("Okay!") so they know they can move. Repeat this many times until a 1-second hold is easy peasy.
+            <strong>Start SUPER Short (1 Second!):</strong> Cue the command. Count "one-one-thousand" silently. If they hold, immediately mark ("Yes!") and give a fantastic <a href="/posts/treats-and-rewards"  class="text-emerald-600 dark:text-emerald-400 hover:underline">reward</a>. Then use your release cue ("Okay!") so they know they can move. Repeat this many times until a 1-second hold is easy peasy.
         </p>
     </div>
      <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">2</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Add Tiny Increments:</strong> Once 1 second is rock solid, try for 2 seconds before marking/rewarding/releasing. Then 3 seconds. Then maybe 5. Go SLOWLY. If your dog breaks the position before you mark, you likely increased the time too quickly. Go back to the previous duration where they were successful. Don't scold; just make it easier! Learn about <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">handling setbacks</a> positively.
+            <strong>Add Tiny Increments:</strong> Once 1 second is rock solid, try for 2 seconds before marking/rewarding/releasing. Then 3 seconds. Then maybe 5. Go SLOWLY. If your dog breaks the position before you mark, you likely increased the time too quickly. Go back to the previous duration where they were successful. Don't scold; just make it easier! Learn about <a href="/posts/handling-setbacks"  class="text-emerald-600 dark:text-emerald-400 hover:underline">handling setbacks</a> positively.
         </p>
     </div>
      <div class="relative pl-8">
@@ -92,7 +92,7 @@ tags: ["dog command duration", "dog stay training", "building duration dogs", "p
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">4</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Use a Clear Release Cue:</strong> This is essential! Your dog needs to know precisely when the command ends. Use a specific word like "Okay," "Free," or "Break" (choose one and stick to it!) to tell them they can move after you've marked and rewarded. Don't let them decide when the command is over. This is part of teaching clear <a href="https://trainedtails.com/posts/verbal-commands-for-puppies" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">verbal commands</a>.
+            <strong>Use a Clear Release Cue:</strong> This is essential! Your dog needs to know precisely when the command ends. Use a specific word like "Okay," "Free," or "Break" (choose one and stick to it!) to tell them they can move after you've marked and rewarded. Don't let them decide when the command is over. This is part of teaching clear <a href="/posts/verbal-commands-for-puppies"  class="text-emerald-600 dark:text-emerald-400 hover:underline">verbal commands</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -104,7 +104,7 @@ tags: ["dog command duration", "dog stay training", "building duration dogs", "p
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">6</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Keep Sessions Short & Positive:</strong> Building duration requires concentration. Keep your specific <a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training sessions</a> very short, especially at first (<a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">remember why short is better!</a>). Always aim to end on a successful repetition before your dog gets wiggly, bored, or stressed. Avoid <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>!
+            <strong>Keep Sessions Short & Positive:</strong> Building duration requires concentration. Keep your specific <a href="/posts/training-session-tips"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training sessions</a> very short, especially at first (<a href="/posts/why-short-sessions-work-best"  class="text-emerald-600 dark:text-emerald-400 hover:underline">remember why short is better!</a>). Always aim to end on a successful repetition before your dog gets wiggly, bored, or stressed. Avoid <a href="/posts/avoiding-overtraining"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>!
         </p>
     </div>
 </div>
@@ -117,21 +117,21 @@ tags: ["dog command duration", "dog stay training", "building duration dogs", "p
     <div class="pt-6 first:pt-0 flex items-start">
         <div class="w-4 h-4 bg-blue-500 dark:bg-blue-400 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Set Realistic Goals:</strong> Don't expect a 1-minute stay in your second session! Celebrate tiny increases in time. Be realistic about your <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training goals</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Set Realistic Goals:</strong> Don't expect a 1-minute stay in your second session! Celebrate tiny increases in time. Be realistic about your <a href="/posts/training-goals"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training goals</a>.
              </p>
         </div>
     </div>
      <div class="pt-6 flex items-start">
         <div class="w-4 h-4 bg-blue-500 dark:bg-blue-400 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Master Duration Before Distance/Distraction:</strong> Focus only on increasing time at first, while you stay close and in a quiet place. Once duration is solid, then start adding distance or distractions, reducing the duration again initially. Isolate your criteria! Don't try to train a <a href="https://trainedtails.com/posts/training-distracted-dogs" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">distracted dog</a> with long duration stays right away.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Master Duration Before Distance/Distraction:</strong> Focus only on increasing time at first, while you stay close and in a quiet place. Once duration is solid, then start adding distance or distractions, reducing the duration again initially. Isolate your criteria! Don't try to train a <a href="/posts/training-distracted-dogs"  class="text-emerald-600 dark:text-emerald-400 hover:underline">distracted dog</a> with long duration stays right away.
              </p>
         </div>
     </div>
       <div class="pt-6 flex items-start">
         <div class="w-4 h-4 bg-blue-500 dark:bg-blue-400 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Be Patient & Consistent:</strong> This skill takes time and lots of repetition. Practice regularly, and ensure your <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency</a> in marking, rewarding, and releasing is spot-on. Don't fall into <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">beginner mistakes</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Be Patient & Consistent:</strong> This skill takes time and lots of repetition. Practice regularly, and ensure your <a href="/posts/consistency-matters"  class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency</a> in marking, rewarding, and releasing is spot-on. Don't fall into <a href="/posts/beginner-mistakes"  class="text-emerald-600 dark:text-emerald-400 hover:underline">beginner mistakes</a>.
              </p>
         </div>
     </div>
@@ -152,7 +152,7 @@ tags: ["dog command duration", "dog stay training", "building duration dogs", "p
      <div class="pt-6 flex items-start">
         <div class="w-4 h-4 bg-blue-500 dark:bg-blue-400 rounded-full flex-shrink-0 mr-3 mt-2"></div> <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Practice Calmness Generally:</strong> Working on impulse control and rewarding calm behavior in everyday life helps build the foundation for holding commands longer. Consider exercises that build <a href="https://trainedtails.com/posts/precision-in-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">precision</a> and focus.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Practice Calmness Generally:</strong> Working on impulse control and rewarding calm behavior in everyday life helps build the foundation for holding commands longer. Consider exercises that build <a href="/posts/precision-in-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">precision</a> and focus.
              </p>
         </div>
     </div>

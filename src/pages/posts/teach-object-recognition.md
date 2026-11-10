@@ -13,7 +13,7 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
     How many times have you wished there was an easier way to tell your dog it’s time for their “fuzzy squeaky pig” or maybe to find your dog’s “favorite rope”? It might seem like something only super-genius movie dogs can do, but with patience and some fun training, many dogs can learn to identify quite a few objects by name! I was over the moon the first time my dog would find the right toy in a pile and bring it to me after I’d asked for it by name — I felt like we had unlocked a new level of comprehension.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Teaching object recognition is not only a cool party trick, it’s a great way to provide <a href="https://trainedtails.com/posts/mental-stimulation-benefits" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">mental stimulation</a> for your pup, as well as improve your connection and can turn clean up into a fun game. It’s a great example of <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced training</a> that is pure play for your dog.
+    Teaching object recognition is not only a cool party trick, it’s a great way to provide <a href="/posts/mental-stimulation-benefits"  class="text-blue-600 dark:text-blue-400 hover:underline">mental stimulation</a> for your pup, as well as improve your connection and can turn clean up into a fun game. It’s a great example of <a href="/posts/advanced-dog-training"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced training</a> that is pure play for your dog.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Teach Your Dog to Recognize Objects by Name?</h3>
@@ -44,7 +44,7 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
            <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-running-svgrepo-com.svg" alt="Dog Running Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Fun & Impressive "Trick"</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">It’s a great way to engage in some <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">interactive play</a> and show off your dog's smarts!</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">It’s a great way to engage in some <a href="/posts/playtime-in-training"  class="text-blue-600 dark:text-blue-400 hover:underline">interactive play</a> and show off your dog's smarts!</p>
     </div>
 </div>
 
@@ -54,8 +54,8 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
 </p>
 <ul class="list-disc list-inside space-y-2 text-lg text-slate-600 dark:text-slate-300 mb-12 [&>li]:marker:text-black [&>li]:marker:text-2xl">
     <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Choose Your First Object:</strong> Pick one of your dog's favorite toys, something they already love to interact with and that is visually distinct.</li>
-    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Basic Attention:</strong> Your dog should have some ability to <a href="https://trainedtails.com/posts/focus-and-eye-contact-exercises" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">focus on you</a> when asked, even for short periods.</li>
-    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Marker Signal:</strong> Be ready with a clicker or a verbal marker like "Yes!" to pinpoint the exact moment your dog does something correct. Some simple <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">beginner tools</a> like a treat pouch will be handy.</li>
+    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Basic Attention:</strong> Your dog should have some ability to <a href="/posts/focus-and-eye-contact-exercises"  class="text-blue-600 dark:text-blue-400 hover:underline">focus on you</a> when asked, even for short periods.</li>
+    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Marker Signal:</strong> Be ready with a clicker or a verbal marker like "Yes!" to pinpoint the exact moment your dog does something correct. Some simple <a href="/posts/dog-training-tools-for-beginners"  class="text-blue-600 dark:text-blue-400 hover:underline">beginner tools</a> like a treat pouch will be handy.</li>
 </ul>
 
 <img src="/assets/images/113.jpg" alt="Placeholder: Owner holding a distinct dog toy (e.g., a red ball) and the dog looking at it attentively." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
@@ -71,7 +71,7 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Name Association (One Object)</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Hold your chosen object (e.g., "Blue Ball"). Get your dog's attention. Clearly say the object's name ("Blue Ball!"). The instant your dog looks at, sniffs, or touches the "Blue Ball," mark ("Yes!") and give them a high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">reward</a>. Repeat this many times in short, fun sessions – remember <a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions are best</a>!
+            Hold your chosen object (e.g., "Blue Ball"). Get your dog's attention. Clearly say the object's name ("Blue Ball!"). The instant your dog looks at, sniffs, or touches the "Blue Ball," mark ("Yes!") and give them a high-value <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">reward</a>. Repeat this many times in short, fun sessions – remember <a href="/posts/why-short-sessions-work-best"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions are best</a>!
         </p>
     </div>
     <div class="relative pl-8">
@@ -89,7 +89,7 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Introduce a Second Object (Discrimination)</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            When "Blue Ball" is solid, introduce a second, very different object (e.g., "Red Rope"). Teach its name ("Red Rope!") using Step 1 until they associate the name with this new object. Now, place both "Blue Ball" and "Red Rope" a short distance apart. Ask for "Blue Ball." If they go to the Blue Ball, HUGE party! If they go to Red Rope, no reward, no scolding – just calmly reset and try again, maybe making it easier by pointing slightly or having the objects further apart. The <a href="https://trainedtails.com/posts/importance-patience" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">importance of patience</a> is huge here; <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">handle setbacks</a> calmly.
+            When "Blue Ball" is solid, introduce a second, very different object (e.g., "Red Rope"). Teach its name ("Red Rope!") using Step 1 until they associate the name with this new object. Now, place both "Blue Ball" and "Red Rope" a short distance apart. Ask for "Blue Ball." If they go to the Blue Ball, HUGE party! If they go to Red Rope, no reward, no scolding – just calmly reset and try again, maybe making it easier by pointing slightly or having the objects further apart. The <a href="/posts/importance-patience"  class="text-blue-600 dark:text-blue-400 hover:underline">importance of patience</a> is huge here; <a href="/posts/handling-setbacks"  class="text-blue-600 dark:text-blue-400 hover:underline">handle setbacks</a> calmly.
         </p>
     </div>
     <div class="relative pl-8">
@@ -107,7 +107,7 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Generalize the Skill</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Practice in different rooms, different <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">environments</a> (start with low distractions), and with objects partially hidden to build their searching skills.
+            Practice in different rooms, different <a href="/posts/right-training-enviroment"  class="text-blue-600 dark:text-blue-400 hover:underline">environments</a> (start with low distractions), and with objects partially hidden to build their searching skills.
         </p>
     </div>
 </div>
@@ -130,7 +130,7 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Upbeat:</strong> End while your dog is still having fun and eager for more. Follow good <a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">training session tips</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Upbeat:</strong> End while your dog is still having fun and eager for more. Follow good <a href="/posts/training-session-tips"  class="text-blue-600 dark:text-blue-400 hover:underline">training session tips</a>.
             </p>
         </div>
         <div class="flex items-start pt-4">
@@ -138,7 +138,7 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Be Consistent with Cues:</strong> Use the exact same name for the object and the same retrieval cue (e.g., "Get [name]") every time. <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">Consistency</a> is crucial.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Be Consistent with Cues:</strong> Use the exact same name for the object and the same retrieval cue (e.g., "Get [name]") every time. <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">Consistency</a> is crucial.
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -163,7 +163,7 @@ tags: ["dog object recognition", "teach dog toy names", "dog name vocabulary", "
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Closing: Developing a Common Vocabulary</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Teaching your dog to identify names for different objects can be an extremely rewarding process full of mental and practical activity. It leads to new territory in <a href="https://trainedtails.com/posts/problem-solving-games" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">problem-solving games</a> and enhances your communication. With patience, rewards, and a sense of fun, you’ll be surprised at how many words your intelligent dog can put in his vocabulary!
+    Teaching your dog to identify names for different objects can be an extremely rewarding process full of mental and practical activity. It leads to new territory in <a href="/posts/problem-solving-games"  class="text-blue-600 dark:text-blue-400 hover:underline">problem-solving games</a> and enhances your communication. With patience, rewards, and a sense of fun, you’ll be surprised at how many words your intelligent dog can put in his vocabulary!
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">

@@ -10,7 +10,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">Expanding Your Dog's Skillset: Back, Around, & Place</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
-    Once you and your dog have a good grasp of the basics, it's incredibly rewarding to explore more <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced commands</a>. They aren’t just fancy commands — messages such as “Back” (move backward), “Around” (circle around an object) and “Place” (go to a specific area) are super useful for daily life and are all about building our dogs’ “thinking skills.” They’re enjoyable to teach while adding to your understanding of each other. I love the lightbulb moment of when my dog solves a new challenge
+    Once you and your dog have a good grasp of the basics, it's incredibly rewarding to explore more <a href="/posts/advanced-dog-training"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced commands</a>. They aren’t just fancy commands — messages such as “Back” (move backward), “Around” (circle around an object) and “Place” (go to a specific area) are super useful for daily life and are all about building our dogs’ “thinking skills.” They’re enjoyable to teach while adding to your understanding of each other. I love the lightbulb moment of when my dog solves a new challenge
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     These cues are the natural progression of building your dog’s response to cues, supporting your dog’s body awareness, and providing you with another option to maneuver your dog safely and politely in any given situation. As with all training, we’ll focus on positive step-by-step methods.
@@ -45,7 +45,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Foundations First!</h3>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Before tackling these, ensure your dog has a good understanding of <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">basic obedience cues</a>, solid <a href="https://trainedtails.com/posts/focus-and-eye-contact-exercises" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">focus and eye contact</a>, and knows that good things happen (like <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">treats!</a>) when they respond to your guidance.
+    Before tackling these, ensure your dog has a good understanding of <a href="/posts/basic-dog-training"  class="text-blue-600 dark:text-blue-400 hover:underline">basic obedience cues</a>, solid <a href="/posts/focus-and-eye-contact-exercises"  class="text-blue-600 dark:text-blue-400 hover:underline">focus and eye contact</a>, and knows that good things happen (like <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">treats!</a>) when they respond to your guidance.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Teaching "Back" (Move Backward)</h3>
@@ -70,7 +70,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Add the Cue</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Once they're reliably taking a step or two back, start saying your verbal cue (e.g., "Back," "Scoot") just before you lure or encourage the movement. Pair with a clear <a href="https://trainedtails.com/posts/hand-signals" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">hand signal</a> (like pushing your palm towards them).
+            Once they're reliably taking a step or two back, start saying your verbal cue (e.g., "Back," "Scoot") just before you lure or encourage the movement. Pair with a clear <a href="/posts/hand-signals"  class="text-blue-600 dark:text-blue-400 hover:underline">hand signal</a> (like pushing your palm towards them).
         </p>
     </div>
     <div class="relative pl-8">
@@ -79,7 +79,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Increase Steps & Fade Lure</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Gradually ask for more backward steps before rewarding. Start reducing your lure, relying more on the verbal cue and hand signal. You can learn about <a href="https://trainedtails.com/posts/extend-command-duration" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">extending duration and distance</a> in our other guides.
+            Gradually ask for more backward steps before rewarding. Start reducing your lure, relying more on the verbal cue and hand signal. You can learn about <a href="/posts/extend-command-duration"  class="text-blue-600 dark:text-blue-400 hover:underline">extending duration and distance</a> in our other guides.
         </p>
     </div>
 </div>
@@ -149,7 +149,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Build Duration & Distance</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Gradually ask them to stay on the mat for longer periods. Start sending them to the mat from a short distance away, then increase the distance. This is similar to <a href="https://trainedtails.com/posts/boundary-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">boundary training</a>.
+            Gradually ask them to stay on the mat for longer periods. Start sending them to the mat from a short distance away, then increase the distance. This is similar to <a href="/posts/boundary-training"  class="text-blue-600 dark:text-blue-400 hover:underline">boundary training</a>.
         </p>
     </div>
      <div class="relative pl-8">
@@ -174,7 +174,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Fun:</strong> Always Finish with a Positive Note. Remember why<a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline"> short sessions</a> are most effective and think about incorporating <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">playtime</a>. Don't risk <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">overtraining</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Fun:</strong> Always Finish with a Positive Note. Remember why<a href="/posts/why-short-sessions-work-best"  class="text-blue-600 dark:text-blue-400 hover:underline"> short sessions</a> are most effective and think about incorporating <a href="/posts/playtime-in-training"  class="text-blue-600 dark:text-blue-400 hover:underline">playtime</a>. Don't risk <a href="/posts/avoiding-overtraining"  class="text-blue-600 dark:text-blue-400 hover:underline">overtraining</a>.
             </p>
         </div>
         <div class="flex items-start pt-4">
@@ -190,7 +190,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Break it Down:</strong> If your dog had trouble, make the step smaller. Check out our guide on dealing with <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline"> setbacks</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Break it Down:</strong> If your dog had trouble, make the step smaller. Check out our guide on dealing with <a href="/posts/handling-setbacks"  class="text-blue-600 dark:text-blue-400 hover:underline"> setbacks</a>.
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -198,7 +198,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Stay Consistent:</strong> Use the same <a href="https://trainedtails.com/posts/verbal-commands-for-puppies" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">commands</a> and signals, every time. <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">Consistency</a> is key!
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Stay Consistent:</strong> Use the same <a href="/posts/verbal-commands-for-puppies"  class="text-blue-600 dark:text-blue-400 hover:underline">commands</a> and signals, every time. <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">Consistency</a> is key!
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -206,7 +206,7 @@ tags: ["advanced dog commands", "teach dog back up", "teach dog around object", 
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Proof in Different Locations:</strong> Once solid at home, practice in new <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">environments</a> with managed <a href="https://trainedtails.com/posts/handling-distractions" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">distractions</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Proof in Different Locations:</strong> Once solid at home, practice in new <a href="/posts/right-training-enviroment"  class="text-blue-600 dark:text-blue-400 hover:underline">environments</a> with managed <a href="/posts/handling-distractions"  class="text-blue-600 dark:text-blue-400 hover:underline">distractions</a>.
             </p>
         </div>
     </div>

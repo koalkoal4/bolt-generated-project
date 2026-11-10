@@ -13,7 +13,7 @@ tags: ["dog toy rotation", "dog enrichment", "keep dog engaged", "prevent dog bo
     Does this sound familiar? You have a basket, box or perhaps a dedicated room filled with dog toys, but your pet seems to not give two woofs about most of it, playing with maybe just one or two well-worn favorites. I've definitely been there! It’s simple to hoard toys, waiting for the next one to be “the one” that entertains them forever.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    But here’s a little secret I have learned: Many times, it’s not really new toys that are necessary, but a way of making the ones they have seem new again. Enter the very simple, highly effective trick of toy rotation. It’s a wonderful way to offer your <a href="https://trainedtails.com/posts/mental-stimulation-benefits" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">dog's brain</a> some constant work in getting food out, and keep your dog actually excited and eager about playtime.
+    But here’s a little secret I have learned: Many times, it’s not really new toys that are necessary, but a way of making the ones they have seem new again. Enter the very simple, highly effective trick of toy rotation. It’s a wonderful way to offer your <a href="/posts/mental-stimulation-benefits"  class="text-blue-600 dark:text-blue-400 hover:underline">dog's brain</a> some constant work in getting food out, and keep your dog actually excited and eager about playtime.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Rotate Toys? The Science of Novelty and Engagement</h3>
@@ -70,7 +70,7 @@ tags: ["dog toy rotation", "dog enrichment", "keep dog engaged", "prevent dog bo
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Sort and Group</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Divide the safe toys into 2-4 groups. The number of groups depends on how many toys you have – aim for 3-5 toys per "active" group. Try to have a variety of toy types in each group (e.g., a chew toy, a plush, a ball, maybe a <a href="https://trainedtails.com/posts/puzzle-toys-for-mental-stimulation" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">puzzle toy</a> or <a href="https://trainedtails.com/posts/interactive-feeding-toys" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">interactive feeder</a>).
+            Divide the safe toys into 2-4 groups. The number of groups depends on how many toys you have – aim for 3-5 toys per "active" group. Try to have a variety of toy types in each group (e.g., a chew toy, a plush, a ball, maybe a <a href="/posts/puzzle-toys-for-mental-stimulation"  class="text-blue-600 dark:text-blue-400 hover:underline">puzzle toy</a> or <a href="/posts/interactive-feeding-toys"  class="text-blue-600 dark:text-blue-400 hover:underline">interactive feeder</a>).
         </p>
     </div>
     <div class="relative pl-8">
@@ -118,7 +118,7 @@ tags: ["dog toy rotation", "dog enrichment", "keep dog engaged", "prevent dog bo
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Make the "New" Toys Exciting:</strong> When you bring out a rotated set, make a bit of a fuss! Toss them, squeak them, initiate a game of <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">play</a> to build anticipation.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Make the "New" Toys Exciting:</strong> When you bring out a rotated set, make a bit of a fuss! Toss them, squeak them, initiate a game of <a href="/posts/playtime-in-training"  class="text-blue-600 dark:text-blue-400 hover:underline">play</a> to build anticipation.
             </p>
         </div>
         <div class="flex items-start pt-4">
@@ -126,7 +126,7 @@ tags: ["dog toy rotation", "dog enrichment", "keep dog engaged", "prevent dog bo
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Include Variety:</strong> Ensure each rotation group has different types of toys (chews, soft, balls, interactive). Some <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">training tools</a> might even double as play items.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Include Variety:</strong> Ensure each rotation group has different types of toys (chews, soft, balls, interactive). Some <a href="/posts/dog-training-tools-for-beginners"  class="text-blue-600 dark:text-blue-400 hover:underline">training tools</a> might even double as play items.
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -156,16 +156,16 @@ tags: ["dog toy rotation", "dog enrichment", "keep dog engaged", "prevent dog bo
 </p>
 <ul class="list-disc list-inside space-y-2 text-lg text-slate-600 dark:text-slate-300 mb-12 [&>li]:marker:text-black [&>li]:marker:text-2xl my-2">
     <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Play With Your Dog:</strong> Many toys (like tugs or balls) are much more fun when you're part of the game!</li>
-    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Hide Toys for Scent Games:</strong> Turn toy time into a simple <a href="https://trainedtails.com/posts/scent-work" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a> challenge by hiding a favorite toy.</li>
-    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Use Toys as Training Rewards:</strong> For some dogs, a quick game with a toy is an even better motivator than <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">treats</a>.</li>
-    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Consider <a href="https://trainedtails.com/posts/diy-games-for-dogs" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">DIY options</a> too!</strong> You can create simple, engaging toys from household items.</li>
+    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Hide Toys for Scent Games:</strong> Turn toy time into a simple <a href="/posts/scent-work"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a> challenge by hiding a favorite toy.</li>
+    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Use Toys as Training Rewards:</strong> For some dogs, a quick game with a toy is an even better motivator than <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">treats</a>.</li>
+    <li><strong class="font-semibold text-slate-800 dark:text-slate-100">Consider <a href="/posts/diy-games-for-dogs"  class="text-blue-600 dark:text-blue-400 hover:underline">DIY options</a> too!</strong> You can create simple, engaging toys from household items.</li>
 </ul>
 
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Conclusion: So Easy, but So Effective!</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Toy rotation is a very easy and extremely effective way of keeping your dog engaged, mentally stimulated and happy with the toys they have. It also combats boredom, prevents pent-up energy and ensures playtime is always new and exciting! Give it a shot – I think you’ll be surprised at just how much Mooser is loving on his “new” old toys! Remember, <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> in offering diverse enrichment is the key to a happy pup.
+    Toy rotation is a very easy and extremely effective way of keeping your dog engaged, mentally stimulated and happy with the toys they have. It also combats boredom, prevents pent-up energy and ensures playtime is always new and exciting! Give it a shot – I think you’ll be surprised at just how much Mooser is loving on his “new” old toys! Remember, <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> in offering diverse enrichment is the key to a happy pup.
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">

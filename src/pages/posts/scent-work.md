@@ -10,10 +10,10 @@ tags: ["scent work dog training", "nose work dogs", "advanced dog obedience", "d
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">Unleashing Your Dog's Potential through Scentwork</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    So, your dog has learned the basics and progressed through <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basic dog training</a>, perhaps even tackled some intermediate commands. At times, it can feel as if we've reached a plateau in our training. Running through the same commands on both ends of the leash can start to feel monotonous. I found myself in this exact spot!
+    So, your dog has learned the basics and progressed through <a href="/posts/basic-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basic dog training</a>, perhaps even tackled some intermediate commands. At times, it can feel as if we've reached a plateau in our training. Running through the same commands on both ends of the leash can start to feel monotonous. I found myself in this exact spot!
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    That's when I discovered the amazing world of scent work (or nose work). It's more than just a fun game; it's a fantastic way to engage your dog's strong sense and, surprisingly, it reinforces and builds upon many core obedience skills. It's a perfect avenue for <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced dog training</a> that feels like pure fun for your dog.
+    That's when I discovered the amazing world of scent work (or nose work). It's more than just a fun game; it's a fantastic way to engage your dog's strong sense and, surprisingly, it reinforces and builds upon many core obedience skills. It's a perfect avenue for <a href="/posts/advanced-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced dog training</a> that feels like pure fun for your dog.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">What Exactly is Scent Work?</h3>
@@ -32,19 +32,19 @@ tags: ["scent work dog training", "nose work dogs", "advanced dog obedience", "d
 
 <ul class="list-disc list-inside space-y-4 text-lg text-slate-600 dark:text-slate-300 mb-12 [&>li]:marker:text-slate-800 dark:[&>li]:marker:text-slate-100">
     <li>
-        <strong class="font-semibold text-slate-800 dark:text-slate-100">Builds Intense Focus:</strong> Searching for a specific scent requires incredible concentration, teaching dogs to filter out distractions – a skill vital for reliable obedience, especially when <a href="https://trainedtails.com/posts/training-distracted-dogs" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training distracted dogs</a>.
+        <strong class="font-semibold text-slate-800 dark:text-slate-100">Builds Intense Focus:</strong> Searching for a specific scent requires incredible concentration, teaching dogs to filter out distractions – a skill vital for reliable obedience, especially when <a href="/posts/training-distracted-dogs"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training distracted dogs</a>.
     </li>
     <li>
-        <strong class="font-semibold text-slate-800 dark:text-slate-100">Develops Impulse Control:</strong> Dogs learn to wait for the cue to search, ignore non-target scents, and indicate the find politely, rather than just diving in. This helps <a href="https://trainedtails.com/posts/extend-command-duration" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">extend duration and control</a>.
+        <strong class="font-semibold text-slate-800 dark:text-slate-100">Develops Impulse Control:</strong> Dogs learn to wait for the cue to search, ignore non-target scents, and indicate the find politely, rather than just diving in. This helps <a href="/posts/extend-command-duration"  class="text-emerald-600 dark:text-emerald-400 hover:underline">extend duration and control</a>.
     </li>
     <li>
         <strong class="font-semibold text-slate-800 dark:text-slate-100">Encourages Problem Solving:</strong> The dog has to figure out how to get to the scent source, building confidence and independent thinking.
     </li>
      <li>
-        <strong class="font-semibold text-slate-800 dark:text-slate-100">Strengthens Teamwork:</strong> You learn to read your dog's subtle signals (using <a href="https://trainedtails.com/posts/hand-signals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">body language</a>, not just hands!), trust their nose, and work together towards a goal.
+        <strong class="font-semibold text-slate-800 dark:text-slate-100">Strengthens Teamwork:</strong> You learn to read your dog's subtle signals (using <a href="/posts/hand-signals"  class="text-emerald-600 dark:text-emerald-400 hover:underline">body language</a>, not just hands!), trust their nose, and work together towards a goal.
     </li>
      <li>
-        <strong class="font-semibold text-slate-800 dark:text-slate-100">Amazing Mental Workout:</strong> Sniffing is naturally tiring for dogs. A short scent work session provides great mental stimulation, helping to prevent boredom and reducing the chance of behavior issues linked to <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">under-stimulation</a>.
+        <strong class="font-semibold text-slate-800 dark:text-slate-100">Amazing Mental Workout:</strong> Sniffing is naturally tiring for dogs. A short scent work session provides great mental stimulation, helping to prevent boredom and reducing the chance of behavior issues linked to <a href="/posts/avoiding-overtraining"  class="text-emerald-600 dark:text-emerald-400 hover:underline">under-stimulation</a>.
     </li>
 </ul>
 
@@ -61,7 +61,7 @@ tags: ["scent work dog training", "nose work dogs", "advanced dog obedience", "d
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">"Find It" with Treats</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Start easy. Let your dog watch you place a few tasty <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">treats</a> under one of several overturned cups or small boxes close by. Give a cue like "Find it!" and let them sniff out the reward. Praise enthusiastically when they find it.
+            Start easy. Let your dog watch you place a few tasty <a href="/posts/treats-and-rewards"  class="text-emerald-600 dark:text-emerald-400 hover:underline">treats</a> under one of several overturned cups or small boxes close by. Give a cue like "Find it!" and let them sniff out the reward. Praise enthusiastically when they find it.
         </p>
     </div>
     <div class="relative pl-8">
@@ -97,7 +97,7 @@ tags: ["scent work dog training", "nose work dogs", "advanced dog obedience", "d
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Keep it Fun and Short!</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Scent work should be exciting! Use lots of praise, maybe even incorporate <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">play</a> as a reward. Remember <a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">why short sessions work best</a> – scent work is mentally taxing.
+            Scent work should be exciting! Use lots of praise, maybe even incorporate <a href="/posts/playtime-in-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">play</a> as a reward. Remember <a href="/posts/why-short-sessions-work-best"  class="text-emerald-600 dark:text-emerald-400 hover:underline">why short sessions work best</a> – scent work is mentally taxing.
         </p>
     </div>
 </div>
@@ -107,13 +107,13 @@ tags: ["scent work dog training", "nose work dogs", "advanced dog obedience", "d
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">The Scent Work - Obedience Connection</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    The skills built during scent work directly translate to better obedience overall. The focus required helps dogs perform better among  distractions. The impulse control learned helps with stays and waiting cues. The teamwork enhances handler responsiveness and strengthens the bond. This focus and drive are priceless for achieving <a href="https://trainedtails.com/posts/precision-in-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">precision in dog training</a> and necessary for reliable <a href="https://trainedtails.com/posts/off-leash-obedience-tips" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">off-leash obedience</a>. It truly is an advanced exercise disguised as a game, demanding <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency</a> just like any other training.
+    The skills built during scent work directly translate to better obedience overall. The focus required helps dogs perform better among  distractions. The impulse control learned helps with stays and waiting cues. The teamwork enhances handler responsiveness and strengthens the bond. This focus and drive are priceless for achieving <a href="/posts/precision-in-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">precision in dog training</a> and necessary for reliable <a href="/posts/off-leash-obedience-tips"  class="text-emerald-600 dark:text-emerald-400 hover:underline">off-leash obedience</a>. It truly is an advanced exercise disguised as a game, demanding <a href="/posts/consistency-matters"  class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency</a> just like any other training.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Conclusion: Follow Your Dog's Nose!</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    If you want to significantly improve your dog's life, help them gain confidence, and see them excel in obedience, then I suggest you consider scent work as a viable option. It honors their instincts, gives them amazing mental exercises, and also tightens the bond between you and your dog. Start simple, keep it positive, and enjoy watching your dog do what they do best! It's a wonderful addition to any training plan built on a stable <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">foundation</a>.
+    If you want to significantly improve your dog's life, help them gain confidence, and see them excel in obedience, then I suggest you consider scent work as a viable option. It honors their instincts, gives them amazing mental exercises, and also tightens the bond between you and your dog. Start simple, keep it positive, and enjoy watching your dog do what they do best! It's a wonderful addition to any training plan built on a stable <a href="/posts/basic-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">foundation</a>.
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">

@@ -10,7 +10,7 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">Slow and Steady Wins the Race: The Power of Patience</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    It's incredibly exciting when you and your dog master the basics and start venturing into the world of <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced training</a>! Teaching complex sequences, aiming for precision, or working towards off-leash reliability is so rewarding. But, as I quickly learned, this is often where the real test of my skills as a trainer began – specifically, my patience.
+    It's incredibly exciting when you and your dog master the basics and start venturing into the world of <a href="/posts/advanced-dog-training"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced training</a>! Teaching complex sequences, aiming for precision, or working towards off-leash reliability is so rewarding. But, as I quickly learned, this is often where the real test of my skills as a trainer began – specifically, my patience.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     Especially when you watch other dogs seem to perform perfectly, it’s all too tempting to focus solely on getting quick results. We may go too fast, become frustrated when our dog doesn’t “get it” quickly, or simply feel as if we’ve hit a wall. But I’ve started to realize that patience isn’t simply a nice-to-have; it’s perhaps the most important element for success (and for keeping a good relationship intact) when working through more difficult training problems.
@@ -32,13 +32,13 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
         <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
              <img class="w-16 h-16 mx-auto" src="/assets/icons/dog-running-svgrepo-com.svg" fill="currentColor" alt="Proofing Requires Gradual Steps Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Proofing Requires Gradual Steps</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">Generalizing skills (making them work reliably everywhere) means slowly adding <a href="https://trainedtails.com/posts/handling-distractions" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">distractions</a> and practicing in new <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">environments</a>. Rushing this fails.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">Generalizing skills (making them work reliably everywhere) means slowly adding <a href="/posts/handling-distractions"  class="text-blue-600 dark:text-blue-400 hover:underline">distractions</a> and practicing in new <a href="/posts/right-training-enviroment"  class="text-blue-600 dark:text-blue-400 hover:underline">environments</a>. Rushing this fails.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
             <img class="w-16 h-16 mx-auto" src="/assets/icons/dog-training-svgrepo-com.svg" fill="currentColor" alt="Dogs Learn at Their Own Pace Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Dogs Learn at Their Own Pace</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">Individual <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">temperaments</a>, breed traits, past experiences, and <a href="https://trainedtails.com/posts/learning-styles" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">learning styles</a> all affect how quickly a dog learns.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">Individual <a href="/posts/dog-temperaments"  class="text-blue-600 dark:text-blue-400 hover:underline">temperaments</a>, breed traits, past experiences, and <a href="/posts/learning-styles"  class="text-blue-600 dark:text-blue-400 hover:underline">learning styles</a> all affect how quickly a dog learns.</p>
     </div>
      <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
@@ -68,7 +68,7 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Recognizing "Off" Days</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Some days, your dog (or you!) might be tired, stressed, or just not "feeling it." Patient training means recognizing this and choosing to do a very short, easy session, play instead, or even skip formal training that day to avoid <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">overtraining</a> or building negative associations.
+            Some days, your dog (or you!) might be tired, stressed, or just not "feeling it." Patient training means recognizing this and choosing to do a very short, easy session, play instead, or even skip formal training that day to avoid <a href="/posts/avoiding-overtraining"  class="text-blue-600 dark:text-blue-400 hover:underline">overtraining</a> or building negative associations.
         </p>
     </div>
     <div class="relative pl-8">
@@ -77,7 +77,7 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Calmly Handling Setbacks</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Advanced training will involve setbacks where your dog seems to forget something or struggles. Instead of getting frustrated, patiently take a step back, make the task easier again, and help them succeed before trying the harder version later. Learn more about <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">handling setbacks</a> positively.
+            Advanced training will involve setbacks where your dog seems to forget something or struggles. Instead of getting frustrated, patiently take a step back, make the task easier again, and help them succeed before trying the harder version later. Learn more about <a href="/posts/handling-setbacks"  class="text-blue-600 dark:text-blue-400 hover:underline">handling setbacks</a> positively.
         </p>
     </div>
     <div class="relative pl-8">
@@ -86,7 +86,7 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Focusing on the Process</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            While having <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">training goals</a> is important, patient training focuses on enjoying the learning journey and the small moments of connection, rather than just rushing to the finish line.
+            While having <a href="/posts/training-goals"  class="text-blue-600 dark:text-blue-400 hover:underline">training goals</a> is important, patient training focuses on enjoying the learning journey and the small moments of connection, rather than just rushing to the finish line.
         </p>
     </div>
      <div class="relative pl-8">
@@ -113,7 +113,7 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Set Realistic Expectations:</strong> Understand that complex skills take time and progress isn't linear. Adjust your <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">training goals</a> accordingly.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Set Realistic Expectations:</strong> Understand that complex skills take time and progress isn't linear. Adjust your <a href="/posts/training-goals"  class="text-blue-600 dark:text-blue-400 hover:underline">training goals</a> accordingly.
             </p>
         </div>
         <div class="flex items-start pt-4">
@@ -121,7 +121,7 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Fun:</strong> End before you or your dog get tired or frustrated. Remember <a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions are effective</a> and follow good <a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">session tips</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Fun:</strong> End before you or your dog get tired or frustrated. Remember <a href="/posts/why-short-sessions-work-best"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions are effective</a> and follow good <a href="/posts/training-session-tips"  class="text-blue-600 dark:text-blue-400 hover:underline">session tips</a>.
             </p>
         </div>
         <div class="flex items-start pt-4">
@@ -129,7 +129,7 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Celebrate Small Wins:</strong> Actively look for and acknowledge tiny improvements. Use good <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">rewards</a> for effort!
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Celebrate Small Wins:</strong> Actively look for and acknowledge tiny improvements. Use good <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">rewards</a> for effort!
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -156,7 +156,7 @@ tags: ["dog training patience", "advanced dog training", "positive reinforcement
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Final Thoughts: Patience as a Superpower in Training</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    In advanced dog training, patience really is a superpower. It enables us to honour our dog's learning process, to realise that a difficult and challenging task can be split up in small manageable parts, to guide through setbacks and mistakes in a way that doesn't weaken trust and to progress towards a more reliable skill and a better relationship.  While <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> and good technique are vital, layering them with patience is what unlocks long-term success and makes the journey enjoyable for both handler and dog.
+    In advanced dog training, patience really is a superpower. It enables us to honour our dog's learning process, to realise that a difficult and challenging task can be split up in small manageable parts, to guide through setbacks and mistakes in a way that doesn't weaken trust and to progress towards a more reliable skill and a better relationship.  While <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> and good technique are vital, layering them with patience is what unlocks long-term success and makes the journey enjoyable for both handler and dog.
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">

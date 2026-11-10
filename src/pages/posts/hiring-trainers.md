@@ -10,7 +10,7 @@ tags: ["hire dog trainer", "professional dog trainer", "dog training help", "dog
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">When to Ask for Help: Is It Time for a Pro?</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    We all begin our journey with our dogs with the best of intentions. We read articles, watch videos, do our best with their <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">basic training</a>, and celebrate those small wins. And sometimes, that's enough! With commitment and good information, many common training goals are attainable. But there are certainly times our DIY attempts are going to grind to a halt or we’ll encounter a hurdle that feels insurmountable or even a little scary.
+    We all begin our journey with our dogs with the best of intentions. We read articles, watch videos, do our best with their <a href="/posts/basic-dog-training"  class="text-blue-600 dark:text-blue-400 hover:underline">basic training</a>, and celebrate those small wins. And sometimes, that's enough! With commitment and good information, many common training goals are attainable. But there are certainly times our DIY attempts are going to grind to a halt or we’ll encounter a hurdle that feels insurmountable or even a little scary.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     I know exactly what that feels like, being stuck on something or not knowing what to do next. Choosing to seek professional assistance from a dog trainer is not an indication that you’re a failure, it’s a sensible, proactive approach to making your and your pup’s relationship the best it can be, and to addressing problematic behaviors safely and effectively. Think of it as seeking expert advice that is custom-tailored to your own particular situation.
@@ -34,21 +34,21 @@ tags: ["hire dog trainer", "professional dog trainer", "dog training help", "dog
              <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-svgrepo-com.svg" fill="currentColor" alt="Stuck or Frustrated Icon" />
         </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">You're Stuck or Frustrated</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">If you’ve been working steadily with good methods but don’t seem to be getting anywhere, or if training has become a struggle and you or your dog have been unhappy, then you need someone who can get you back on track. They can help with <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">handling setbacks</a>.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">If you’ve been working steadily with good methods but don’t seem to be getting anywhere, or if training has become a struggle and you or your dog have been unhappy, then you need someone who can get you back on track. They can help with <a href="/posts/handling-setbacks"  class="text-blue-600 dark:text-blue-400 hover:underline">handling setbacks</a>.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
             <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-training-svgrepo-com.svg" fill="currentColor" alt="Specific Training Goals Icon" />
        </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Specific Training Goals</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">Want to get into dog sports (agility, <a href="https://trainedtails.com/posts/scent-work" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a>), therapy dog work, or need help with <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced obedience</a>? A trainer specializing in these areas can guide you.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">Want to get into dog sports (agility, <a href="/posts/scent-work"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a>), therapy dog work, or need help with <a href="/posts/advanced-dog-training"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced obedience</a>? A trainer specializing in these areas can guide you.</p>
     </div>
      <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
            <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-playing-svgrepo-com.svg" fill="currentColor" alt="New Puppy/Dog Icon" />
        </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Starting with a New Puppy/Dog</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">A good trainer can help you start off on the right paw, preventing common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">beginner mistakes</a> and setting up a solid foundation for socialization and basic manners.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">A good trainer can help you start off on the right paw, preventing common <a href="/posts/beginner-mistakes"  class="text-blue-600 dark:text-blue-400 hover:underline">beginner mistakes</a> and setting up a solid foundation for socialization and basic manners.</p>
     </div>
 </div>
 
@@ -65,7 +65,7 @@ tags: ["hire dog trainer", "professional dog trainer", "dog training help", "dog
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Positive Reinforcement Focus</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Look for trainers who primarily use positive reinforcement (rewarding desired behaviors) and humane, science-backed methods. They should avoid and discourage the use of choke chains, prong collars, shock collars (e-collars - see our thoughts on <a href="https://trainedtails.com/posts/remote-collar-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">remote collar training</a>), and other aversive tools or techniques that rely on pain, fear, or intimidation.
+            Look for trainers who primarily use positive reinforcement (rewarding desired behaviors) and humane, science-backed methods. They should avoid and discourage the use of choke chains, prong collars, shock collars (e-collars - see our thoughts on <a href="/posts/remote-collar-training"  class="text-blue-600 dark:text-blue-400 hover:underline">remote collar training</a>), and other aversive tools or techniques that rely on pain, fear, or intimidation.
         </p>
     </div>
     <div class="relative pl-8">
@@ -92,7 +92,7 @@ tags: ["hire dog trainer", "professional dog trainer", "dog training help", "dog
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Observation & Tailored Plans</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            They should observe your dog and provide a training plan tailored to your dog's specific needs, <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">temperament</a>, and your <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">training goals</a>. Cookie-cutter approaches are less effective.
+            They should observe your dog and provide a training plan tailored to your dog's specific needs, <a href="/posts/dog-temperaments"  class="text-blue-600 dark:text-blue-400 hover:underline">temperament</a>, and your <a href="/posts/training-goals"  class="text-blue-600 dark:text-blue-400 hover:underline">training goals</a>. Cookie-cutter approaches are less effective.
         </p>
     </div>
      <div class="relative pl-8">
@@ -110,7 +110,7 @@ tags: ["hire dog trainer", "professional dog trainer", "dog training help", "dog
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">What to Expect from Working with a Trainer</h3>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Typically, a trainer will begin with an in-person consultation to evaluate your dog, establish what you hope to achieve and develop a plan. This could mean private, one-on-one sessions, group classes (which are an excellent way to socialize and learn around distractions) or day-training programs. Be prepared to do homework! The trainer provides guidance, but <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> and practice between sessions are up to you.
+    Typically, a trainer will begin with an in-person consultation to evaluate your dog, establish what you hope to achieve and develop a plan. This could mean private, one-on-one sessions, group classes (which are an excellent way to socialize and learn around distractions) or day-training programs. Be prepared to do homework! The trainer provides guidance, but <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> and practice between sessions are up to you.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Final Thoughts: Investing in Your Dog's Future</h3>

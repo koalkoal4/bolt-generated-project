@@ -1,8 +1,11 @@
 ---
 import BaseLayout from '../layouts/Base.astro';
+
+const pageTitle = "Privacy Policy | Trained Tails";
+const pageDescription = "Read the Trained Tails Privacy Policy to understand how we collect, protect, and handle your personal data, newsletter subscriptions, and cookies securely.";
 ---
 
-<BaseLayout title="Privacy Policy">
+<BaseLayout title={pageTitle} description={pageDescription}>
   <main class="max-w-3xl mx-auto px-4 py-12">
     <article class="prose prose-slate dark:prose-invert max-w-none">
       <h1 class="text-4xl font-bold text-slate-800 dark:text-slate-100 mb-2">Privacy Policy</h1>

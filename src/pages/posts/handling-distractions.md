@@ -10,10 +10,10 @@ tags: ["dog training distractions", "proofing dog commands", "advanced dog obedi
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">From Living Room Star to Real-World Pro</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
-    It's a familiar story, right? Your dog performs commands beautifully in the quiet of your home – sits are instant, downs are solid, stays are steady. You feel like a training superstar! Then you step outside... and suddenly it's like all that <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basic training</a> vanished. A passing dog, an interesting smell, a kid on a scooter – and your dog seems to forget everything they knew. I've definitely had that "uh oh" moment in many İstanbul parks!
+    It's a familiar story, right? Your dog performs commands beautifully in the quiet of your home – sits are instant, downs are solid, stays are steady. You feel like a training superstar! Then you step outside... and suddenly it's like all that <a href="/posts/basic-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">basic training</a> vanished. A passing dog, an interesting smell, a kid on a scooter – and your dog seems to forget everything they knew. I've definitely had that "uh oh" moment in many İstanbul parks!
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    This doesn't mean your training failed! It just means you haven't yet completed a essential step: proofing, or teaching your dog to respond reliably despite distractions. This is a vital part of moving towards <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced obedience</a> and building skills that actually work when you need them most. The point of adding distractions is not to bombard your dog but to train them incrementally so that focusing on you becomes rewarding even when the outside world is stimulating.
+    This doesn't mean your training failed! It just means you haven't yet completed a essential step: proofing, or teaching your dog to respond reliably despite distractions. This is a vital part of moving towards <a href="/posts/advanced-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">advanced obedience</a> and building skills that actually work when you need them most. The point of adding distractions is not to bombard your dog but to train them incrementally so that focusing on you becomes rewarding even when the outside world is stimulating.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Bother Adding Distractions?</h3>
@@ -62,13 +62,13 @@ tags: ["dog training distractions", "proofing dog commands", "advanced dog obedi
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">The Golden Rule: Prepare Your Dog Up for SUCCESS</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    This is the most important principle when adding distractions: start easy and increase difficulty incrementally. Your goal for your dog should be to succeed most of the time (think 80-90% success rate). If they're constantly failing, the distraction is too hard, and you risk frustrating them and making the command weaker. Avoid common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">beginner mistakes</a> by setting achievable <a href="https://trainedtails.com/posts/training-goals" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training goals</a> and maintaining <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency</a>.
+    This is the most important principle when adding distractions: start easy and increase difficulty incrementally. Your goal for your dog should be to succeed most of the time (think 80-90% success rate). If they're constantly failing, the distraction is too hard, and you risk frustrating them and making the command weaker. Avoid common <a href="/posts/beginner-mistakes"  class="text-emerald-600 dark:text-emerald-400 hover:underline">beginner mistakes</a> by setting achievable <a href="/posts/training-goals"  class="text-emerald-600 dark:text-emerald-400 hover:underline">training goals</a> and maintaining <a href="/posts/consistency-matters"  class="text-emerald-600 dark:text-emerald-400 hover:underline">consistency</a>.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Prerequisites: Before Adding Chaos</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Make sure the command you want to proof is truly solid in a quiet, familiar <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a> first. You'll also need seriously motivating <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">rewards</a> – something better than the distraction itself! And remember to keep initial distraction training sessions short (<a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">short sessions</a> following good <a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">tips</a> are best).
+    Make sure the command you want to proof is truly solid in a quiet, familiar <a href="/posts/right-training-enviroment"  class="text-emerald-600 dark:text-emerald-400 hover:underline">environment</a> first. You'll also need seriously motivating <a href="/posts/treats-and-rewards"  class="text-emerald-600 dark:text-emerald-400 hover:underline">rewards</a> – something better than the distraction itself! And remember to keep initial distraction training sessions short (<a href="/posts/why-short-sessions-work-best"  class="text-emerald-600 dark:text-emerald-400 hover:underline">short sessions</a> following good <a href="/posts/training-session-tips"  class="text-emerald-600 dark:text-emerald-400 hover:underline">tips</a> are best).
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">How to Introduce Distractions Systematically</h3>
@@ -81,7 +81,7 @@ tags: ["dog training distractions", "proofing dog commands", "advanced dog obedi
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">1</span> </div>
          <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Identify Distractions:</strong> Know what typically pulls your dog's focus. People? Other dogs? Sounds? Smells? Movement? Understanding this helps you plan. Is your dog generally easily <a href="https://trainedtails.com/posts/training-distracted-dogs" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">distracted</a>?
+            <strong>Identify Distractions:</strong> Know what typically pulls your dog's focus. People? Other dogs? Sounds? Smells? Movement? Understanding this helps you plan. Is your dog generally easily <a href="/posts/training-distracted-dogs"  class="text-emerald-600 dark:text-emerald-400 hover:underline">distracted</a>?
          </p>
     </div>
      <div class="relative pl-8">
@@ -105,7 +105,7 @@ tags: ["dog training distractions", "proofing dog commands", "advanced dog obedi
     <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">5</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>Increase ONE Variable Slowly:</strong> Only make one thing harder at a time. Either the distraction gets slightly closer/louder, OR you ask for a slightly longer duration, OR you increase your distance slightly. Don't increase all three at once! Aim for <a href="https://trainedtails.com/posts/precision-in-dog-training" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">precision</a> even with distractions eventually.
+            <strong>Increase ONE Variable Slowly:</strong> Only make one thing harder at a time. Either the distraction gets slightly closer/louder, OR you ask for a slightly longer duration, OR you increase your distance slightly. Don't increase all three at once! Aim for <a href="/posts/precision-in-dog-training"  class="text-emerald-600 dark:text-emerald-400 hover:underline">precision</a> even with distractions eventually.
         </p>
     </div>
       <div class="relative pl-8">
@@ -117,7 +117,7 @@ tags: ["dog training distractions", "proofing dog commands", "advanced dog obedi
      <div class="relative pl-8">
         <div class="absolute w-8 h-8 bg-emerald-500 dark:bg-emerald-600 rounded-full flex items-center justify-center -left-4 ring-4 ring-white dark:ring-slate-900"> <span class="font-bold text-white text-sm">7</span> </div>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            <strong>If They Fail, Make it Easier:</strong> If your dog breaks command or can't focus, the distraction is too much. Don't scold. Calmly remove the distraction or increase your distance from it, ask for an easier version of the command, and reward success. End the session on a win. Learn how to handle <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">setbacks</a> and avoid <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>.
+            <strong>If They Fail, Make it Easier:</strong> If your dog breaks command or can't focus, the distraction is too much. Don't scold. Calmly remove the distraction or increase your distance from it, ask for an easier version of the command, and reward success. End the session on a win. Learn how to handle <a href="/posts/handling-setbacks"  class="text-emerald-600 dark:text-emerald-400 hover:underline">setbacks</a> and avoid <a href="/posts/avoiding-overtraining"  class="text-emerald-600 dark:text-emerald-400 hover:underline">overtraining</a>.
         </p>
     </div>
 </div>
@@ -139,7 +139,7 @@ tags: ["dog training distractions", "proofing dog commands", "advanced dog obedi
         <div class="w-2 h-2 bg-slate-800 dark:bg-slate-100 rounded-full flex-shrink-0 mr-3 mt-2"></div>
         <div>
              <p class="text-lg text-slate-600 dark:text-slate-300">
-                 <strong class="font-semibold text-slate-800 dark:text-slate-100">Auditory:</strong> Traffic noise; doorbells or knocking (use recordings first); kids playing; other dogs barking (link to <a href="https://trainedtails.com/posts/stop-excessive-barking" target="_blank"  class="text-emerald-600 dark:text-emerald-400 hover:underline">barking solutions</a> if needed); clapping; dropping objects.
+                 <strong class="font-semibold text-slate-800 dark:text-slate-100">Auditory:</strong> Traffic noise; doorbells or knocking (use recordings first); kids playing; other dogs barking (link to <a href="/posts/stop-excessive-barking"  class="text-emerald-600 dark:text-emerald-400 hover:underline">barking solutions</a> if needed); clapping; dropping objects.
              </p>
         </div>
     </div>

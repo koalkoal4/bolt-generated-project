@@ -13,7 +13,7 @@ tags: ["interactive dog feeders", "slow feeder dog bowls", "dog food puzzles", "
     Does your dog inhale their food in about thirty seconds flat? Or, perhaps you’re searching for more ideas to keep them entertained and mentally stimulated during the day? one of the easiest and most effective ways i’ve found to enhance my dog’s daily activities is to toss the traditional food bowl and opt for interactive feeding toys!
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    These nifty contraptions, also called food puzzles or slow feeders, make mealtime less of a quick gulp-fest and more of a brain game. They encourage your dog to sniff, nudge, paw and problem-solve to get at their kibble or treats. It’s a great way to offer daily <a href="https://trainedtails.com/posts/mental-stimulation-benefits" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">mental exercises</a>, stimulating your dog’s foraging instincts and making meals more entertaining and rewarding.
+    These nifty contraptions, also called food puzzles or slow feeders, make mealtime less of a quick gulp-fest and more of a brain game. They encourage your dog to sniff, nudge, paw and problem-solve to get at their kibble or treats. It’s a great way to offer daily <a href="/posts/mental-stimulation-benefits"  class="text-blue-600 dark:text-blue-400 hover:underline">mental exercises</a>, stimulating your dog’s foraging instincts and making meals more entertaining and rewarding.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Make Mealtime Interactive? The Perks are Plentiful!</h3>
@@ -27,13 +27,13 @@ tags: ["interactive dog feeders", "slow feeder dog bowls", "dog food puzzles", "
       <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
         <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-playing-svgrepo-com.svg" alt="Mental Exercise Icon" /> </div>
       <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Provides Essential Mental Exercise</h4>
-      <p class="text-sm text-slate-600 dark:text-slate-300">Makes your dog think and problem-solve to get their food, fulfilling their need for cognitive challenges. It's a great way to use some of their daily food as <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">rewards</a> for effort.</p>
+      <p class="text-sm text-slate-600 dark:text-slate-300">Makes your dog think and problem-solve to get their food, fulfilling their need for cognitive challenges. It's a great way to use some of their daily food as <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">rewards</a> for effort.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
         <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
              <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-training-svgrepo-com.svg" alt="Boredom Relief Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Alleviates Boredom & Related Behaviors</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">A dog using its brain to eat is less likely to get bored and engage in destructive chewing or attention-seeking behaviors like nuisance <a href="https://trainedtails.com/posts/stop-excessive-barking" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">barking</a>.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">A dog using its brain to eat is less likely to get bored and engage in destructive chewing or attention-seeking behaviors like nuisance <a href="/posts/stop-excessive-barking"  class="text-blue-600 dark:text-blue-400 hover:underline">barking</a>.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
@@ -80,7 +80,7 @@ tags: ["interactive dog feeders", "slow feeder dog bowls", "dog food puzzles", "
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Interactive Puzzles (Sliders, Levers, Spinners)</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            More like dog versions of board games, these are often made of wood or tough plastic. They are sections that require an animal to perform specific actions (sliding a piece, lifting a flap, spinning a section) to reveal a treat. Many of these are included under <a href="https://trainedtails.com/posts/puzzle-toys-for-mental-stimulation" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">puzzle toys</a> as a whole.
+            More like dog versions of board games, these are often made of wood or tough plastic. They are sections that require an animal to perform specific actions (sliding a piece, lifting a flap, spinning a section) to reveal a treat. Many of these are included under <a href="/posts/puzzle-toys-for-mental-stimulation"  class="text-blue-600 dark:text-blue-400 hover:underline">puzzle toys</a> as a whole.
         </p>
     </div>
     <div class="relative pl-8">
@@ -89,7 +89,7 @@ tags: ["interactive dog feeders", "slow feeder dog bowls", "dog food puzzles", "
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Snuffle Mats</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            These pliable mats have strips of fabric in which to stash dry food or treats, inspiring your dog to use its nose to “snuffle” them out. (<a href="https://trainedtails.com/posts/scent-work" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a> is a wonderful way to feed your dog.)
+            These pliable mats have strips of fabric in which to stash dry food or treats, inspiring your dog to use its nose to “snuffle” them out. (<a href="/posts/scent-work"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a> is a wonderful way to feed your dog.)
         </p>
     </div>
      <div class="relative pl-8">
@@ -98,7 +98,7 @@ tags: ["interactive dog feeders", "slow feeder dog bowls", "dog food puzzles", "
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">DIY Options</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            And remember about easy <a href="https://trainedtails.com/posts/diy-games-for-dogs" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">DIY games</a>! Similarly some dogs may find it just as effective if you cover a treat with balls in a muffin tin or cover the treat in a towel and roll it up.
+            And remember about easy <a href="/posts/diy-games-for-dogs"  class="text-blue-600 dark:text-blue-400 hover:underline">DIY games</a>! Similarly some dogs may find it just as effective if you cover a treat with balls in a muffin tin or cover the treat in a towel and roll it up.
         </p>
     </div>
 </div>
@@ -127,7 +127,7 @@ tags: ["interactive dog feeders", "slow feeder dog bowls", "dog food puzzles", "
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Choose Appropriate Difficulty:</strong> If a toy is too hard, your dog might give up. If it's too easy, it won't be very stimulating. Aim for a challenge they can solve with some effort. The <a href="https://trainedtails.com/posts/importance-patience" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">importance of patience</a> applies here too, both yours and theirs!
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Choose Appropriate Difficulty:</strong> If a toy is too hard, your dog might give up. If it's too easy, it won't be very stimulating. Aim for a challenge they can solve with some effort. The <a href="/posts/importance-patience"  class="text-blue-600 dark:text-blue-400 hover:underline">importance of patience</a> applies here too, both yours and theirs!
             </p>
         </div>
          <div class="flex items-start pt-4">

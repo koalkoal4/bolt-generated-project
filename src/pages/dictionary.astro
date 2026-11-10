@@ -1,6 +1,8 @@
 ---
 import BaseLayout from '../layouts/Base.astro';
 const pageTitle = "Dog Training Dictionary";
+const metaTitle = "Dog Training Dictionary & Glossary | Trained Tails";
+const pageDescription = "Demystify dog training terminology with the Trained Tails canine glossary. Clear explanations for over 100 positive reinforcement terms and cues.";
 
 // Fetch data for specific related posts
 const relatedPostSlugs = [
@@ -138,7 +140,7 @@ const dictionary = [
   { term: "Treats", definition: "Reward snacks for training.", example: "Use low-calorie treats to avoid weight gain." }
 ];
 ---
-<BaseLayout title={pageTitle}>
+<BaseLayout title={metaTitle} description={pageDescription}>
   <div class="max-w-4xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
     <h1 class="text-3xl md:text-4xl font-bold mb-6 text-center text-slate-900 dark:text-slate-100">{pageTitle}</h1>
     <p class="mb-8 text-lg text-center text-slate-600 dark:text-slate-400">Common terms used in dog training explained. Click on a term to see its definition.</p>

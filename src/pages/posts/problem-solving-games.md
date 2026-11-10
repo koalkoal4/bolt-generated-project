@@ -13,7 +13,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
     We put a lot of emphasis on making sure our dogs get physical exercise, and that is very important indeed. But how often do we consider working out their brilliant brains? Tapping into a dog’s natural intelligence and curiosity using problem-solving games: I’ve discovered it’s a key to their total well being! These aren’t so much about keeping them busy as about satisfying a basic need of your dog’s.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Problem-solving games offer a fantastic avenue for <a href="https://trainedtails.com/posts/mental-stimulation-benefits" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">mental stimulation</a>, allowing dogs to think, strategize, and experience the satisfaction of figuring something out. Love observing how their minds work as they take on a new challenge!
+    Problem-solving games offer a fantastic avenue for <a href="/posts/mental-stimulation-benefits"  class="text-blue-600 dark:text-blue-400 hover:underline">mental stimulation</a>, allowing dogs to think, strategize, and experience the satisfaction of figuring something out. Love observing how their minds work as they take on a new challenge!
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">What Are Problem-Solving Games for Dogs?</h3>
@@ -39,13 +39,13 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
         <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
             <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-training-svgrepo-com.svg" alt="Dog Training Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Decrease Boredom & Destructive Behaviours</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">A mentally tired dog is a happy dog and less likely to chew, <a href="https://trainedtails.com/posts/solutions-for-dogs-digging-too-much" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">dig</a>, or <a href="https://trainedtails.com/posts/stop-excessive-barking" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">excessive bark</a>.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">A mentally tired dog is a happy dog and less likely to chew, <a href="/posts/solutions-for-dogs-digging-too-much"  class="text-blue-600 dark:text-blue-400 hover:underline">dig</a>, or <a href="/posts/stop-excessive-barking"  class="text-blue-600 dark:text-blue-400 hover:underline">excessive bark</a>.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
             <img class="w-14 h-14 mx-auto" src="/assets/icons/feeding-the-dog-svgrepo-com.svg" alt="Feeding Dog Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Sharpens Cognitive Skills</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">Encourages learning, improves memory, and enhances <a href="https://trainedtails.com/posts/focus-and-eye-contact-exercises" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">focus and attention</a> span.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">Encourages learning, improves memory, and enhances <a href="/posts/focus-and-eye-contact-exercises"  class="text-blue-600 dark:text-blue-400 hover:underline">focus and attention</a> span.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
@@ -63,7 +63,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
            <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-running-svgrepo-com.svg" alt="Dog Running Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Makes Training More Fun</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">You can also add a problem-solving element to <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">playtime and training sessions</a> to make learning new commands more fun.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">You can also add a problem-solving element to <a href="/posts/playtime-in-training"  class="text-blue-600 dark:text-blue-400 hover:underline">playtime and training sessions</a> to make learning new commands more fun.</p>
     </div>
 </div>
 
@@ -80,7 +80,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Puzzle Toys & Interactive Feeders</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            These are specifically designed for this purpose! From Kongs and wobblers to complex slider puzzles. Check out our guides on <a href="https://trainedtails.com/posts/puzzle-toys-for-mental-stimulation" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">puzzle toys</a> and <a href="https://trainedtails.com/posts/interactive-feeding-toys" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">interactive feeders</a>.
+            These are specifically designed for this purpose! From Kongs and wobblers to complex slider puzzles. Check out our guides on <a href="/posts/puzzle-toys-for-mental-stimulation"  class="text-blue-600 dark:text-blue-400 hover:underline">puzzle toys</a> and <a href="/posts/interactive-feeding-toys"  class="text-blue-600 dark:text-blue-400 hover:underline">interactive feeders</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -89,7 +89,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">DIY Brain Games</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            You can make your own! Think muffin tin games, towel burritos, or box searches. See our post on <a href="https://trainedtails.com/posts/diy-games-for-dogs" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">creating DIY games</a> for ideas.
+            You can make your own! Think muffin tin games, towel burritos, or box searches. See our post on <a href="/posts/diy-games-for-dogs"  class="text-blue-600 dark:text-blue-400 hover:underline">creating DIY games</a> for ideas.
         </p>
     </div>
     <div class="relative pl-8">
@@ -98,7 +98,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Scent Work / "Find It" Games</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Hiding treats or toys and letting your dog use their nose to find them is a fantastic problem-solving activity. This is the foundation of <a href="https://trainedtails.com/posts/scent-work" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a>.
+            Hiding treats or toys and letting your dog use their nose to find them is a fantastic problem-solving activity. This is the foundation of <a href="/posts/scent-work"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -137,7 +137,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Let Them Figure It Out (Mostly):</strong> Resist the urge to solve it for them. Offer minimal guidance if they're truly stuck. The <a href="https://trainedtails.com/posts/importance-patience" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">importance of patience</a> is key here.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Let Them Figure It Out (Mostly):</strong> Resist the urge to solve it for them. Offer minimal guidance if they're truly stuck. The <a href="/posts/importance-patience"  class="text-blue-600 dark:text-blue-400 hover:underline">importance of patience</a> is key here.
             </p>
         </div>
         <div class="flex items-start pt-4">
@@ -145,7 +145,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Positive:</strong> End before your dog gets frustrated or bored. See our <a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">training session tips</a> and remember <a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions work best</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Positive:</strong> End before your dog gets frustrated or bored. See our <a href="/posts/training-session-tips"  class="text-blue-600 dark:text-blue-400 hover:underline">training session tips</a> and remember <a href="/posts/why-short-sessions-work-best"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions work best</a>.
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -153,7 +153,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Use High-Value Reinforcers:</strong> Make the "solve" highly rewarding with their favorite <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">treats</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Use High-Value Reinforcers:</strong> Make the "solve" highly rewarding with their favorite <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">treats</a>.
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -161,7 +161,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Know Your Dog's Style:</strong> Some dogs are persistent problem-solvers, others get discouraged easily. Adapt to their individual <a href="https://trainedtails.com/posts/learning-styles" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">learning style</a> and <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">temperament</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Know Your Dog's Style:</strong> Some dogs are persistent problem-solvers, others get discouraged easily. Adapt to their individual <a href="/posts/learning-styles"  class="text-blue-600 dark:text-blue-400 hover:underline">learning style</a> and <a href="/posts/dog-temperaments"  class="text-blue-600 dark:text-blue-400 hover:underline">temperament</a>.
             </p>
         </div>
         <div class="flex items-start pt-4">
@@ -185,7 +185,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Final Thoughts: Nurture Your Dog's Inner Genius!</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Adding some problem-solving games to your dog’s day is a great way to improve their mental health, prevent boredom, and increase their quality of life. It’s drawing on their god-given gifts and providing a way to have fun and be rewarded by being clever. So have fun, be creative, see what challenges your dog delights in, and watch them think!  The <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> of providing these opportunities will pay off in a happier, more well-adjusted companion.
+    Adding some problem-solving games to your dog’s day is a great way to improve their mental health, prevent boredom, and increase their quality of life. It’s drawing on their god-given gifts and providing a way to have fun and be rewarded by being clever. So have fun, be creative, see what challenges your dog delights in, and watch them think!  The <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> of providing these opportunities will pay off in a happier, more well-adjusted companion.
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">

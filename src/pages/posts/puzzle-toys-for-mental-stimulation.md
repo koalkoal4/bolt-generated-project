@@ -10,7 +10,7 @@ tags: ["dog puzzle toys", "dog enrichment toys", "mental stimulation dogs", "int
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">Unlocking Fun: The Power of Puzzle Toys for Canine Minds</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
-    We all want happy, well-behaved dogs and we know that physical activity is key. But what about providing exercise for their clever brains? One of the easiest, most fun ways I have discovered to give that critical <a href="https://trainedtails.com/posts/mental-stimulation-benefits" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">mental stimulation</a> is through puzzle toys!
+    We all want happy, well-behaved dogs and we know that physical activity is key. But what about providing exercise for their clever brains? One of the easiest, most fun ways I have discovered to give that critical <a href="/posts/mental-stimulation-benefits"  class="text-blue-600 dark:text-blue-400 hover:underline">mental stimulation</a> is through puzzle toys!
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     This isn’t your typical toy, it’s made to challenge your dog to think and problem-solve, not to mention work for their food or treats. Rather than wolfing down a meal in 30 seconds, puzzle toys can make mealtime an engaging activity that uses their natural urges to sniff, investigate and figure things out. It’s such a great way to entertain them, especially if you’re working, or you just need them to calm down and chill.
@@ -32,7 +32,7 @@ tags: ["dog puzzle toys", "dog enrichment toys", "mental stimulation dogs", "int
         <div class="text-4xl mb-3 text-black dark:text-black">
              <svg class="w-14 h-14 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M18.364 18.364A9 9 0 0 0 5.636 5.636m12.728 12.728A9 9 0 0 1 5.636 5.636m12.728 12.728L5.636 5.636" /></svg> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Prevents Boredom & Destructive Behavior</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">A mentally stimulated dog is less likely to get bored and resort to chewing furniture, <a href="https://trainedtails.com/posts/solutions-for-dogs-digging-too-much" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">digging</a>, or nuisance <a href="https://trainedtails.com/posts/stop-excessive-barking" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">barking</a>.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">A mentally stimulated dog is less likely to get bored and resort to chewing furniture, <a href="/posts/solutions-for-dogs-digging-too-much"  class="text-blue-600 dark:text-blue-400 hover:underline">digging</a>, or nuisance <a href="/posts/stop-excessive-barking"  class="text-blue-600 dark:text-blue-400 hover:underline">barking</a>.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-black dark:text-black">
@@ -63,7 +63,7 @@ tags: ["dog puzzle toys", "dog enrichment toys", "mental stimulation dogs", "int
                 <h4 class="text-lg font-semibold text-slate-800 dark:text-slate-100 mb-1">Food-Dispensing Toys (e.g., Kongs, Wobblers)</h4>
                 <p class="text-slate-600 dark:text-slate-300 text-base mb-3">
                     These are often the first type people try. You stuff them with treats or kibble (you can even freeze wet food inside for a longer-lasting challenge).
-                    <p class="text-slate-600 dark:text-slate-300 text-base"><strong>Introduction:</strong> Make it very easy at first – let some treats fall out easily so your dog understands the game. Gradually make it more challenging by packing it tighter or using larger treats. These are often considered great <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">beginner tools</a> for enrichment.
+                    <p class="text-slate-600 dark:text-slate-300 text-base"><strong>Introduction:</strong> Make it very easy at first – let some treats fall out easily so your dog understands the game. Gradually make it more challenging by packing it tighter or using larger treats. These are often considered great <a href="/posts/dog-training-tools-for-beginners" blue class="text-blue-600 dark:text-blue-400 hover:underline">beginner tools</a> for enrichment.
                 </p>
             </div>
         </div>
@@ -120,7 +120,7 @@ tags: ["dog puzzle toys", "dog enrichment toys", "mental stimulation dogs", "int
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Start Easy</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Always begin with puzzles your dog can solve quickly to build confidence and prevent frustration. Gradually increase difficulty. You might need to regress if they appear to be frustrated. Learning to <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">handle setbacks</a> applies to puzzle solving too!
+            Always begin with puzzles your dog can solve quickly to build confidence and prevent frustration. Gradually increase difficulty. You might need to regress if they appear to be frustrated. Learning to <a href="/posts/handling-setbacks" blue class="text-blue-600 dark:text-blue-400 hover:underline">handle setbacks</a> applies to puzzle solving too!
         </p>
     </div>
     <div class="relative pl-8">
@@ -138,7 +138,7 @@ tags: ["dog puzzle toys", "dog enrichment toys", "mental stimulation dogs", "int
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Match the Toy to Your Dog</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Consider your dog's size, chewing style, and <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">temperament</a>. A delicate puzzle won't last with a power chewer.
+            Consider your dog's size, chewing style, and <a href="/posts/dog-temperaments" blue class="text-blue-600 dark:text-blue-400 hover:underline">temperament</a>. A delicate puzzle won't last with a power chewer.
         </p>
     </div>
     <div class="relative pl-8">
@@ -165,7 +165,7 @@ tags: ["dog puzzle toys", "dog enrichment toys", "mental stimulation dogs", "int
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Make it Part of a Routine</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Using puzzle feeders for meals is an easy way to ensure daily mental work. Keep sessions with more complex puzzles aligned with good <a href="https://trainedtails.com/posts/training-session-tips" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">training session tips</a> and remember <a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions work best</a> to avoid frustration.
+            Using puzzle feeders for meals is an easy way to ensure daily mental work. Keep sessions with more complex puzzles aligned with good <a href="/posts/training-session-tips" blue class="text-blue-600 dark:text-blue-400 hover:underline">training session tips</a> and remember <a href="/posts/why-short-sessions-work-best" blue class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions work best</a> to avoid frustration.
         </p>
     </div>
 </div>
@@ -176,7 +176,7 @@ tags: ["dog puzzle toys", "dog enrichment toys", "mental stimulation dogs", "int
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Final Thoughts: Puzzle Out a Happier Pup!</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Puzzle toys aren’t just a way to distract your dog, though; they’re a great tool for providing your pooch with the mental stimulation they need to live their best life, while also keeping them from growing bored and becoming destructive, anxious or overexcited. These brain boosts are simple to incorporate into your day, by taking a simple start, looping into positivity and finding out what your dog loves to do. Remember, <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> with enrichment makes a big difference in a dog's life!
+    Puzzle toys aren’t just a way to distract your dog, though; they’re a great tool for providing your pooch with the mental stimulation they need to live their best life, while also keeping them from growing bored and becoming destructive, anxious or overexcited. These brain boosts are simple to incorporate into your day, by taking a simple start, looping into positivity and finding out what your dog loves to do. Remember, <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> with enrichment makes a big difference in a dog's life!
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">

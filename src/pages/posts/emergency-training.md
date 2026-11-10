@@ -13,7 +13,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
    It's something we hope never happens – a house fire, a sudden injury, getting separated on a hike, or needing to evacuate quickly due to something like an earthquake here in İstanbul. In those high-stress, unstable times our dogs are completely dependent upon us, and the training we have had in place may seem to go out the window. I do it all the time, wonder what I would do if the worst happened.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    And that’s why specialized training for emergency situations is crucial. This means forging rock-solid, almost reflexive responses to the most important safety cues, even in high-stress conditions. This is not only about advanced obedience; it’s about possibly life-saving skills. While solid <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">basic dog training</a> is the foundation, emergency preparedness requires dedicated focus and practice using positive, trust-building methods.
+    And that’s why specialized training for emergency situations is crucial. This means forging rock-solid, almost reflexive responses to the most important safety cues, even in high-stress conditions. This is not only about advanced obedience; it’s about possibly life-saving skills. While solid <a href="/posts/basic-dog-training"  class="text-blue-600 dark:text-blue-400 hover:underline">basic dog training</a> is the foundation, emergency preparedness requires dedicated focus and practice using positive, trust-building methods.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Why Train for the Unexpected?</h3>
@@ -61,7 +61,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Bombproof Emergency Recall</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            This needs to be lightning fast and reliable, even under extreme distraction. Consider using a special emergency recall cue (word or <a href="https://trainedtails.com/posts/teaching-whistle-commands" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">whistle</a>) that blueonlyblue gets used in practice with jackpot rewards or in a real emergency. Build on your <a href="https://trainedtails.com/posts/reliable-recall" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">reliable recall</a> and practice <a href="https://trainedtails.com/posts/long-distance-recall" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">long-distance recall</a>.
+            This needs to be lightning fast and reliable, even under extreme distraction. Consider using a special emergency recall cue (word or <a href="/posts/teaching-whistle-commands" blue class="text-blue-600 dark:text-blue-400 hover:underline">whistle</a>) that blueonlyblue gets used in practice with jackpot rewards or in a real emergency. Build on your <a href="/posts/reliable-recall" blue class="text-blue-600 dark:text-blue-400 hover:underline">reliable recall</a> and practice <a href="/posts/long-distance-recall" blue class="text-blue-600 dark:text-blue-400 hover:underline">long-distance recall</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -70,7 +70,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Emergency Stop / Freeze</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Teaching your dog to <a href="https://trainedtails.com/posts/stop-on-command" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">stop instantly on command</a> can prevent them from running into danger before a recall is even possible.
+            Teaching your dog to <a href="/posts/stop-on-command" blue class="text-blue-600 dark:text-blue-400 hover:underline">stop instantly on command</a> can prevent them from running into danger before a recall is even possible.
         </p>
     </div>
     <div class="relative pl-8">
@@ -79,7 +79,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Solid Crate Training</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            In an evacuation or if your home is unsafe, a crate provides secure containment for transport or temporary housing. The dog should see the crate as a safe, positive space. A crate is a vital piece of your <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">training toolkit</a>.
+            In an evacuation or if your home is unsafe, a crate provides secure containment for transport or temporary housing. The dog should see the crate as a safe, positive space. A crate is a vital piece of your <a href="/posts/dog-training-tools-for-beginners" blue class="text-blue-600 dark:text-blue-400 hover:underline">training toolkit</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -88,7 +88,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Reliable "Drop It" / "Leave It"</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Essential if your dog picks up dropped medication, hazardous materials after a disaster, or unsafe debris. These are part of the <a href="https://trainedtails.com/posts/7-Commands-Your-Dog-Needs-to-Know" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">7 essential commands</a>.
+            Essential if your dog picks up dropped medication, hazardous materials after a disaster, or unsafe debris. These are part of the <a href="/posts/7-Commands-Your-Dog-Needs-to-Know" blue class="text-blue-600 dark:text-blue-400 hover:underline">7 essential commands</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -127,7 +127,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
             <div>
                 <h4 class="text-lg font-semibold text-slate-800 dark:text-slate-100 mb-1">Solid Foundations First</h4>
                 <p class="text-slate-600 dark:text-slate-300 text-base">
-                    Ensure the basic version of the command (<a href="https://trainedtails.com/posts/basic-dog-training" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">basic training</a>) is completely fluent before adding pressure.
+                    Ensure the basic version of the command (<a href="/posts/basic-dog-training" blue class="text-blue-600 dark:text-blue-400 hover:underline">basic training</a>) is completely fluent before adding pressure.
                 </p>
             </div>
         </div>
@@ -139,7 +139,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
             <div>
                 <h4 class="text-lg font-semibold text-slate-800 dark:text-slate-100 mb-1">Proof Under (Simulated) Pressure</h4>
                 <p class="text-slate-600 dark:text-slate-300 text-base">
-                     Gradually practice skills with controlled distractions or simulated urgency (e.g., calling recall while jogging away, practicing "Stop" near louder sounds - be careful not to scare!). Aim for <a href="https://trainedtails.com/posts/advanced-dog-training" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">advanced reliability</a>. Learn about <a href="https://trainedtails.com/posts/handling-distractions" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">handling distractions</a>.
+                     Gradually practice skills with controlled distractions or simulated urgency (e.g., calling recall while jogging away, practicing "Stop" near louder sounds - be careful not to scare!). Aim for <a href="/posts/advanced-dog-training" blue class="text-blue-600 dark:text-blue-400 hover:underline">advanced reliability</a>. Learn about <a href="/posts/handling-distractions" blue class="text-blue-600 dark:text-blue-400 hover:underline">handling distractions</a>.
                 </p>
             </div>
         </div>
@@ -151,7 +151,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
             <div>
                 <h4 class="text-lg font-semibold text-slate-800 dark:text-slate-100 mb-1">Keep it Positive Always</h4>
                 <p class="text-slate-600 dark:text-slate-300 text-base">
-                     Emergency situations are inherently stressful; training shouldn't add more fear. Use high-value <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">rewards</a> and keep the association positive.
+                     Emergency situations are inherently stressful; training shouldn't add more fear. Use high-value <a href="/posts/treats-and-rewards" blue class="text-blue-600 dark:text-blue-400 hover:underline">rewards</a> and keep the association positive.
                 </p>
             </div>
         </div>
@@ -175,7 +175,7 @@ tags: ["dog emergency training", "dog safety commands", "emergency recall dog", 
             <div>
                 <h4 class="text-lg font-semibold text-slate-800 dark:text-slate-100 mb-1">Regular Refreshers</h4>
                 <p class="text-slate-600 dark:text-slate-300 text-base">
-                    Skills can fade over time, to counteract this, incorporate short and enjoyable refreshers. Always remember <a href="https://trainedtails.com/posts/consistency-matters" target="_blank" blue class="text-blue-600 dark:text-blue-400 hover:underline">Consistency matters</a>!
+                    Skills can fade over time, to counteract this, incorporate short and enjoyable refreshers. Always remember <a href="/posts/consistency-matters" blue class="text-blue-600 dark:text-blue-400 hover:underline">Consistency matters</a>!
                 </p>
             </div>
         </div>

@@ -1,8 +1,11 @@
 ---
 import BaseLayout from '../layouts/Base.astro';
+
+const pageTitle = "Terms of Service | Trained Tails";
+const pageDescription = "Review the Terms of Service for Trained Tails. Learn about our website usage rules, content copyright policies, disclaimers, and affiliate disclosures.";
 ---
 
-<BaseLayout title="Terms of Service">
+<BaseLayout title={pageTitle} description={pageDescription}>
   <main class="max-w-3xl mx-auto px-4 py-12">
     <article class="prose prose-slate dark:prose-invert max-w-none">
       <h1 class="text-4xl font-bold text-slate-800 dark:text-slate-100 mb-2">Terms of Service</h1>

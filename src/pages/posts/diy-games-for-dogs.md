@@ -10,7 +10,7 @@ tags: ["diy dog toys", "dog brain games", "dog enrichment ideas", "mental stimul
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">Get Creative: Easy DIY Brain Busters for Your Pup!</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
-    We've talked before about the amazing <a href="https://trainedtails.com/posts/mental-stimulation-benefits" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">benefits of mental stimulation</a> for our dogs, and how <a href="https://trainedtails.com/posts/puzzle-toys-for-mental-stimulation" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">puzzle toys</a> can be fantastic tools. But what if your budget is tight, or you just love a bit of creative fun? i've found that some of the most engaging brain games for my dogs have come from simple household items!
+    We've talked before about the amazing <a href="/posts/mental-stimulation-benefits"  class="text-blue-600 dark:text-blue-400 hover:underline">benefits of mental stimulation</a> for our dogs, and how <a href="/posts/puzzle-toys-for-mental-stimulation"  class="text-blue-600 dark:text-blue-400 hover:underline">puzzle toys</a> can be fantastic tools. But what if your budget is tight, or you just love a bit of creative fun? i've found that some of the most engaging brain games for my dogs have come from simple household items!
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     Creating DIY brain games is a wonderful way to provide that crucial mental workout, prevent boredom, and even strengthen your bond as you watch them figure things out. You don't need to be a craft expert – just a little imagination and a few common items can go a long way in keeping your dog's mind sharp and happy.
@@ -106,7 +106,7 @@ tags: ["diy dog toys", "dog brain games", "dog enrichment ideas", "mental stimul
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-4">The Muffin Tin Game</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300 mb-3">
-            <strong>What you need:</strong> A muffin tin, some of your dog's favorite <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">treats</a> or kibble, and some tennis balls or other dog-safe toys that fit over the muffin cups.
+            <strong>What you need:</strong> A muffin tin, some of your dog's favorite <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">treats</a> or kibble, and some tennis balls or other dog-safe toys that fit over the muffin cups.
             <p class="text-lg text-slate-600 dark:text-slate-300"><strong>How to play:</strong> Place treats in some or all of the muffin cups. Cover each cup with a ball/toy. Let your dog figure out how to move the balls to get the treats! Start with just a few cups covered to make it easier.
         </p>
     </div>
@@ -127,7 +127,7 @@ tags: ["diy dog toys", "dog brain games", "dog enrichment ideas", "mental stimul
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-4">The Box Search Bonanza</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300 mb-4">
             <strong>What you need:</strong> A few empty cardboard boxes of different sizes (cereal boxes, shoeboxes, shipping boxes — no staples or tape!), and treats or kibble.
-            <p class="text-lg text-slate-600 dark:text-slate-300"><strong>How to play:</strong> Put a treat or two in some of the boxes. You tap the flaps closed lightly or you can tap them open. Scatter the boxes around a room and let your dog sniff the treats out. This is a simple form of <a href="https://trainedtails.com/posts/scent-work" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a>!
+            <p class="text-lg text-slate-600 dark:text-slate-300"><strong>How to play:</strong> Put a treat or two in some of the boxes. You tap the flaps closed lightly or you can tap them open. Scatter the boxes around a room and let your dog sniff the treats out. This is a simple form of <a href="/posts/scent-work"  class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a>!
         </p>
     </div>
     <div class="relative pl-8">
@@ -170,7 +170,7 @@ tags: ["diy dog toys", "dog brain games", "dog enrichment ideas", "mental stimul
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Use High-Value Treats Initially:</strong> Especially when learning, enticing <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">treats</a> will boost their motivation to try.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Use High-Value Treats Initially:</strong> Especially when learning, enticing <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">treats</a> will boost their motivation to try.
             </p>
         </div>
         <div class="flex items-start pt-4">
@@ -178,7 +178,7 @@ tags: ["diy dog toys", "dog brain games", "dog enrichment ideas", "mental stimul
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Fun:</strong> End while your dog is still engaged and enjoying themselves. Remember <a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions are key</a> and check our <a href="https://trainedtails.com/posts/training-session-tips" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">training session tips</a>.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Keep Sessions Short & Fun:</strong> End while your dog is still engaged and enjoying themselves. Remember <a href="/posts/why-short-sessions-work-best"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions are key</a> and check our <a href="/posts/training-session-tips"  class="text-blue-600 dark:text-blue-400 hover:underline">training session tips</a>.
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -186,7 +186,7 @@ tags: ["diy dog toys", "dog brain games", "dog enrichment ideas", "mental stimul
                  <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 16 16"><path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/></svg>
             </div>
             <p class="text-lg text-slate-700 dark:text-slate-200">
-                <strong class="font-semibold text-slate-800 dark:text-slate-100">Praise Effort, Not Just Success:</strong> Encourage any interaction with the game. The <a href="https://trainedtails.com/posts/importance-patience" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">importance of patience</a> can't be overstated.
+                <strong class="font-semibold text-slate-800 dark:text-slate-100">Praise Effort, Not Just Success:</strong> Encourage any interaction with the game. The <a href="/posts/importance-patience"  class="text-blue-600 dark:text-blue-400 hover:underline">importance of patience</a> can't be overstated.
             </p>
         </div>
          <div class="flex items-start pt-4">
@@ -203,7 +203,7 @@ tags: ["diy dog toys", "dog brain games", "dog enrichment ideas", "mental stimul
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Final Thoughts: Everyday Items, Extraordinary Fun!</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    You don’t need a closet full of pricey toys to keep your dog mentally stimulated and happy. Spend hours of intellectual amusement with just a few household materials and a bit of creativity. DIY brain games are a great way to beat boredom, boost your confidence and build a stronger bond with your dog. As always, remember to keep it safe, keep it positive, and above all, have fun watching that adorable furry brain of your dog work! The <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> of providing such enrichment is what truly benefits your dog.
+    You don’t need a closet full of pricey toys to keep your dog mentally stimulated and happy. Spend hours of intellectual amusement with just a few household materials and a bit of creativity. DIY brain games are a great way to beat boredom, boost your confidence and build a stronger bond with your dog. As always, remember to keep it safe, keep it positive, and above all, have fun watching that adorable furry brain of your dog work! The <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> of providing such enrichment is what truly benefits your dog.
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">

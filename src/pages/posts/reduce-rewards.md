@@ -10,7 +10,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
 <h2 class="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-6">Moving Beyond Constant Treats: Fading Food Rewards</h2>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Let's face it, tasty <a href="https://trainedtails.com/posts/treats-and-rewards" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">treats and rewards</a> are amazing motivators when you first start training your dog! They form positive associations and unmistakably pinpoint correct behaviors. But in the long run, we want our dogs to obey us just as reliably when we don't happen to have a pocket full of chicken as when we do. I remember wondering whether my dog would still perform that sharp 'Sit' if he knew there wasn't a guarantee of a reward waiting for him.
+    Let's face it, tasty <a href="/posts/treats-and-rewards"  class="text-blue-600 dark:text-blue-400 hover:underline">treats and rewards</a> are amazing motivators when you first start training your dog! They form positive associations and unmistakably pinpoint correct behaviors. But in the long run, we want our dogs to obey us just as reliably when we don't happen to have a pocket full of chicken as when we do. I remember wondering whether my dog would still perform that sharp 'Sit' if he knew there wasn't a guarantee of a reward waiting for him.
 </p>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
     The good news is that you can most definitely wean yourself off of food rewards. It’s a natural and vital part of the training process. It’s not just withdrawing all rewards and expecting your dog to comply. It’s a matter of building more reliability in real-life behaviors, and of teaching your dog to work for other types of rewards in which they find equal pleasure — praise, play or life rewards. This is frequently referred to as “fading the lure” or advancing to a “variable schedule of reinforcement”.
@@ -44,7 +44,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
             <img class="w-16 h-14 mx-auto" src="/assets/icons/feeding-the-dog-svgrepo-com.svg" fill="currentColor" alt="Increases Value of Other Rewards Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Increases Value of Other Rewards</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">Makes praise, <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">play</a>, petting, and real-life rewards (like getting the leash clipped on) more meaningful.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">Makes praise, <a href="/posts/playtime-in-training"  class="text-blue-600 dark:text-blue-400 hover:underline">play</a>, petting, and real-life rewards (like getting the leash clipped on) more meaningful.</p>
     </div>
 </div>
 
@@ -52,7 +52,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Knowing When to Start: Is Your Dog Ready?</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Don't rush this! Only begin to fade the dowry for a behavior once the dog understands the cue and is performing the behavior reliably (80-90% of the time) in a familiar, low-distraction environment when cued for food.  They need a solid foundation from their <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">basic training</a> first. You don’t want to fade rewards before the behavior is fluent; you’ll only throw your dog off, and the behavior will fall apart.
+    Don't rush this! Only begin to fade the dowry for a behavior once the dog understands the cue and is performing the behavior reliably (80-90% of the time) in a familiar, low-distraction environment when cued for food.  They need a solid foundation from their <a href="/posts/basic-dog-training"  class="text-blue-600 dark:text-blue-400 hover:underline">basic training</a> first. You don’t want to fade rewards before the behavior is fluent; you’ll only throw your dog off, and the behavior will fall apart.
 </p>
 
 <img src="/assets/images/9.jpg" alt="Placeholder: Owner enthusiastically praising a dog that has just performed a 'Sit' without seeing a treat first." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
@@ -70,7 +70,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Fade the Lure First</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Make sure your dog responds to the actual cue (<a href="https://trainedtails.com/posts/verbal-commands-for-puppies" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">verbal</a> or <a href="https://trainedtails.com/posts/hand-signals" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">hand signal</a>), not just the sight of the treat in your hand. Practice giving the cue before reaching for a treat.
+            Make sure your dog responds to the actual cue (<a href="/posts/verbal-commands-for-puppies"  class="text-blue-600 dark:text-blue-400 hover:underline">verbal</a> or <a href="/posts/hand-signals"  class="text-blue-600 dark:text-blue-400 hover:underline">hand signal</a>), not just the sight of the treat in your hand. Practice giving the cue before reaching for a treat.
         </p>
     </div>
     <div class="relative pl-8">
@@ -88,7 +88,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Incorporate Non-Food Rewards</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            When you skip a food reward, offer something else your dog loves! This could be enthusiastic verbal praise (use a happy <a href="https://trainedtails.com/posts/tone-of-voice" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">tone of voice</a>!), a quick game of <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">tug or fetch</a>, a favorite toy toss, a good ear scratch, or a life reward (like opening the door after they sit). This is key for the <a href="https://trainedtails.com/posts/treat-to-praise" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">transition from treat to praise</a> and other reinforcers.
+            When you skip a food reward, offer something else your dog loves! This could be enthusiastic verbal praise (use a happy <a href="/posts/tone-of-voice"  class="text-blue-600 dark:text-blue-400 hover:underline">tone of voice</a>!), a quick game of <a href="/posts/playtime-in-training"  class="text-blue-600 dark:text-blue-400 hover:underline">tug or fetch</a>, a favorite toy toss, a good ear scratch, or a life reward (like opening the door after they sit). This is key for the <a href="/posts/treat-to-praise"  class="text-blue-600 dark:text-blue-400 hover:underline">transition from treat to praise</a> and other reinforcers.
         </p>
     </div>
     <div class="relative pl-8">
@@ -106,7 +106,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Monitor and Adjust</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Pay attention! If your dog's performance starts to dip significantly, or they seem frustrated or confused, you might be reducing the food reward rate too quickly. Increase it again for a bit until they're confident, then try fading more slowly. Know how to approach <a href="https://trainedtails.com/posts/handling-setbacks" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">handling setbacks</a>.
+            Pay attention! If your dog's performance starts to dip significantly, or they seem frustrated or confused, you might be reducing the food reward rate too quickly. Increase it again for a bit until they're confident, then try fading more slowly. Know how to approach <a href="/posts/handling-setbacks"  class="text-blue-600 dark:text-blue-400 hover:underline">handling setbacks</a>.
         </p>
     </div>
      <div class="relative pl-8">
@@ -115,7 +115,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Consider the Context</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            It's okay to use more frequent food rewards when teaching a new behavior, or when practicing in highly distracting environments. Adjust your reward strategy based on the difficulty of the task and the environment. See tips for <a href="https://trainedtails.com/posts/handling-distractions" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">handling distractions</a>.
+            It's okay to use more frequent food rewards when teaching a new behavior, or when practicing in highly distracting environments. Adjust your reward strategy based on the difficulty of the task and the environment. See tips for <a href="/posts/handling-distractions"  class="text-blue-600 dark:text-blue-400 hover:underline">handling distractions</a>.
         </p>
     </div>
 </div>
@@ -147,7 +147,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Reducing Too Quickly</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            If the behavior becomes sloppy or hesitant, you're likely fading too fast. Increase the reward rate temporarily. This is a common <a href="https://trainedtails.com/posts/beginner-mistakes" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">beginner mistake</a>.
+            If the behavior becomes sloppy or hesitant, you're likely fading too fast. Increase the reward rate temporarily. This is a common <a href="/posts/beginner-mistakes"  class="text-blue-600 dark:text-blue-400 hover:underline">beginner mistake</a>.
         </p>
     </div>
      <div class="relative pl-8">
@@ -174,7 +174,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Not Reading Your Dog</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Every dog is different. Pay attention to your dog's motivation, <a href="https://trainedtails.com/posts/learning-styles" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">learning style</a>, and success rate. Adjust the plan based on the individual <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">temperament</a> in front of you.
+            Every dog is different. Pay attention to your dog's motivation, <a href="/posts/learning-styles"  class="text-blue-600 dark:text-blue-400 hover:underline">learning style</a>, and success rate. Adjust the plan based on the individual <a href="/posts/dog-temperaments"  class="text-blue-600 dark:text-blue-400 hover:underline">temperament</a> in front of you.
         </p>
     </div>
 </div>
@@ -183,7 +183,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Final Thoughts: Building Reliability Beyond Food</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Reducing or fading food rewards is one major step to having a dog who’s reliable in ALL environments. It’s not that you should remove reinforcement entirely, but instead that you should mix up the rewards you use to motivate, and reinforce, and build on, that behavior. Fading Lures, Reinforcement Schedules, And Adding In Praise, Play, And Life Rewards While weaning away from the treat pouch and teaching Stoli that you still carry it with you but you’re not going to be handing them out like free candy, make training fun, and your dog will never be lacking in motivation. Remember, patience and <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> are essential!
+    Reducing or fading food rewards is one major step to having a dog who’s reliable in ALL environments. It’s not that you should remove reinforcement entirely, but instead that you should mix up the rewards you use to motivate, and reinforce, and build on, that behavior. Fading Lures, Reinforcement Schedules, And Adding In Praise, Play, And Life Rewards While weaning away from the treat pouch and teaching Stoli that you still carry it with you but you’re not going to be handing them out like free candy, make training fun, and your dog will never be lacking in motivation. Remember, patience and <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> are essential!
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">

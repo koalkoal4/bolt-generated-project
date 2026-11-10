@@ -33,13 +33,13 @@ tags: ["dog mental stimulation", "dog enrichment", "canine enrichment ideas", "p
       <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
         <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-playing-svgrepo-com.svg" alt="Dog Playing Icon" /> </div>
       <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Reduces Boredom & Destructive Behaviors</h4>
-      <p class="text-sm text-slate-600 dark:text-slate-300">A mentally tired dog is less likely to chew your shoes, excessively bark, or find other "creative" (and often destructive) ways to entertain themselves, like <a href="https://trainedtails.com/posts/solutions-for-dogs-digging-too-much" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">digging</a>.</p>
+      <p class="text-sm text-slate-600 dark:text-slate-300">A mentally tired dog is less likely to chew your shoes, excessively bark, or find other "creative" (and often destructive) ways to entertain themselves, like <a href="/posts/solutions-for-dogs-digging-too-much"  class="text-blue-600 dark:text-blue-400 hover:underline">digging</a>.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
         <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
              <img class="w-14 h-14 mx-auto" src="/assets/icons/dog-training-svgrepo-com.svg" alt="Dog Training Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Can Decrease Problem Barking</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">Often, dogs bark out of boredom or pent-up energy. Mental stimulation can help curb <a href="https://trainedtails.com/posts/stop-excessive-barking" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">excessive barking</a>.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">Often, dogs bark out of boredom or pent-up energy. Mental stimulation can help curb <a href="/posts/stop-excessive-barking"  class="text-blue-600 dark:text-blue-400 hover:underline">excessive barking</a>.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
@@ -57,7 +57,7 @@ tags: ["dog mental stimulation", "dog enrichment", "canine enrichment ideas", "p
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
            <img class="w-14 h-14 mx-auto" src="/assets/icons/feeding-the-dog-svgrepo-com.svg" alt="Feeding Dog Icon" /> </div>
         <h4 class="font-semibold text-lg text-slate-800 dark:text-slate-100 mb-1">Tires Them Out Effectively!</h4>
-        <p class="text-sm text-slate-600 dark:text-slate-300">A 15-20 minute brain game session can tire a dog out as much as a much longer physical romp. This is helpful when trying to avoid <a href="https://trainedtails.com/posts/avoiding-overtraining" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">physical overtraining</a> too.</p>
+        <p class="text-sm text-slate-600 dark:text-slate-300">A 15-20 minute brain game session can tire a dog out as much as a much longer physical romp. This is helpful when trying to avoid <a href="/posts/avoiding-overtraining"  class="text-blue-600 dark:text-blue-400 hover:underline">physical overtraining</a> too.</p>
     </div>
     <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-lg text-center flex flex-col items-center ring-1 ring-slate-900/5 dark:ring-slate-200/10">
        <div class="text-4xl mb-3 text-blue-500 dark:text-blue-400">
@@ -81,7 +81,7 @@ tags: ["dog mental stimulation", "dog enrichment", "canine enrichment ideas", "p
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Puzzle Toys & Feeders</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Make mealtime or snack time a brain game! Snuffle mats, Kongs, lickimats, or more complex puzzle toys make dogs work for their food. Some are even listed in <a href="https://trainedtails.com/posts/dog-training-tools-for-beginners" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">beginner tools</a>.
+            Make mealtime or snack time a brain game! Snuffle mats, Kongs, lickimats, or more complex puzzle toys make dogs work for their food. Some are even listed in <a href="/posts/dog-training-tools-for-beginners" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">beginner tools</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -90,7 +90,7 @@ tags: ["dog mental stimulation", "dog enrichment", "canine enrichment ideas", "p
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Training New Cues & Tricks</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Teaching new behaviors, from <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">basic obedience</a> to fun <a href="https://trainedtails.com/posts/advanced-commands" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">advanced commands</a> or silly tricks, is a fantastic mental workout. Remember to keep sessions<a href="https://trainedtails.com/posts/training-session-tips" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline"> short and positive</a>.
+            Teaching new behaviors, from <a href="/posts/basic-dog-training" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">basic obedience</a> to fun <a href="/posts/advanced-commands" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">advanced commands</a> or silly tricks, is a fantastic mental workout. Remember to keep sessions<a href="/posts/training-session-tips" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline"> short and positive</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -99,7 +99,7 @@ tags: ["dog mental stimulation", "dog enrichment", "canine enrichment ideas", "p
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Scent Games ("Find It")</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Tap into their amazing sense of smell! Hide treats around the room and let them "Find It," or explore formal <a href="https://trainedtails.com/posts/scent-work" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a>.
+            Tap into their amazing sense of smell! Hide treats around the room and let them "Find It," or explore formal <a href="/posts/scent-work" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">scent work</a>.
         </p>
     </div>
     <div class="relative pl-8">
@@ -117,7 +117,7 @@ tags: ["dog mental stimulation", "dog enrichment", "canine enrichment ideas", "p
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Interactive Play</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Structured <a href="https://trainedtails.com/posts/playtime-in-training" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">playtime</a> like tug-of-war (with rules like "drop it"), fetch with a "wait" or "drop it" cue, or hide-and-seek with toys or people engages their brain.
+            Structured <a href="/posts/playtime-in-training" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">playtime</a> like tug-of-war (with rules like "drop it"), fetch with a "wait" or "drop it" cue, or hide-and-seek with toys or people engages their brain.
         </p>
     </div>
     <div class="relative pl-8">
@@ -135,7 +135,7 @@ tags: ["dog mental stimulation", "dog enrichment", "canine enrichment ideas", "p
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">"Sniffy" Walks</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            Not every walk needs to be a structured heel. Allow plenty of time for your dog to sniff and explore their <a href="https://trainedtails.com/posts/right-training-enviroment" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">environment</a> – it's incredibly enriching and mentally tiring for them.
+            Not every walk needs to be a structured heel. Allow plenty of time for your dog to sniff and explore their <a href="/posts/right-training-enviroment" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline">environment</a> – it's incredibly enriching and mentally tiring for them.
         </p>
     </div>
 </div>
@@ -143,21 +143,21 @@ tags: ["dog mental stimulation", "dog enrichment", "canine enrichment ideas", "p
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Tailoring Stimulation to Your Dog</h3>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Remember, every dog is an individual! A high-energy Border Collie will likely need more intense and varied mental stimulation than a laid-back Basset Hound. Consider your dog's breed traits (see <a href="https://trainedtails.com/posts/dog-temperaments" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">dog temperaments</a>), age, physical abilities, and personal preferences. Observe what activities your dog genuinely enjoys and seems engaged by – that’s their unique <a href="https://trainedtails.com/posts/learning-styles" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">learning style</a> shining through! Some dogs love figuring out puzzles, others excel at scent work, and some just want to learn new tricks with you.
+    Remember, every dog is an individual! A high-energy Border Collie will likely need more intense and varied mental stimulation than a laid-back Basset Hound. Consider your dog's breed traits (see <a href="/posts/dog-temperaments"  class="text-blue-600 dark:text-blue-400 hover:underline">dog temperaments</a>), age, physical abilities, and personal preferences. Observe what activities your dog genuinely enjoys and seems engaged by – that’s their unique <a href="/posts/learning-styles"  class="text-blue-600 dark:text-blue-400 hover:underline">learning style</a> shining through! Some dogs love figuring out puzzles, others excel at scent work, and some just want to learn new tricks with you.
 </p>
 
 <img src="/assets/images/29.jpg" alt="Placeholder: Owner and dog happily engaging in a trick training session indoors with positive reinforcement." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">How Much is Enough?</h3>
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    There's no magic number, but aim for some form of dedicated mental enrichment daily. Even 15-30 minutes of focused brain games or training can make a huge difference. Watch your dog for signs of mental fatigue (losing interest, slower responses, frustration). The goal is to engage and satisfy them, not exhaust or overwhelm them. Short, positive sessions are usually best, so you always know <a href="https://trainedtails.com/posts/why-short-sessions-work-best" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions work best</a>.
+    There's no magic number, but aim for some form of dedicated mental enrichment daily. Even 15-30 minutes of focused brain games or training can make a huge difference. Watch your dog for signs of mental fatigue (losing interest, slower responses, frustration). The goal is to engage and satisfy them, not exhaust or overwhelm them. Short, positive sessions are usually best, so you always know <a href="/posts/why-short-sessions-work-best"  class="text-blue-600 dark:text-blue-400 hover:underline">why short sessions work best</a>.
 </p>
 
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Summary: Happy Brain, Happy Dog</h3>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8">
-    Your dog's happiness, health and well behaved dog isn't just about exercise. It adds variety, decreases problem behaviors, increases confidence, and enhances your bond. So, get creative, learn what your dog loves and add a little workout for the brain to your exercise routine. The <a href="https://trainedtails.com/posts/consistency-matters" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> of these small efforts makes a big impact! Your dog (and your furniture) will thank you!
+    Your dog's happiness, health and well behaved dog isn't just about exercise. It adds variety, decreases problem behaviors, increases confidence, and enhances your bond. So, get creative, learn what your dog loves and add a little workout for the brain to your exercise routine. The <a href="/posts/consistency-matters"  class="text-blue-600 dark:text-blue-400 hover:underline">consistency</a> of these small efforts makes a big impact! Your dog (and your furniture) will thank you!
 </p>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12 not-prose">
