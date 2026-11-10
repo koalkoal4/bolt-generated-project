@@ -162,7 +162,7 @@ tags: ["dog training distractions", "proofing dog commands", "advanced dog obedi
 </div>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8 bg-emerald-50 dark:bg-slate-800 border border-emerald-200 dark:border-emerald-900 rounded-lg p-4 shadow">
-    Helping your dog focus and respond reliably even when distractions are present requires engaging their mind and making training highly rewarding. Positive reinforcement games can be incredibly effective for building focus. If you're looking for a program packed with science-based brain games and training techniques designed to improve attention and obedience among distractions, I often suggest the Dog Brain Training Program. It offers creative ways to challenge your dog. You can <a href="https://trainedtails.com/dogtraining" target="_blank"  class="text-emerald-700 dark:text-emerald-300 font-bold hover:underline">explore the Dog Brain Training Program and its focus-building methods here</a>.
+    Helping your dog focus and respond reliably even when distractions are present requires engaging their mind and making training highly rewarding. Positive reinforcement games can be incredibly effective for building focus. If you're looking for a program packed with science-based brain games and training techniques designed to improve attention and obedience among distractions, I often suggest the Dog Brain Training Program. It offers creative ways to challenge your dog. You can <a href="/brain-training-for-dogs" class="text-emerald-700 dark:text-emerald-300 font-bold hover:underline">explore the Dog Brain Training Program and its focus-building methods here</a>.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Final Thoughts: Building Confidence in Chaos</h3>

@@ -151,7 +151,7 @@ tags: ["off-leash dog training", "advanced dog obedience", "reliable recall off-
 </div>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8 bg-emerald-50 dark:bg-slate-800 border border-emerald-200 dark:border-emerald-900 rounded-lg p-4 shadow">
-    Building reliable off-leash skills requires strong focus and a deep understanding between you and your dog. Engaging their mind with advanced training concepts and positive reinforcement is crucial. If you're looking for structured exercises and brain games designed to improve focus, impulse control, and overall obedience – skills vital for off-leash work – a resource i find useful is the Dog Brain Training Program. It offers step-by-step guidance using positive methods. You can <a href="https://trainedtails.com/dogtraining" target="_blank" text-base class="text-emerald-700 dark:text-emerald-300 font-bold hover:underline">explore the Dog Brain Training Program and its techniques here</a>.
+    Building reliable off-leash skills requires strong focus and a deep understanding between you and your dog. Engaging their mind with advanced training concepts and positive reinforcement is crucial. If you're looking for structured exercises and brain games designed to improve focus, impulse control, and overall obedience – skills vital for off-leash work – a resource i find useful is the Dog Brain Training Program. It offers step-by-step guidance using positive methods. You can <a href="/brain-training-for-dogs" text-base class="text-emerald-700 dark:text-emerald-300 font-bold hover:underline">explore the Dog Brain Training Program and its techniques here</a>.
 </p>
 
 <h3 class="text-2xl font-semibold text-slate-800 dark:text-slate-100 mb-6">Maintaining Off-Leash Reliability</h3>

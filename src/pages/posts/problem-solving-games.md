@@ -107,7 +107,7 @@ tags: ["dog problem solving games", "canine enrichment", "dog brain games", "men
         </div>
         <h4 class="text-xl font-semibold text-slate-800 dark:text-slate-100 mb-2">Shaping Games</h4>
         <p class="text-lg text-slate-600 dark:text-slate-300">
-            This involves rewarding your dog for offering small behaviors that gradually lead to a more complex trick or action (like ringing a bell or putting toys away). The dog has to "problem-solve" what you want. It's a core part of <a href="https://trainedtails.com/posts/basic-dog-training" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">basic</a> and <a href="https://trainedtails.com/posts/advanced-dog-commands" target="_blank"  class="text-blue-600 dark:text-blue-400 hover:underline">advanced command training</a>.
+            This involves rewarding your dog for offering small behaviors that gradually lead to a more complex trick or action (like ringing a bell or putting toys away). The dog has to "problem-solve" what you want. It's a core part of <a href="/posts/basic-dog-training" class="text-blue-600 dark:text-blue-400 hover:underline">basic</a> and <a href="/posts/advanced-commands" class="text-blue-600 dark:text-blue-400 hover:underline">advanced command training</a>.
         </p>
     </div>
      <div class="relative pl-8">

@@ -123,7 +123,7 @@ tags: ["dog stop command", "emergency stop dog", "dog freeze command", "advanced
 </div>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8 bg-blue-50 dark:bg-slate-800 border border-blue-200 dark:border-blue-900 rounded-lg p-4 shadow">
-    Teaching safety behaviors is complicated and requires clear connection and effective breaking of the skill down to its components. If you're seeking guidance on positive reinforcement methods that build a reliable 'Stop' behavior, I recommend a dedicated program. One I often suggest zeros in on engaging your dog's brain and using positive techniques. You can <a href="https://trainedtails.com/dogtraining" target="_blank"  class="text-blue-700 dark:text-blue-300 font-bold hover:underline">explore the Dog Brain Training Program and its techniques here</a>.
+    Teaching safety behaviors is complicated and requires clear connection and effective breaking of the skill down to its components. If you're seeking guidance on positive reinforcement methods that build a reliable 'Stop' behavior, I recommend a dedicated program. One I often suggest zeros in on engaging your dog's brain and using positive techniques. You can <a href="/brain-training-for-dogs" class="text-blue-700 dark:text-blue-300 font-bold hover:underline">explore the Dog Brain Training Program and its techniques here</a>.
 </p>
 
 <img src="/assets/images/55.jpg" alt="Placeholder: Owner enthusiastically rewarding a dog that has successfully stopped mid-play near a potential distraction." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />

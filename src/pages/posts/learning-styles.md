@@ -108,7 +108,7 @@ So how do you use this information?
 </div>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8 bg-emerald-50 dark:bg-slate-800 border border-emerald-200 dark:border-emerald-900 rounded-lg p-4 shadow">
-Understanding how your dog learns best is a huge part of efficient, positive training. Engaging their mind based on their style makes learning faster and more fun. If you're looking for a structured program that delves deep into canine cognition and provides step-by-step positive training games designed to work with your dog's brain, a resource I often recommend is the Dog Brain Training Program. It focuses specifically on these mentally engaging techniques. You can <a href="https://trainedtails.com/dogtraining" target="_blank"  class="text-emerald-700 dark:text-emerald-300 font-bold hover:underline">explore the Dog Brain Training Program and its methods here</a>.
+Understanding how your dog learns best is a huge part of efficient, positive training. Engaging their mind based on their style makes learning faster and more fun. If you're looking for a structured program that delves deep into canine cognition and provides step-by-step positive training games designed to work with your dog's brain, a resource I often recommend is the Dog Brain Training Program. It focuses specifically on these mentally engaging techniques. You can <a href="/brain-training-for-dogs" class="text-emerald-700 dark:text-emerald-300 font-bold hover:underline">explore the Dog Brain Training Program and its methods here</a>.
 </p>
 
 <img src="/assets/images/8.jpg" alt="Owner and dog looking happy and connected during a positive training session tailored to the dog's learning style." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />

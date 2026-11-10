@@ -1,5 +1,17 @@
 {
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/posts/advanced-dog-commands",
+      "destination": "/posts/advanced-commands",
+      "permanent": true
+    },
+    {
+      "source": "/dogtraining",
+      "destination": "/brain-training-for-dogs",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",

@@ -121,7 +121,7 @@ tags: ["fade dog treats", "reduce training rewards", "dog training without treat
 </div>
 
 <p class="text-lg text-slate-600 dark:text-slate-300 mb-8 bg-blue-50 dark:bg-slate-800 border border-blue-200 dark:border-blue-900 rounded-lg p-4 shadow">
-    Knowing how dogs learn and effectiveness in applying schedules of reinforcement is what makes it possible to phase out rewards without losing the behavior. If you’d like step-by-step guidance employing positive training concepts to build truly reliable behaviors and strong motivation, a training program can help a lot. A resource that I often recommend, which is particular to challenging your dog’s mind through these positive methods. You can <a href="https://trainedtails.com/dogtraining" target="_blank"  class="text-blue-700 dark:text-blue-300 font-bold hover:underline">explore the Dog Brain Training Program and its techniques here</a>.
+    Knowing how dogs learn and effectiveness in applying schedules of reinforcement is what makes it possible to phase out rewards without losing the behavior. If you’d like step-by-step guidance employing positive training concepts to build truly reliable behaviors and strong motivation, a training program can help a lot. A resource that I often recommend, which is particular to challenging your dog’s mind through these positive methods. You can <a href="/brain-training-for-dogs" class="text-blue-700 dark:text-blue-300 font-bold hover:underline">explore the Dog Brain Training Program and its techniques here</a>.
 </p>
 
 <img src="/assets/images/13.jpg" alt="Placeholder: Dog joyfully playing tug with its owner as a reward after successfully performing a command." class="w-full h-auto rounded-xl my-8 shadow-lg" loading="lazy" />
